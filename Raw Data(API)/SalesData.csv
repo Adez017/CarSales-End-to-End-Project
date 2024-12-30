@@ -1,0 +1,1850 @@
+﻿Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Day,Month,Year,BranchName,DealerName,Product_Name
+BR0001,DLR0001,BMW-M1,13363978,2,DT00001,1,1,2017,AC Cars Motors,AC Cars Motors,BMW
+BR0003,DLR0228,Hon-M218,17376468,3,DT00001,10,5,2017,AC Cars Motors,Deccan Motors,Honda
+BR0004,DLR0208,Tat-M188,9664767,3,DT00002,12,1,2017,AC Cars Motors,Wiesmann Motors,Tata
+BR0005,DLR0188,Hyu-M158,5525304,3,DT00002,16,9,2017,AC Cars Motors,Subaru Motors,Hyundai
+BR0006,DLR0168,Ren-M128,12971088,3,DT00003,20,5,2017,AC Cars Motors,Saab Motors,Renault
+BR0008,DLR0128,Hon-M68,7321228,1,DT00004,28,4,2017,AC Cars Motors,Messerschmitt Motors,Honda
+BR0009,DLR0108,Cad-M38,11379294,2,DT00004,31,12,2017,AC Cars Motors,Lexus Motors,Cadillac
+BR0010,DLR0088,Mer-M8,11611234,2,DT00005,4,9,2017,AC Cars Motors,"IFA (including Trabant, Wartburg, Barkas) Motors",Mercedes-Benz
+BR0011,DLR0002,BMW-M2,19979446,2,DT00005,2,1,2017,Acura Motors,Acura Motors,BMW
+BR0011,DLR0069,Vol-M256,14181510,3,DT00006,9,5,2017,Acura Motors,Geo Motors,Volkswagen
+BR0012,DLR0249,BMW-M249,5358057,1,DT00006,6,9,2017,Acura Motors,Acura Motors,BMW
+BR0013,DLR0229,Hon-M219,16150431,3,DT00007,11,5,2017,Acura Motors,Herald Motors,Honda
+BR0014,DLR0209,Tat-M189,13389350,2,DT00007,13,1,2017,Acura Motors,Zastava Motors,Tata
+BR0015,DLR0189,Hyu-M159,4891618,2,DT00008,17,9,2017,Acura Motors,Sunbeam Motors,Hyundai
+BR0017,DLR0149,Lex-M99,5059144,2,DT00008,25,8,2017,Acura Motors,Panoz Motors,Lexus
+BR0018,DLR0129,Hon-M69,17369466,2,DT00009,29,4,2017,Acura Motors,Mia Motors,Honda
+BR0019,DLR0109,Cad-M39,26969532,3,DT00010,1,1,2017,Acura Motors,Ligier Motors,Cadillac
+BR0020,DLR0089,Dod-M9,4816794,2,DT00011,5,9,2017,Acura Motors,Infiniti Motors,Dodge
+BR0021,DLR0070,Vol-M257,7738896,1,DT00011,10,5,2017,Aixam-Mega (including Arola) Motors,Gilbern Motors,Volkswagen
+BR0024,DLR0210,Tat-M190,11038722,3,DT00012,14,1,2017,Aixam-Mega (including Arola) Motors,ZAZ Motors,Tata
+BR0025,DLR0190,Hyu-M160,6733530,2,DT00012,18,9,2017,Aixam-Mega (including Arola) Motors,Suzuki Motors,Hyundai
+BR0027,DLR0150,Toy-M100,6594996,3,DT00013,26,8,2017,Aixam-Mega (including Arola) Motors,Panther Motors,Toyota
+BR0028,DLR0130,Hon-M70,8355774,3,DT00016,30,4,2017,Aixam-Mega (including Arola) Motors,Micro Motors,Honda
+BR0029,DLR0110,Che-M40,6158643,1,DT00016,2,1,2017,Aixam-Mega (including Arola) Motors,Lincoln Motors,Chevrolet
+BR0031,DLR0004,BMW-M4,18118773,3,DT00017,4,1,2017,Alfa Romeo Motors,Alfa Romeo Motors,BMW
+BR0031,DLR0071,Vol-M258,10067596,2,DT00017,11,5,2017,Alfa Romeo Motors,Ginetta Motors,Volkswagen
+BR0032,DLR0251,MG-M251,8443706,1,DT00018,8,9,2017,Alfa Romeo Motors,Alfa Romeo Motors,MG
+BR0033,DLR0231,For-M221,4590128,1,DT00018,13,5,2017,Alfa Romeo Motors,Atlantic Motor Company,Ford
+BR0035,DLR0191,Hyu-M161,4225644,2,DT00019,19,9,2017,Alfa Romeo Motors,Tata Motors,Hyundai
+BR0037,DLR0151,Toy-M101,7525079,1,DT00020,27,8,2017,Alfa Romeo Motors,Peel Motors,Toyota
+BR0038,DLR0131,Hon-M71,8074050,2,DT00022,1,5,2017,Alfa Romeo Motors,Mini Motors,Honda
+BR0040,DLR0091,Jee-M11,4058632,1,DT00023,7,9,2017,Alfa Romeo Motors,Invicta Motors,Jeep
+BR0041,DLR0005,BMW-M5,12322500,3,DT00023,5,1,2017,Alpine Motors,Alpine Motors,BMW
+BR0041,DLR0072,Vol-M259,13055810,2,DT00024,12,5,2017,Alpine Motors,Glas Motors,Volkswagen
+BR0042,DLR0252,MG-M252,5616461,1,DT00024,9,9,2017,Alpine Motors,Alpine Motors,MG
+BR0043,DLR0232,For-M222,18031408,2,DT00025,14,5,2017,Alpine Motors,2008 NRHP-listed,Ford
+BR0044,DLR0212,Tat-M192,4061400,3,DT00026,16,1,2017,Alpine Motors,,Tata
+BR0045,DLR0192,Hyu-M162,23199300,3,DT00026,20,9,2017,Alpine Motors,Tatra Motors,Hyundai
+BR0047,DLR0152,Toy-M102,3120075,1,DT00027,28,8,2017,Alpine Motors,Perodua Motors,Toyota
+BR0048,DLR0132,Hyu-M72,11630901,3,DT00028,2,5,2017,Alpine Motors,Mitsubishi Motors,Hyundai
+BR0049,DLR0112,Che-M42,28080780,3,DT00028,4,1,2017,Alpine Motors,LTI Motors,Chevrolet
+BR0050,DLR0092,Jee-M12,17231670,3,DT00029,8,9,2017,Alpine Motors,Isdera Motors,Jeep
+BR0051,DLR0006,Mer-M6,1196976,1,DT00030,6,1,2017,Alvis Motors,Alvis Motors,Mercedes-Benz
+BR0051,DLR0073,Vol-M260,2224368,1,DT00031,13,5,2017,Alvis Motors,GMC Motors,Volkswagen
+BR0052,DLR0253,Jee-M253,16890826,2,DT00031,10,9,2017,Alvis Motors,Alvis Motors,Jeep
+BR0053,DLR0233,For-M223,7422324,1,DT00032,15,5,2017,Alvis Motors,Blankinship Motor Company Building,Ford
+BR0054,DLR0213,Tat-M193,5594044,1,DT00032,17,1,2017,Alvis Motors,DKW Motors,Tata
+BR0055,DLR0193,Hyu-M163,309955,1,DT00033,21,9,2017,Alvis Motors,Tazzari Motors,Hyundai
+BR0057,DLR0153,Toy-M103,3735254,2,DT00033,29,8,2017,Alvis Motors,Peugeot Motors,Toyota
+BR0058,DLR0133,Hyu-M73,8736224,1,DT00034,3,5,2017,Alvis Motors,Monica Motors,Hyundai
+BR0059,DLR0113,Che-M43,29476512,3,DT00034,5,1,2017,Alvis Motors,LuAZ Motors,Chevrolet
+BR0060,DLR0093,Jee-M13,2824317,1,DT00035,9,9,2017,Alvis Motors,Iso Motors,Jeep
+BR0061,DLR0007,Mer-M7,28254609,3,DT00035,7,1,2017,"AMC, Eagle Motors","AMC, Eagle Motors",Mercedes-Benz
+BR0061,DLR0074,Nis-M261,11270580,3,DT00036,14,5,2017,"AMC, Eagle Motors",GTA Spano Motors,Nissan
+BR0064,DLR0214,Tat-M194,6429308,1,DT00037,18,1,2017,"AMC, Eagle Motors",Horch Motors,Tata
+BR0065,DLR0194,Hyu-M164,9045495,3,DT00038,22,9,2017,"AMC, Eagle Motors",Tesla Motors,Hyundai
+BR0066,DLR0169,Ren-M129,693559,1,DT00038,21,5,2017,Acura Motors,SAIC Motor Motors,Renault
+BR0067,DLR0154,Toy-M104,26303979,3,DT00039,30,8,2017,"AMC, Eagle Motors",PGO Motors,Toyota
+BR0068,DLR0134,Hyu-M74,5305198,2,DT00039,4,5,2017,"AMC, Eagle Motors",Monteverdi Motors,Hyundai
+BR0069,DLR0114,Che-M44,6723250,1,DT00040,6,1,2017,"AMC, Eagle Motors",Lynx Motors,Chevrolet
+BR0070,DLR0094,Ram-M14,5887052,2,DT00040,10,9,2017,"AMC, Eagle Motors",Isotta Fraschini Motors,Ram
+BR0071,DLR0008,Mer-M8,6083151,1,DT00042,8,1,2017,Anadol Motors,Anadol Motors,Mercedes-Benz
+BR0071,DLR0075,Nis-M262,18784710,3,DT00042,15,5,2017,Anadol Motors,Gumpert Motors,Nissan
+BR0072,DLR0255,Vol-M255,5289426,2,DT00043,12,9,2017,Anadol Motors,Anadol Motors,Volkswagen
+BR0073,DLR0235,For-M225,4014205,1,DT00044,17,5,2017,Anadol Motors,Buick Automobile Company Building,Ford
+BR0074,DLR0215,Toy-M195,3163004,2,DT00045,19,1,2017,Anadol Motors,Wanderer Motors,Toyota
+BR0075,DLR0195,Mah-M165,21878175,3,DT00046,23,9,2017,Anadol Motors,Tornado Motors,Mahindra
+BR0077,DLR0155,Toy-M105,9867107,1,DT00046,31,8,2017,Anadol Motors,Piaggio Motors,Toyota
+BR0078,DLR0135,Hyu-M75,4583883,3,DT00047,5,5,2017,Anadol Motors,Morgan Motors,Hyundai
+BR0080,DLR0095,Ram-M15,14383990,2,DT00048,11,9,2017,Anadol Motors,Isuzu Motors,Ram
+BR0081,DLR0009,Dod-M9,24665256,3,DT00048,9,1,2017,Ariel Motors,Ariel Motors,Dodge
+BR0081,DLR0076,Nis-M263,2354637,3,DT00049,16,5,2017,Ariel Motors,Healey Motors,Nissan
+BR0082,DLR0256,Vol-M256,2563134,3,DT00049,13,9,2017,Ariel Motors,Ariel Motors,Volkswagen
+BR0083,DLR0236,For-M226,5756780,1,DT00050,18,5,2017,Ariel Motors,Cadillac Automobile Company Building,Ford
+BR0084,DLR0216,Toy-M196,4317585,1,DT00050,20,1,2017,Ariel Motors,Maybach  Motors,Toyota
+BR0085,DLR0196,Mah-M166,11402294,2,DT00051,24,9,2017,Ariel Motors,Toyota Motors,Mahindra
+BR0087,DLR0156,Toy-M106,17859966,3,DT00051,1,9,2017,Ariel Motors,Plymouth Motors,Toyota
+BR0089,DLR0116,Che-M46,25901943,3,DT00052,8,1,2017,Ariel Motors,Marcos Motors,Chevrolet
+BR0090,DLR0096,For-M16,299478,1,DT00053,12,9,2017,Ariel Motors,Iveco Motors,Ford
+BR0092,DLR0257,Vol-M257,11502266,2,DT00054,14,9,2017,ARO Motors,ARO Motors,Volkswagen
+BR0094,DLR0217,Toy-M197,4961142,3,DT00054,21,1,2017,ARO Motors,Izh  Motors,Toyota
+BR0095,DLR0197,Mah-M167,6061880,1,DT00055,25,9,2017,ARO Motors,Toyota India Motors,Mahindra
+BR0098,DLR0137,Kia-M77,18863226,3,DT00056,7,5,2017,ARO Motors,Nash Motors,Kia
+BR0101,DLR0011,Jee-M11,8534145,3,DT00056,11,1,2017,Artega Motors,Artega Motors,Jeep
+BR0102,DLR0258,Vol-M258,12618398,2,DT00057,15,9,2017,Artega Motors,,Volkswagen
+BR0103,DLR0238,Aud-M228,22293669,3,DT00057,20,5,2017,Artega Motors,Cass Motor Sales,Audi
+BR0104,DLR0218,Toy-M198,1994377,1,DT00058,22,1,2017,Artega Motors,Lagonda  Motors,Toyota
+BR0108,DLR0138,Kia-M78,11722286,2,DT00059,8,5,2017,Artega Motors,Naza Motors,Kia
+BR0111,DLR0012,Jee-M12,24760575,3,DT00060,12,1,2017,Asia Motors Motors,Asia Motors Motors,Jeep
+BR0112,DLR0259,Vol-M259,10732148,2,DT00060,16,9,2017,Asia Motors Motors,Asia Motors Motors,Volkswagen
+BR0114,DLR0219,Toy-M199,7666706,1,DT00061,23,1,2017,Asia Motors Motors,MG  Motors,Toyota
+BR0115,DLR0199,Mah-M169,675100,2,DT00062,27,9,2017,Asia Motors Motors,TVR Motors,Mahindra
+BR0117,DLR0159,Vol-M109,2968140,3,DT00062,4,9,2017,Asia Motors Motors,Porsche Motors,Volkswagen
+BR0118,DLR0139,Inf-M79,8885904,3,DT00063,9,5,2017,Asia Motors Motors,Nissan Motors,Infiniti
+BR0119,DLR0119,Che-M49,21885834,3,DT00063,11,1,2017,Asia Motors Motors,Maserati Motors,Chevrolet
+BR0120,DLR0099,For-M19,8169852,1,DT00064,15,9,2017,Asia Motors Motors,Jensen Motors,Ford
+BR0121,DLR0013,Jee-M13,3450696,1,DT00065,13,1,2017,Aston Martin Motors,Aston Martin Motors,Jeep
+BR0121,DLR0080,Nis-M267,5421046,2,DT00065,20,5,2017,Aston Martin Motors,Hindustan Motors,Nissan
+BR0122,DLR0260,Vol-M260,10113618,3,DT00066,17,9,2017,Aston Martin Motors,Aston Martin Motors,Volkswagen
+BR0123,DLR0240,Aud-M230,3382344,2,DT00066,22,5,2017,Aston Martin Motors,Clemens Automobile Company Building,Audi
+BR0125,DLR0200,Mah-M170,21087120,3,DT00067,28,9,2017,Aston Martin Motors,UAZ Motors,Mahindra
+BR0126,DLR0170,Ren-M130,8445560,2,DT00067,22,5,2017,Aixam-Mega (including Arola) Motors,Saleen Motors,Renault
+BR0127,DLR0160,Vol-M110,20375646,3,DT00068,5,9,2017,Aston Martin Motors,Premier Motors,Volvo
+BR0128,DLR0140,Nis-M80,5608551,3,DT00069,10,5,2017,Aston Martin Motors,Nissan India Motors,Nissan
+BR0129,DLR0120,Che-M50,15086781,3,DT00069,12,1,2017,Aston Martin Motors,Mastretta Motors,Chevrolet
+BR0130,DLR0100,For-M20,3852248,1,DT00070,16,9,2017,Aston Martin Motors,JPX Motors,Ford
+BR0131,DLR0081,Nis-M268,28034733,3,DT00071,21,5,2017,Audi Motors,Holden Motors,Nissan
+BR0135,DLR0201,Mah-M171,6932140,1,DT00071,29,9,2017,Audi Motors,Vauxhall Motors,Mahindra
+BR0138,DLR0141,Nis-M81,2279715,3,DT00072,11,5,2017,Audi Motors,Noble Motors,Nissan
+BR0139,DLR0121,Che-M51,15082984,2,DT00072,13,1,2017,Audi Motors,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Chevrolet
+BR0140,DLR0101,For-M21,1614954,3,DT00073,17,9,2017,Audi Motors,Kia Motors,Ford
+BR0141,DLR0082,Nis-M269,17522592,2,DT00073,22,5,2017,Autobianchi Motors,Honda Motors,Nissan
+BR0143,DLR0242,Aud-M232,15425984,2,DT00074,24,5,2017,Autobianchi Motors,H Street Playhouse,Audi
+BR0144,DLR0222,Toy-M202,6200183,1,DT00074,26,1,2017,Autobianchi Motors,Riley  Motors,Toyota
+BR0145,DLR0202,Mah-M172,9216580,2,DT00075,30,9,2017,Autobianchi Motors,Venturi Motors,Mahindra
+BR0151,DLR0016,For-M16,20974905,3,DT00076,16,1,2017,Auto-Union Motors,Auto-Union Motors,Ford
+BR0151,DLR0083,Nis-M270,25901364,3,DT00076,23,5,2017,Auto-Union Motors,Honda India Motors,Nissan
+BR0152,DLR0263,Nis-M263,13123846,2,DT00078,20,9,2017,Auto-Union Motors,Auto-Union Motors,Nissan
+BR0153,DLR0243,Aud-M233,7178971,1,DT00078,25,5,2017,Auto-Union Motors,Howard Motor Company Building,Audi
+BR0154,DLR0223,Toy-M203,10761116,2,DT00079,27,1,2017,Auto-Union Motors,Wolseley  Motors,Toyota
+BR0158,DLR0143,Nis-M83,13220313,3,DT00079,13,5,2017,Auto-Union Motors,Oldsmobile Motors,Nissan
+BR0159,DLR0123,GMC-M53,2964017,1,DT00080,15,1,2017,Auto-Union Motors,Mazzanti Motors,GMC
+BR0160,DLR0103,For-M23,19987149,3,DT00080,19,9,2017,Auto-Union Motors,KTM Motors,Ford
+BR0161,DLR0017,For-M17,2221530,1,DT00081,17,1,2017,Auverland Motors,Auverland Motors,Ford
+BR0163,DLR0244,Aud-M234,3751186,1,DT00082,26,5,2017,Auverland Motors,Hupmobile Building,Audi
+BR0164,DLR0224,Toy-M204,4376587,1,DT00082,28,1,2017,Auverland Motors,Standard  Motors,Toyota
+BR0165,DLR0204,Mah-M174,281016,2,DT00083,2,10,2017,Auverland Motors,Volkswagen do Brasil Motors,Mahindra
+BR0168,DLR0144,Nis-M84,19669918,2,DT00084,14,5,2017,Auverland Motors,,Nissan
+BR0169,DLR0124,GMC-M54,25546332,3,DT00085,16,1,2017,Auverland Motors,McLaren Motors,GMC
+BR0170,DLR0104,For-M24,288894,1,DT00086,20,9,2017,Auverland Motors,Lada Motors,Ford
+BR0171,DLR0018,For-M18,11329482,3,DT00086,18,1,2017,Bentley Motors,Bentley Motors,Ford
+BR0172,DLR0265,Nis-M265,18898203,3,DT00087,22,9,2017,Bentley Motors,Bentley Motors,Nissan
+BR0173,DLR0245,Aud-M235,8140664,2,DT00087,27,5,2017,Bentley Motors,Jennings Ford Automobile Dealership,Audi
+BR0175,DLR0205,Mah-M175,12526704,2,DT00088,3,10,2017,Bentley Motors,Volkswagen South Africa Motors,Mahindra
+BR0179,DLR0125,GMC-M55,9626946,1,DT00088,17,1,2017,Bentley Motors,Mercedes-Benz (including Maybach) Motors,GMC
+BR0180,DLR0105,For-M25,8308755,3,DT00089,21,9,2017,Bentley Motors,Lamborghini Motors,Ford
+BR0181,DLR0019,For-M19,7053423,3,DT00089,19,1,2017,Bitter Motors,Bitter Motors,Ford
+BR0181,DLR0086,Sko-M273,7915343,1,DT00090,26,5,2017,Bitter Motors,Hummer Motors,Skoda
+BR0182,DLR0266,Nis-M266,5868139,1,DT00090,23,9,2017,Bitter Motors,Bitter Motors,Nissan
+BR0183,DLR0246,Aud-M236,340182,2,DT00091,28,5,2017,Bitter Motors,Jones Motor Company,Audi
+BR0185,DLR0206,Mah-M176,2861778,2,DT00091,4,10,2017,Bitter Motors,Volvo Motors,Mahindra
+BR0186,DLR0171,Ren-M131,7078128,1,DT00092,23,5,2017,Alfa Romeo Motors,Samsung Motors,Renault
+BR0188,DLR0146,Nis-M86,4681233,1,DT00092,16,5,2017,Bitter Motors,Packard Motors,Nissan
+BR0189,DLR0126,GMC-M56,9127452,3,DT00093,18,1,2017,Bitter Motors,Mercury Motors,GMC
+BR0191,DLR0020,For-M20,28232232,3,DT00093,20,1,2017,BMW Motors,BMW Motors,Ford
+BR0191,DLR0087,Sko-M274,24183663,3,DT00094,27,5,2017,BMW Motors,Hyundai Motors,Skoda
+BR0192,DLR0267,Nis-M267,4579461,3,DT00094,24,9,2017,BMW Motors,BMW Motors,Nissan
+BR0193,DLR0247,Aud-M237,11559954,3,DT00095,29,5,2017,BMW Motors,Kindel Building,Audi
+BR0194,DLR0227,Ren-M207,6535383,3,DT00095,31,1,2017,BMW Motors,Ramani Motors,Renault
+BR0195,DLR0207,Mah-M177,4392538,2,DT00096,5,10,2017,BMW Motors,Westfield Motors,Mahindra
+BR0197,DLR0167,Fia-M117,725867,1,DT00097,12,9,2017,BMW Motors,Rolls-Royce Motors,Fiat
+BR0198,DLR0147,Nis-M87,2827664,2,DT00097,17,5,2017,BMW Motors,Pagani Motors,Nissan
+BR0199,DLR0127,GMC-M57,9689140,1,DT00098,19,1,2017,BMW Motors,Merkur Motors,GMC
+BR0200,DLR0107,Lin-M27,16533070,2,DT00098,23,9,2017,BMW Motors,Land Rover Motors,Lincoln
+BR0201,DLR0088,Mit-M275,847952,2,DT00099,28,5,2017,Bond Motors,"IFA (including Trabant, Wartburg, Barkas) Motors",Mitsubishi
+BR0202,DLR0001,Nis-M268,12224250,2,DT00099,25,9,2017,Bond Motors,AC Cars Motors,Nissan
+BR0203,DLR0248,Aud-M238,8711628,3,DT00101,30,5,2017,Bond Motors,AC Cars Motors,Audi
+BR0204,DLR0228,Ren-M208,20604021,3,DT00102,1,2,2017,Bond Motors,Deccan Motors,Renault
+BR0205,DLR0208,Mah-M178,22278675,3,DT00103,6,10,2017,Bond Motors,Wiesmann Motors,Mahindra
+BR0208,DLR0148,Nis-M88,8383410,1,DT00103,18,5,2017,Bond Motors,Panhard Motors,Nissan
+BR0211,DLR0022,For-M22,5440414,1,DT00105,22,1,2017,Borgward (including Goliath and Lloyd) Motors,Borgward (including Goliath and Lloyd) Motors,Ford
+BR0211,DLR0089,Mit-M276,2887860,1,DT00105,29,5,2017,Borgward (including Goliath and Lloyd) Motors,Infiniti Motors,Mitsubishi
+BR0212,DLR0002,Nis-M269,9621332,2,DT00106,26,9,2017,Borgward (including Goliath and Lloyd) Motors,Acura Motors,Nissan
+BR0213,DLR0249,Aud-M239,9894833,1,DT00106,31,5,2017,Borgward (including Goliath and Lloyd) Motors,Acura Motors,Audi
+BR0214,DLR0229,Ren-M209,7758912,1,DT00107,2,2,2017,Borgward (including Goliath and Lloyd) Motors,Herald Motors,Renault
+BR0215,DLR0209,Tat-M179,11540160,2,DT00108,7,10,2017,Borgward (including Goliath and Lloyd) Motors,Zastava Motors,Tata
+BR0217,DLR0169,For-M119,10376068,2,DT00108,14,9,2017,Borgward (including Goliath and Lloyd) Motors,SAIC Motor Motors,Ford
+BR0218,DLR0149,Nis-M89,10046163,3,DT00110,19,5,2017,Borgward (including Goliath and Lloyd) Motors,Panoz Motors,Nissan
+BR0219,DLR0129,Acu-M59,9612233,1,DT00111,21,1,2017,Borgward (including Goliath and Lloyd) Motors,Mia Motors,Acura
+BR0220,DLR0109,Lin-M29,4380192,2,DT00111,25,9,2017,Borgward (including Goliath and Lloyd) Motors,Ligier Motors,Lincoln
+BR0221,DLR0023,For-M23,4988693,1,DT00112,23,1,2017,Bristol Motors,Bristol Motors,Ford
+BR0221,DLR0090,Mit-M277,24243636,3,DT00112,30,5,2017,Bristol Motors,,Mitsubishi
+BR0222,DLR0003,Nis-M270,15758858,2,DT00113,27,9,2017,Bristol Motors,Aixam-Mega (including Arola) Motors,Nissan
+BR0223,DLR0250,Aud-M240,4437937,1,DT00113,1,6,2017,Bristol Motors,Aixam-Mega (including Arola) Motors,Audi
+BR0224,DLR0230,Ren-M210,12531735,3,DT00114,3,2,2017,Bristol Motors,Zion Automobils,Renault
+BR0225,DLR0210,Tat-M180,17781882,3,DT00115,8,10,2017,Bristol Motors,ZAZ Motors,Tata
+BR0227,DLR0170,Hon-M120,18432684,2,DT00116,15,9,2017,Bristol Motors,Saleen Motors,Honda
+BR0228,DLR0150,Riv-M90,7783188,2,DT00117,20,5,2017,Bristol Motors,Panther Motors,Rivian
+BR0229,DLR0130,Acu-M60,27840693,3,DT00118,22,1,2017,Bristol Motors,Micro Motors,Acura
+BR0230,DLR0110,Lin-M30,27170463,3,DT00118,26,9,2017,Bristol Motors,Lincoln Motors,Lincoln
+BR0231,DLR0024,For-M24,7900452,1,DT00119,24,1,2017,British Leyland Motors,British Leyland Motors,Ford
+BR0232,DLR0004,Sko-M271,889446,3,DT00119,28,9,2017,British Leyland Motors,Alfa Romeo Motors,Skoda
+BR0234,DLR0231,Ren-M211,29018226,3,DT00120,4,2,2017,British Leyland Motors,Atlantic Motor Company,Renault
+BR0235,DLR0211,Tat-M181,19005264,2,DT00121,9,10,2017,British Leyland Motors,ZIL Motors,Tata
+BR0237,DLR0171,Mer-M121,1862934,2,DT00122,16,9,2017,British Leyland Motors,Samsung Motors,Mercedes-Benz
+BR0239,DLR0131,Acu-M61,7440984,1,DT00123,23,1,2017,British Leyland Motors,Mini Motors,Acura
+BR0240,DLR0111,Bui-M31,6945984,3,DT00124,27,9,2017,British Leyland Motors,Lotus Motors,Buick
+BR0243,DLR0252,BMW-M242,9296322,3,DT00124,3,6,2017,Austin-Healey Motors,Alpine Motors,BMW
+BR0247,DLR0172,Mer-M122,29679627,3,DT00125,17,9,2017,Austin-Healey Motors,San Motors,Mercedes-Benz
+BR0249,DLR0132,Acu-M62,6718044,3,DT00126,24,1,2017,Austin-Healey Motors,Mitsubishi Motors,Acura
+BR0251,DLR0026,For-M26,6866014,2,DT00126,26,1,2017,"Austin, Rover Motors","Austin, Rover Motors",Ford
+BR0252,DLR0006,Sko-M273,4256874,2,DT00127,30,9,2017,"Austin, Rover Motors",Alvis Motors,Skoda
+BR0253,DLR0253,BMW-M243,6905276,2,DT00127,4,6,2017,"Austin, Rover Motors",Alvis Motors,BMW
+BR0254,DLR0233,Kia-M213,13383333,3,DT00129,6,2,2017,"Austin, Rover Motors",Blankinship Motor Company Building,Kia
+BR0255,DLR0213,Tat-M183,7421974,1,DT00130,11,10,2017,"Austin, Rover Motors",DKW Motors,Tata
+BR0260,DLR0113,Cad-M33,9343340,1,DT00130,29,9,2017,"Austin, Rover Motors",LuAZ Motors,Cadillac
+BR0262,DLR0007,Sko-M274,2574816,2,DT00131,1,10,2017,Bugatti Motors,"AMC, Eagle Motors",Skoda
+BR0264,DLR0234,Kia-M214,6457305,1,DT00132,7,2,2017,Bugatti Motors,Bohn Motor Company Automobile Dealership,Kia
+BR0265,DLR0214,Tat-M184,1879880,2,DT00133,12,10,2017,Bugatti Motors,Horch Motors,Tata
+BR0267,DLR0174,Peu-M124,5701857,3,DT00133,19,9,2017,Bugatti Motors,Santana Motors,Peugeot
+BR0268,DLR0154,Sub-M94,8615017,1,DT00134,24,5,2017,Bugatti Motors,PGO Motors,Subaru
+BR0269,DLR0134,Hon-M64,5905112,2,DT00135,26,1,2017,Bugatti Motors,Monteverdi Motors,Honda
+BR0270,DLR0114,Cad-M34,6196108,1,DT00136,30,9,2017,Bugatti Motors,Lynx Motors,Cadillac
+BR0271,DLR0028,Lin-M28,6197509,1,DT00136,28,1,2017,Buick Motors,Buick Motors,Lincoln
+BR0272,DLR0008,Mit-M275,9190640,1,DT00137,2,10,2017,Buick Motors,Anadol Motors,Mitsubishi
+BR0274,DLR0235,Hon-M215,376922,2,DT00138,8,2,2017,Buick Motors,Buick Automobile Company Building,Honda
+BR0275,DLR0215,Tat-M185,14143208,2,DT00138,13,10,2017,Buick Motors,Wanderer Motors,Tata
+BR0277,DLR0175,Peu-M125,6271023,3,DT00140,20,9,2017,Buick Motors,Saturn Motors,Peugeot
+BR0278,DLR0155,Sub-M95,8648235,3,DT00140,25,5,2017,Buick Motors,Piaggio Motors,Subaru
+BR0279,DLR0135,Hon-M65,16914626,2,DT00141,27,1,2017,Buick Motors,Morgan Motors,Honda
+BR0280,DLR0115,Cad-M35,4403793,1,DT00141,1,10,2017,Buick Motors,Mahindra Motors,Cadillac
+BR0283,DLR0256,BMW-M246,572727,1,DT00142,7,6,2017,Bytom Motors,Ariel Motors,BMW
+BR0285,DLR0216,Tat-M186,7802484,1,DT00142,14,10,2017,Bytom Motors,Maybach  Motors,Tata
+BR0290,DLR0116,Cad-M36,14184207,3,DT00143,2,10,2017,Bytom Motors,Marcos Motors,Cadillac
+BR0291,DLR0030,Lin-M30,16295156,2,DT00143,30,1,2017,Cadillac Motors,Cadillac Motors,Lincoln
+BR0293,DLR0257,BMW-M247,8268754,1,DT00144,8,6,2017,Cadillac Motors,ARO Motors,BMW
+BR0294,DLR0237,Hon-M217,14099240,2,DT00144,10,2,2017,Cadillac Motors,Casa de cadillac,Honda
+BR0295,DLR0217,Tat-M187,7235826,3,DT00146,15,10,2017,Cadillac Motors,Izh  Motors,Tata
+BR0297,DLR0177,Ren-M127,2855670,3,DT00146,22,9,2017,Cadillac Motors,Seat Motors,Renault
+BR0298,DLR0157,Tes-M97,7398132,2,DT00147,27,5,2017,Cadillac Motors,Polestar Motors,Tesla
+BR0299,DLR0137,Hon-M67,4836812,2,DT00147,29,1,2017,Cadillac Motors,Nash Motors,Honda
+BR0300,DLR0117,Cad-M37,7963904,1,DT00148,3,10,2017,Cadillac Motors,Marlin Motors,Cadillac
+BR0301,DLR0031,Bui-M31,6873658,1,DT00148,31,1,2017,Caterham Motors,Caterham Motors,Buick
+BR0302,DLR0011,BMW-M1,4701994,2,DT00150,5,10,2017,Caterham Motors,Artega Motors,BMW
+BR0303,DLR0258,BMW-M248,25066332,3,DT00150,9,6,2017,Caterham Motors,,BMW
+BR0304,DLR0238,Hon-M218,8881946,2,DT00151,11,2,2017,Caterham Motors,Cass Motor Sales,Honda
+BR0305,DLR0218,Tat-M188,17758347,3,DT00152,16,10,2017,Caterham Motors,Lagonda  Motors,Tata
+BR0306,DLR0173,Toy-M133,12612492,3,DT00153,25,5,2017,Alvis Motors,Santa Matilde Motors,Toyota
+BR0308,DLR0158,Tes-M98,18183694,2,DT00154,28,5,2017,Caterham Motors,"Pontiac, Asüna Motors",Tesla
+BR0309,DLR0138,Hon-M68,27140604,3,DT00155,30,1,2017,Caterham Motors,Naza Motors,Honda
+BR0310,DLR0118,Cad-M38,1669181,1,DT00156,4,10,2017,Caterham Motors,Maruti Motors,Cadillac
+BR0311,DLR0032,Cad-M32,5221738,1,DT00157,1,2,2017,Checker Motors,Checker Motors,Cadillac
+BR0313,DLR0259,BMW-M249,11080864,2,DT00157,10,6,2017,Checker Motors,Asia Motors Motors,BMW
+BR0315,DLR0219,Tat-M189,1458843,3,DT00158,17,10,2017,Checker Motors,MG  Motors,Tata
+BR0317,DLR0179,Ren-M129,7980454,2,DT00158,24,9,2017,Checker Motors,Simca Motors,Renault
+BR0318,DLR0159,Lex-M99,14293562,2,DT00159,29,5,2017,Checker Motors,Porsche Motors,Lexus
+BR0321,DLR0033,Cad-M33,3001169,1,DT00161,2,2,2017,Chevrolet Motors,Chevrolet Motors,Cadillac
+BR0322,DLR0013,BMW-M3,4423641,1,DT00161,7,10,2017,Chevrolet Motors,Aston Martin Motors,BMW
+BR0323,DLR0260,BMW-M250,7840152,2,DT00162,11,6,2017,Chevrolet Motors,Aston Martin Motors,BMW
+BR0324,DLR0240,Hon-M220,14323572,3,DT00162,13,2,2017,Chevrolet Motors,Clemens Automobile Company Building,Honda
+BR0328,DLR0160,Toy-M100,19030767,3,DT00163,30,5,2017,Chevrolet Motors,Premier Motors,Toyota
+BR0329,DLR0140,Hon-M70,5047944,2,DT00163,1,2,2017,Chevrolet Motors,Nissan India Motors,Honda
+BR0331,DLR0034,Cad-M34,19425790,2,DT00164,3,2,2017,Chevrolet India Motors,Chevrolet India Motors,Cadillac
+BR0332,DLR0014,BMW-M4,19779771,3,DT00164,8,10,2017,Chevrolet India Motors,Audi Motors,BMW
+BR0333,DLR0261,MG-M251,21458625,3,DT00165,12,6,2017,Chevrolet India Motors,Audi Motors,MG
+BR0334,DLR0241,For-M221,9655398,2,DT00165,14,2,2017,Chevrolet India Motors,Colman Automotive Building,Ford
+BR0337,DLR0181,Ren-M131,13498826,2,DT00166,26,9,2017,Chevrolet India Motors,Singer Motors,Renault
+BR0338,DLR0161,Toy-M101,2102115,1,DT00166,31,5,2017,Chevrolet India Motors,Proton Motors,Toyota
+BR0339,DLR0141,Hon-M71,23298537,3,DT00167,2,2,2017,Chevrolet India Motors,Noble Motors,Honda
+BR0341,DLR0035,Cad-M35,15268707,3,DT00167,4,2,2017,Chrysler Motors,Chrysler Motors,Cadillac
+BR0342,DLR0015,BMW-M5,23878338,3,DT00168,9,10,2017,Chrysler Motors,Autobianchi Motors,BMW
+BR0344,DLR0242,For-M222,5683188,1,DT00168,15,2,2017,Chrysler Motors,H Street Playhouse,Ford
+BR0347,DLR0182,Ren-M132,809825,1,DT00169,27,9,2017,Chrysler Motors,Skoda Motors,Renault
+BR0349,DLR0142,Hyu-M72,7857724,1,DT00169,3,2,2017,Chrysler Motors,NSU Motors,Hyundai
+BR0350,DLR0122,Che-M42,15858531,3,DT00170,8,10,2017,Chrysler Motors,Mazda Motors,Chevrolet
+BR0351,DLR0036,Cad-M36,19737520,2,DT00171,5,2,2017,Chrysler Europe Motors,Chrysler Europe Motors,Cadillac
+BR0352,DLR0016,Mer-M6,25485213,3,DT00172,10,10,2017,Chrysler Europe Motors,Auto-Union Motors,Mercedes-Benz
+BR0353,DLR0263,Jee-M253,1977151,1,DT00172,14,6,2017,Chrysler Europe Motors,Auto-Union Motors,Jeep
+BR0354,DLR0243,For-M223,494316,3,DT00173,16,2,2017,Chrysler Europe Motors,Howard Motor Company Building,Ford
+BR0357,DLR0183,Toy-M133,2136798,2,DT00174,28,9,2017,Chrysler Europe Motors,Smart Motors,Toyota
+BR0359,DLR0143,Hyu-M73,7206187,1,DT00174,4,2,2017,Chrysler Europe Motors,Oldsmobile Motors,Hyundai
+BR0360,DLR0123,Che-M43,3927363,3,DT00175,9,10,2017,Chrysler Europe Motors,Mazzanti Motors,Chevrolet
+BR0362,DLR0017,Mer-M7,3472263,3,DT00176,11,10,2017,Citroën Motors,Auverland Motors,Mercedes-Benz
+BR0363,DLR0264,Jee-M254,22828896,3,DT00177,15,6,2017,Citroën Motors,Auverland Motors,Jeep
+BR0364,DLR0244,For-M224,5601846,2,DT00177,17,2,2017,Citroën Motors,Hupmobile Building,Ford
+BR0367,DLR0184,Toy-M134,16953594,2,DT00178,29,9,2017,Citroën Motors,Spyker Motors,Toyota
+BR0368,DLR0164,Toy-M104,3153932,2,DT00179,3,6,2017,Citroën Motors,Reliant Motors,Toyota
+BR0369,DLR0144,Hyu-M74,10504860,2,DT00180,5,2,2017,Citroën Motors,,Hyundai
+BR0371,DLR0038,Cad-M38,7654362,2,DT00181,7,2,2017,Cizeta-Moroder Motors,Cizeta-Moroder Motors,Cadillac
+BR0372,DLR0018,Mer-M8,6440358,2,DT00182,12,10,2017,Cizeta-Moroder Motors,Bentley Motors,Mercedes-Benz
+BR0375,DLR0225,Toy-M195,17942361,3,DT00182,23,10,2017,Cizeta-Moroder Motors,Talbot  Motors,Toyota
+BR0378,DLR0165,Toy-M105,13772301,3,DT00183,4,6,2017,Cizeta-Moroder Motors,Renault Motors,Toyota
+BR0379,DLR0145,Hyu-M75,8312583,1,DT00183,6,2,2017,Cizeta-Moroder Motors,Opel Motors,Hyundai
+BR0380,DLR0125,Che-M45,5923920,3,DT00184,11,10,2017,Cizeta-Moroder Motors,Mercedes-Benz (including Maybach) Motors,Chevrolet
+BR0381,DLR0039,Cad-M39,4722916,2,DT00184,8,2,2017,Dacia Motors,Dacia Motors,Cadillac
+BR0382,DLR0019,Dod-M9,15922974,2,DT00185,13,10,2017,Dacia Motors,Bitter Motors,Dodge
+BR0383,DLR0266,Vol-M256,19070698,2,DT00186,17,6,2017,Dacia Motors,Bitter Motors,Volkswagen
+BR0384,DLR0246,For-M226,7885366,2,DT00187,19,2,2017,Dacia Motors,Jones Motor Company,Ford
+BR0385,DLR0226,Toy-M196,4149040,2,DT00188,24,10,2017,Dacia Motors,Das Motors,Toyota
+BR0387,DLR0186,Vol-M136,8465856,1,DT00188,1,10,2017,Dacia Motors,Standard-Triumph Motors,Volkswagen
+BR0388,DLR0166,Toy-M106,12776376,2,DT00189,5,6,2017,Dacia Motors,Rivian Motors,Toyota
+BR0391,DLR0040,Che-M40,28009680,3,DT00191,9,2,2017,"Daewoo, Saehan, Chevrolet Korea Motors","Daewoo, Saehan, Chevrolet Korea Motors",Chevrolet
+BR0392,DLR0020,Jee-M10,9031813,1,DT00191,14,10,2017,"Daewoo, Saehan, Chevrolet Korea Motors",BMW Motors,Jeep
+BR0393,DLR0267,Vol-M257,11635732,2,DT00192,18,6,2017,"Daewoo, Saehan, Chevrolet Korea Motors",BMW Motors,Volkswagen
+BR0395,DLR0227,Toy-M197,7719978,2,DT00192,25,10,2017,"Daewoo, Saehan, Chevrolet Korea Motors",Ramani Motors,Toyota
+BR0397,DLR0187,Mar-M137,6771021,3,DT00193,2,10,2017,"Daewoo, Saehan, Chevrolet Korea Motors",Studebaker Motors,Maruti Suzuki
+BR0399,DLR0147,Kia-M77,29480649,3,DT00194,8,2,2017,"Daewoo, Saehan, Chevrolet Korea Motors",Pagani Motors,Kia
+BR0400,DLR0127,Che-M47,3396933,1,DT00194,13,10,2017,"Daewoo, Saehan, Chevrolet Korea Motors",Merkur Motors,Chevrolet
+BR0402,DLR0021,Jee-M11,8830740,3,DT00195,15,10,2017,DAF Motors,Bond Motors,Jeep
+BR0403,DLR0001,Vol-M258,7989019,1,DT00195,19,6,2017,DAF Motors,AC Cars Motors,Volkswagen
+BR0404,DLR0248,Aud-M228,9113729,1,DT00196,21,2,2017,DAF Motors,AC Cars Motors,Audi
+BR0405,DLR0228,Toy-M198,18507800,2,DT00197,26,10,2017,DAF Motors,Deccan Motors,Toyota
+BR0407,DLR0188,Mar-M138,18944259,3,DT00198,3,10,2017,DAF Motors,Subaru Motors,Maruti Suzuki
+BR0408,DLR0168,Vol-M108,25448304,3,DT00199,7,6,2017,DAF Motors,Saab Motors,Volkswagen
+BR0409,DLR0148,Kia-M78,11579523,3,DT00200,9,2,2017,DAF Motors,Panhard Motors,Kia
+BR0410,DLR0128,Che-M48,13471854,3,DT00200,14,10,2017,DAF Motors,Messerschmitt Motors,Chevrolet
+BR0411,DLR0042,Che-M42,18106066,2,DT00202,11,2,2017,Daihatsu Motors,Daihatsu Motors,Chevrolet
+BR0412,DLR0022,Jee-M12,22875579,3,DT00202,16,10,2017,Daihatsu Motors,Borgward (including Goliath and Lloyd) Motors,Jeep
+BR0413,DLR0002,Vol-M259,8281269,3,DT00203,20,6,2017,Daihatsu Motors,Acura Motors,Volkswagen
+BR0414,DLR0249,Aud-M229,10410296,2,DT00204,22,2,2017,Daihatsu Motors,Acura Motors,Audi
+BR0415,DLR0229,Toy-M199,8305590,3,DT00204,27,10,2017,Daihatsu Motors,Herald Motors,Toyota
+BR0417,DLR0189,Mar-M139,4192176,1,DT00205,4,10,2017,Daihatsu Motors,Sunbeam Motors,Maruti Suzuki
+BR0418,DLR0169,Vol-M109,5443287,1,DT00205,8,6,2017,Daihatsu Motors,SAIC Motor Motors,Volkswagen
+BR0419,DLR0149,Inf-M79,16232652,3,DT00206,10,2,2017,Daihatsu Motors,Panoz Motors,Infiniti
+BR0420,DLR0129,Che-M49,13134435,3,DT00207,15,10,2017,Daihatsu Motors,Mia Motors,Chevrolet
+BR0422,DLR0023,Jee-M13,3488930,1,DT00207,17,10,2017,Daimler Motors,Bristol Motors,Jeep
+BR0423,DLR0003,Vol-M260,1408708,1,DT00208,21,6,2017,Daimler Motors,Aixam-Mega (including Arola) Motors,Volkswagen
+BR0424,DLR0250,Aud-M230,17499968,2,DT00210,23,2,2017,Daimler Motors,Aixam-Mega (including Arola) Motors,Audi
+BR0426,DLR0175,Vol-M135,7718804,1,DT00210,27,5,2017,Anadol Motors,Saturn Motors,Volkswagen
+BR0427,DLR0190,Mar-M140,9894550,1,DT00211,5,10,2017,Daimler Motors,Suzuki Motors,Maruti Suzuki
+BR0429,DLR0150,Nis-M80,2767600,2,DT00211,11,2,2017,Daimler Motors,Panther Motors,Nissan
+BR0432,DLR0024,Ram-M14,3856866,3,DT00212,18,10,2017,Datsun Motors,British Leyland Motors,Ram
+BR0433,DLR0004,Nis-M261,12084375,3,DT00213,22,6,2017,Datsun Motors,Alfa Romeo Motors,Nissan
+BR0434,DLR0251,Aud-M231,1712349,3,DT00214,24,2,2017,Datsun Motors,Alfa Romeo Motors,Audi
+BR0435,DLR0231,Toy-M201,10582473,3,DT00214,29,10,2017,Datsun Motors,Atlantic Motor Company,Toyota
+BR0438,DLR0171,Agr-M111,2318050,2,DT00215,10,6,2017,Datsun Motors,Samsung Motors,Agrale
+BR0439,DLR0151,Nis-M81,16232316,3,DT00216,12,2,2017,Datsun Motors,Peel Motors,Nissan
+BR0441,DLR0045,Che-M45,2907854,2,DT00216,14,2,2017,Delahaye Motors,Delahaye Motors,Chevrolet
+BR0442,DLR0025,Ram-M15,3180226,1,DT00217,19,10,2017,Delahaye Motors,Austin-Healey Motors,Ram
+BR0443,DLR0005,Nis-M262,13805602,2,DT00217,23,6,2017,Delahaye Motors,Alpine Motors,Nissan
+BR0444,DLR0252,Aud-M232,1637522,1,DT00218,25,2,2017,Delahaye Motors,Alpine Motors,Audi
+BR0445,DLR0232,Toy-M202,8805045,3,DT00218,30,10,2017,Delahaye Motors,2008 NRHP-listed,Toyota
+BR0447,DLR0192,Mar-M142,6106050,2,DT00219,7,10,2017,Delahaye Motors,Tatra Motors,Maruti Suzuki
+BR0450,DLR0132,GMC-M52,7614612,3,DT00220,18,10,2017,Delahaye Motors,Mitsubishi Motors,GMC
+BR0451,DLR0046,Che-M46,9805538,2,DT00221,15,2,2017,DeLorean Motors,DeLorean Motors,Chevrolet
+BR0452,DLR0026,For-M16,12534236,2,DT00221,20,10,2017,DeLorean Motors,"Austin, Rover Motors",Ford
+BR0454,DLR0253,Aud-M233,6462394,2,DT00222,26,2,2017,DeLorean Motors,Alvis Motors,Audi
+BR0455,DLR0233,Toy-M203,10448502,2,DT00222,31,10,2017,DeLorean Motors,Blankinship Motor Company Building,Toyota
+BR0457,DLR0193,Mar-M143,28280070,3,DT00223,8,10,2017,DeLorean Motors,Tazzari Motors,Maruti Suzuki
+BR0458,DLR0173,Agr-M113,6787214,2,DT00223,12,6,2017,DeLorean Motors,Santa Matilde Motors,Agrale
+BR0459,DLR0153,Nis-M83,24961737,3,DT00224,14,2,2017,DeLorean Motors,Peugeot Motors,Nissan
+BR0460,DLR0133,GMC-M53,26010369,3,DT00224,19,10,2017,DeLorean Motors,Monica Motors,GMC
+BR0461,DLR0047,Che-M47,13362888,3,DT00225,16,2,2017,DeSoto Motors,DeSoto Motors,Chevrolet
+BR0462,DLR0027,For-M17,9993194,1,DT00225,21,10,2017,DeSoto Motors,Bugatti Motors,Ford
+BR0463,DLR0007,Nis-M264,13189806,3,DT00226,25,6,2017,DeSoto Motors,"AMC, Eagle Motors",Nissan
+BR0464,DLR0254,Aud-M234,16419144,2,DT00226,27,2,2017,DeSoto Motors,"AMC, Eagle Motors",Audi
+BR0468,DLR0174,Che-M114,27731796,3,DT00228,13,6,2017,DeSoto Motors,Santana Motors,Chevrolet
+BR0469,DLR0154,Nis-M84,2658567,1,DT00229,15,2,2017,DeSoto Motors,PGO Motors,Nissan
+BR0470,DLR0134,GMC-M54,5356071,1,DT00229,20,10,2017,DeSoto Motors,Monteverdi Motors,GMC
+BR0471,DLR0048,Che-M48,8198552,1,DT00230,17,2,2017,De Tomaso Motors,De Tomaso Motors,Chevrolet
+BR0473,DLR0008,Nis-M265,6356301,1,DT00231,26,6,2017,De Tomaso Motors,Anadol Motors,Nissan
+BR0474,DLR0255,Aud-M235,24611535,3,DT00231,28,2,2017,De Tomaso Motors,Anadol Motors,Audi
+BR0477,DLR0195,Mar-M145,16191680,2,DT00232,10,10,2017,De Tomaso Motors,Tornado Motors,Maruti Suzuki
+BR0479,DLR0155,Nis-M85,4768559,1,DT00233,16,2,2017,De Tomaso Motors,Piaggio Motors,Nissan
+BR0481,DLR0049,Che-M49,16954836,2,DT00233,18,2,2017,Dodge Motors,Dodge Motors,Chevrolet
+BR0482,DLR0029,For-M19,5629200,1,DT00234,23,10,2017,Dodge Motors,Bytom Motors,Ford
+BR0483,DLR0009,Nis-M266,1413380,2,DT00234,27,6,2017,Dodge Motors,Ariel Motors,Nissan
+BR0484,DLR0256,Aud-M236,4502553,1,DT00235,1,3,2017,Dodge Motors,Ariel Motors,Audi
+BR0485,DLR0236,Toy-M206,9393882,2,DT00235,3,11,2017,Dodge Motors,Cadillac Automobile Company Building,Toyota
+BR0486,DLR0176,Vol-M136,9950264,1,DT00236,28,5,2017,Ariel Motors,Scion Motors,Volkswagen
+BR0487,DLR0196,Mar-M146,16722777,3,DT00237,11,10,2017,Dodge Motors,Toyota Motors,Maruti Suzuki
+BR0488,DLR0176,Cit-M116,22175907,3,DT00237,15,6,2017,Dodge Motors,Scion Motors,Citroën
+BR0490,DLR0136,GMC-M56,4419316,2,DT00238,22,10,2017,Dodge Motors,Moskwitch Motors,GMC
+BR0491,DLR0050,Che-M50,13123946,2,DT00238,19,2,2017,Donkervoort Motors,Donkervoort Motors,Chevrolet
+BR0492,DLR0030,For-M20,5124985,1,DT00239,24,10,2017,Donkervoort Motors,Cadillac Motors,Ford
+BR0493,DLR0010,Nis-M267,5529707,1,DT00240,28,6,2017,Donkervoort Motors,ARO Motors,Nissan
+BR0494,DLR0257,Aud-M237,11745182,2,DT00240,2,3,2017,Donkervoort Motors,ARO Motors,Audi
+BR0497,DLR0197,Mar-M147,8911209,1,DT00241,12,10,2017,Donkervoort Motors,Toyota India Motors,Maruti Suzuki
+BR0498,DLR0177,Fia-M117,19232882,2,DT00241,16,6,2017,Donkervoort Motors,Seat Motors,Fiat
+BR0500,DLR0137,GMC-M57,2711044,1,DT00242,23,10,2017,Donkervoort Motors,Nash Motors,GMC
+BR0501,DLR0051,Che-M51,7896011,1,DT00242,20,2,2017,Edsel Motors,Edsel Motors,Chevrolet
+BR0502,DLR0031,For-M21,539991,3,DT00243,25,10,2017,Edsel Motors,Caterham Motors,Ford
+BR0504,DLR0258,Aud-M238,8968102,2,DT00243,3,3,2017,Edsel Motors,,Audi
+BR0505,DLR0238,Ren-M208,3474317,1,DT00244,5,11,2017,Edsel Motors,Cass Motor Sales,Renault
+BR0509,DLR0158,Nis-M88,17412786,3,DT00244,19,2,2017,Edsel Motors,"Pontiac, Asüna Motors",Nissan
+BR0512,DLR0032,For-M22,12703779,3,DT00245,26,10,2017,e.GO Mobile Motors,Checker Motors,Ford
+BR0513,DLR0012,Nis-M269,5104718,2,DT00246,30,6,2017,e.GO Mobile Motors,Asia Motors Motors,Nissan
+BR0514,DLR0259,Aud-M239,18335968,2,DT00247,4,3,2017,e.GO Mobile Motors,Asia Motors Motors,Audi
+BR0515,DLR0239,Ren-M209,18836902,2,DT00248,6,11,2017,e.GO Mobile Motors,Claremore Auto Dealership,Renault
+BR0517,DLR0199,Mar-M149,797190,2,DT00249,14,10,2017,e.GO Mobile Motors,TVR Motors,Maruti Suzuki
+BR0519,DLR0159,Nis-M89,8061612,1,DT00251,20,2,2017,e.GO Mobile Motors,Porsche Motors,Nissan
+BR0520,DLR0139,Acu-M59,8089428,3,DT00252,25,10,2017,e.GO Mobile Motors,Nissan Motors,Acura
+BR0521,DLR0053,GMC-M53,12806852,2,DT00253,22,2,2017,Eicher Polaris Motors,Eicher Polaris Motors,GMC
+BR0523,DLR0013,Nis-M270,2133323,1,DT00255,1,7,2017,Eicher Polaris Motors,Aston Martin Motors,Nissan
+BR0524,DLR0260,Aud-M240,4947308,1,DT00255,5,3,2017,Eicher Polaris Motors,Aston Martin Motors,Audi
+BR0525,DLR0240,Ren-M210,11991464,2,DT00256,7,11,2017,Eicher Polaris Motors,Clemens Automobile Company Building,Renault
+BR0527,DLR0200,Mar-M150,2783942,2,DT00257,15,10,2017,Eicher Polaris Motors,UAZ Motors,Maruti Suzuki
+BR0528,DLR0180,Hon-M120,23014824,3,DT00257,19,6,2017,Eicher Polaris Motors,Simca do Brasil Motors,Honda
+BR0531,DLR0054,GMC-M54,540801,1,DT00258,23,2,2017,Elva Motors,Elva Motors,GMC
+BR0533,DLR0014,Sko-M271,10200093,3,DT00258,2,7,2017,Elva Motors,Audi Motors,Skoda
+BR0534,DLR0261,Aud-M241,405648,2,DT00259,6,3,2017,Elva Motors,Audi Motors,Audi
+BR0537,DLR0201,Mar-M151,1887134,2,DT00259,16,10,2017,Elva Motors,Vauxhall Motors,Maruti Suzuki
+BR0538,DLR0181,Mer-M121,944356,1,DT00260,20,6,2017,Elva Motors,Singer Motors,Mercedes-Benz
+BR0539,DLR0161,Riv-M91,8815047,1,DT00260,22,2,2017,Elva Motors,Proton Motors,Rivian
+BR0542,DLR0035,For-M25,12871174,2,DT00262,29,10,2017,Facel Vega Motors,Chrysler Motors,Ford
+BR0544,DLR0262,BMW-M242,4021521,1,DT00263,7,3,2017,Facel Vega Motors,Autobianchi Motors,BMW
+BR0546,DLR0177,Mar-M137,11543998,2,DT00263,29,5,2017,ARO Motors,Seat Motors,Maruti Suzuki
+BR0551,DLR0056,GMC-M56,27851115,3,DT00265,25,2,2017,Ferrari Motors,Ferrari Motors,GMC
+BR0552,DLR0036,For-M26,13663419,3,DT00265,30,10,2017,Ferrari Motors,Chrysler Europe Motors,Ford
+BR0553,DLR0016,Sko-M273,2711864,1,DT00266,4,7,2017,Ferrari Motors,Auto-Union Motors,Skoda
+BR0555,DLR0243,Kia-M213,7922738,2,DT00267,10,11,2017,Ferrari Motors,Howard Motor Company Building,Kia
+BR0559,DLR0163,Sub-M93,14908658,2,DT00267,24,2,2017,Ferrari Motors,Ranger Motors,Subaru
+BR0561,DLR0057,GMC-M57,25853679,3,DT00268,26,2,2017,Fiat Motors,Fiat Motors,GMC
+BR0562,DLR0037,Lin-M27,2008077,3,DT00269,31,10,2017,Fiat Motors,Citroën Motors,Lincoln
+BR0565,DLR0244,Kia-M214,7940381,1,DT00269,11,11,2017,Fiat Motors,Hupmobile Building,Kia
+BR0567,DLR0204,Hyu-M154,3528405,1,DT00270,19,10,2017,Fiat Motors,Volkswagen do Brasil Motors,Hyundai
+BR0568,DLR0184,Peu-M124,19427550,2,DT00270,23,6,2017,Fiat Motors,Spyker Motors,Peugeot
+BR0569,DLR0164,Sub-M94,17420608,2,DT00271,25,2,2017,Fiat Motors,Reliant Motors,Subaru
+BR0572,DLR0038,Lin-M28,5780896,1,DT00271,1,11,2017,Fiat do Brasil Motors,Cizeta-Moroder Motors,Lincoln
+BR0573,DLR0018,Mit-M275,10853781,3,DT00272,6,7,2017,Fiat do Brasil Motors,Bentley Motors,Mitsubishi
+BR0575,DLR0245,Hon-M215,19174448,2,DT00273,12,11,2017,Fiat do Brasil Motors,Jennings Ford Automobile Dealership,Honda
+BR0577,DLR0205,Hyu-M155,6933494,1,DT00274,20,10,2017,Fiat do Brasil Motors,Volkswagen South Africa Motors,Hyundai
+BR0578,DLR0185,Peu-M125,27378201,3,DT00274,24,6,2017,Fiat do Brasil Motors,SsangYong Motors,Peugeot
+BR0579,DLR0165,Sub-M95,12364917,3,DT00275,26,2,2017,Fiat do Brasil Motors,Renault Motors,Subaru
+BR0581,DLR0059,Acu-M59,27157551,3,DT00275,28,2,2017,Fiat India Motors,Fiat India Motors,Acura
+BR0584,DLR0266,BMW-M246,7605444,1,DT00276,11,3,2017,Fiat India Motors,Bitter Motors,BMW
+BR0585,DLR0246,Hon-M216,19788891,3,DT00277,13,11,2017,Fiat India Motors,Jones Motor Company,Honda
+BR0588,DLR0186,Peu-M126,5076554,1,DT00278,25,6,2017,Fiat India Motors,Standard-Triumph Motors,Peugeot
+BR0590,DLR0146,Hon-M66,22238040,3,DT00278,1,11,2017,Fiat India Motors,Packard Motors,Honda
+BR0591,DLR0060,Acu-M60,7166549,1,DT00280,1,3,2017,"Fisker, Karma Motors","Fisker, Karma Motors",Acura
+BR0592,DLR0040,Lin-M30,12679842,2,DT00280,3,11,2017,"Fisker, Karma Motors","Daewoo, Saehan, Chevrolet Korea Motors",Lincoln
+BR0598,DLR0187,Ren-M127,4101380,2,DT00281,26,6,2017,"Fisker, Karma Motors",Studebaker Motors,Renault
+BR0599,DLR0167,Tes-M97,2973343,1,DT00281,28,2,2017,"Fisker, Karma Motors",Rolls-Royce Motors,Tesla
+BR0600,DLR0147,Hon-M67,4597215,3,DT00282,2,11,2017,"Fisker, Karma Motors",Pagani Motors,Honda
+BR0601,DLR0061,Acu-M61,827032,2,DT00283,2,3,2017,Ford America Motors,Ford America Motors,Acura
+BR0602,DLR0041,Bui-M31,14749900,2,DT00283,4,11,2017,Ford America Motors,DAF Motors,Buick
+BR0604,DLR0001,BMW-M248,1631227,1,DT00284,13,3,2017,Ford America Motors,AC Cars Motors,BMW
+BR0605,DLR0248,Hon-M218,4711108,2,DT00284,15,11,2017,Ford America Motors,AC Cars Motors,Honda
+BR0606,DLR0178,Mar-M138,14029425,3,DT00285,30,5,2017,Artega Motors,Shelby SuperCars Motors,Maruti Suzuki
+BR0607,DLR0208,Hyu-M158,13525848,2,DT00285,23,10,2017,Ford America Motors,Wiesmann Motors,Hyundai
+BR0608,DLR0188,Ren-M128,19488884,2,DT00286,27,6,2017,Ford America Motors,Subaru Motors,Renault
+BR0610,DLR0148,Hon-M68,11070153,3,DT00287,3,11,2017,Ford America Motors,Panhard Motors,Honda
+BR0611,DLR0062,Acu-M62,887358,2,DT00287,3,3,2017,Ford Australia Motors,Ford Australia Motors,Acura
+BR0613,DLR0022,BMW-M2,7619058,2,DT00288,10,7,2017,Ford Australia Motors,Borgward (including Goliath and Lloyd) Motors,BMW
+BR0614,DLR0002,BMW-M249,5486357,1,DT00288,14,3,2017,Ford Australia Motors,Acura Motors,BMW
+BR0615,DLR0249,Hon-M219,8277025,1,DT00289,16,11,2017,Ford Australia Motors,Acura Motors,Honda
+BR0617,DLR0209,Hyu-M159,24713088,3,DT00289,24,10,2017,Ford Australia Motors,Zastava Motors,Hyundai
+BR0619,DLR0169,Lex-M99,1071975,1,DT00290,2,3,2017,Ford Australia Motors,SAIC Motor Motors,Lexus
+BR0620,DLR0149,Hon-M69,19026810,2,DT00291,4,11,2017,Ford Australia Motors,Panoz Motors,Honda
+BR0621,DLR0063,Acu-M63,2376282,3,DT00292,4,3,2017,Ford do Brasil Motors,Ford do Brasil Motors,Acura
+BR0623,DLR0023,BMW-M3,3861337,1,DT00292,11,7,2017,Ford do Brasil Motors,Bristol Motors,BMW
+BR0624,DLR0003,BMW-M250,5611611,3,DT00293,15,3,2017,Ford do Brasil Motors,Aixam-Mega (including Arola) Motors,BMW
+BR0625,DLR0250,Hon-M220,4640488,2,DT00293,17,11,2017,Ford do Brasil Motors,Aixam-Mega (including Arola) Motors,Honda
+BR0627,DLR0210,Hyu-M160,7651808,1,DT00294,25,10,2017,Ford do Brasil Motors,ZAZ Motors,Hyundai
+BR0629,DLR0170,Toy-M100,29452029,3,DT00296,3,3,2017,Ford do Brasil Motors,Saleen Motors,Toyota
+BR0631,DLR0064,Hon-M64,6012624,2,DT00296,5,3,2017,Ford Europe Motors,Ford Europe Motors,Honda
+BR0633,DLR0024,BMW-M4,3013862,1,DT00297,12,7,2017,Ford Europe Motors,British Leyland Motors,BMW
+BR0634,DLR0004,MG-M251,23622411,3,DT00297,16,3,2017,Ford Europe Motors,Alfa Romeo Motors,MG
+BR0635,DLR0251,For-M221,5988985,1,DT00298,18,11,2017,Ford Europe Motors,Alfa Romeo Motors,Ford
+BR0637,DLR0211,Hyu-M161,3954015,3,DT00298,26,10,2017,Ford Europe Motors,ZIL Motors,Hyundai
+BR0638,DLR0191,Ren-M131,5794861,1,DT00299,30,6,2017,Ford Europe Motors,Tata Motors,Renault
+BR0640,DLR0151,Hon-M71,4211565,1,DT00299,6,11,2017,Ford Europe Motors,Peel Motors,Honda
+BR0641,DLR0065,Hon-M65,5149104,1,DT00300,6,3,2017,Ford India Motors,Ford India Motors,Honda
+BR0642,DLR0045,Cad-M35,14231264,2,DT00301,8,11,2017,Ford India Motors,Delahaye Motors,Cadillac
+BR0643,DLR0025,BMW-M5,4091032,2,DT00302,13,7,2017,Ford India Motors,Austin-Healey Motors,BMW
+BR0645,DLR0252,For-M222,6214728,1,DT00302,19,11,2017,Ford India Motors,Alpine Motors,Ford
+BR0647,DLR0212,Hyu-M162,1334466,1,DT00303,27,10,2017,Ford India Motors,,Hyundai
+BR0649,DLR0172,Toy-M102,27125628,3,DT00304,5,3,2017,Ford India Motors,San Motors,Toyota
+BR0650,DLR0152,Hyu-M72,9455157,1,DT00304,7,11,2017,Ford India Motors,Perodua Motors,Hyundai
+BR0651,DLR0066,Hon-M66,20033082,3,DT00305,7,3,2017,Freightliner Motors,Freightliner Motors,Honda
+BR0653,DLR0026,Mer-M6,18850056,3,DT00305,14,7,2017,Freightliner Motors,"Austin, Rover Motors",Mercedes-Benz
+BR0654,DLR0006,Jee-M253,1324649,1,DT00306,18,3,2017,Freightliner Motors,Alvis Motors,Jeep
+BR0655,DLR0253,For-M223,12704400,3,DT00307,20,11,2017,Freightliner Motors,Alvis Motors,Ford
+BR0657,DLR0213,Hyu-M163,27226500,3,DT00307,28,10,2017,Freightliner Motors,DKW Motors,Hyundai
+BR0658,DLR0193,Toy-M133,6890318,1,DT00308,2,7,2017,Freightliner Motors,Tazzari Motors,Toyota
+BR0660,DLR0153,Hyu-M73,8944803,1,DT00308,8,11,2017,Freightliner Motors,Peugeot Motors,Hyundai
+BR0661,DLR0067,Hon-M67,11657025,3,DT00310,8,3,2017,FSO Motors,FSO Motors,Honda
+BR0662,DLR0047,Cad-M37,6187158,2,DT00311,10,11,2017,FSO Motors,DeSoto Motors,Cadillac
+BR0663,DLR0027,Mer-M7,25637433,3,DT00312,15,7,2017,FSO Motors,Bugatti Motors,Mercedes-Benz
+BR0665,DLR0254,For-M224,5279922,2,DT00312,21,11,2017,FSO Motors,"AMC, Eagle Motors",Ford
+BR0666,DLR0179,Mar-M139,16170344,2,DT00314,31,5,2017,Asia Motors Motors,Simca Motors,Maruti Suzuki
+BR0667,DLR0214,Hyu-M164,12290682,2,DT00314,29,10,2017,FSO Motors,Horch Motors,Hyundai
+BR0668,DLR0194,Toy-M134,27673701,3,DT00315,3,7,2017,FSO Motors,Tesla Motors,Toyota
+BR0669,DLR0174,Toy-M104,618530,1,DT00315,7,3,2017,FSO Motors,Santana Motors,Toyota
+BR0672,DLR0048,Cad-M38,11003206,2,DT00316,11,11,2017,GAZ Motors,De Tomaso Motors,Cadillac
+BR0673,DLR0028,Mer-M8,9182152,2,DT00316,16,7,2017,GAZ Motors,Buick Motors,Mercedes-Benz
+BR0675,DLR0255,For-M225,15724106,2,DT00317,22,11,2017,GAZ Motors,Anadol Motors,Ford
+BR0678,DLR0195,Vol-M135,16596822,3,DT00317,4,7,2017,GAZ Motors,Tornado Motors,Volkswagen
+BR0680,DLR0155,Hyu-M75,8878331,1,DT00318,10,11,2017,GAZ Motors,Piaggio Motors,Hyundai
+BR0681,DLR0069,Hon-M69,29778390,3,DT00318,10,3,2017,Geo Motors,Geo Motors,Honda
+BR0682,DLR0049,Cad-M39,7163682,2,DT00319,12,11,2017,Geo Motors,Dodge Motors,Cadillac
+BR0685,DLR0256,For-M226,10711844,2,DT00319,23,11,2017,Geo Motors,Ariel Motors,Ford
+BR0687,DLR0216,Mah-M166,3111980,2,DT00320,31,10,2017,Geo Motors,Maybach  Motors,Mahindra
+BR0688,DLR0196,Vol-M136,6279243,1,DT00321,5,7,2017,Geo Motors,Toyota Motors,Volkswagen
+BR0690,DLR0156,Kia-M76,4674918,3,DT00321,11,11,2017,Geo Motors,Plymouth Motors,Kia
+BR0691,DLR0070,Hon-M70,27882654,3,DT00322,11,3,2017,Gilbern Motors,Gilbern Motors,Honda
+BR0692,DLR0050,Che-M40,7967632,1,DT00322,13,11,2017,Gilbern Motors,Donkervoort Motors,Chevrolet
+BR0693,DLR0030,Jee-M10,10049668,2,DT00323,18,7,2017,Gilbern Motors,Cadillac Motors,Jeep
+BR0694,DLR0010,Vol-M257,4841665,1,DT00323,22,3,2017,Gilbern Motors,ARO Motors,Volkswagen
+BR0695,DLR0257,Aud-M227,27211653,3,DT00324,24,11,2017,Gilbern Motors,ARO Motors,Audi
+BR0697,DLR0217,Mah-M167,14231444,2,DT00325,1,11,2017,Gilbern Motors,Izh  Motors,Mahindra
+BR0698,DLR0197,Mar-M137,9190134,3,DT00326,6,7,2017,Gilbern Motors,Toyota India Motors,Maruti Suzuki
+BR0699,DLR0177,Toy-M107,23819997,3,DT00327,10,3,2017,Gilbern Motors,Seat Motors,Toyota
+BR0700,DLR0157,Kia-M77,14457039,3,DT00327,12,11,2017,Gilbern Motors,Polestar Motors,Kia
+BR0701,DLR0071,Hon-M71,19496403,3,DT00328,12,3,2017,Ginetta Motors,Ginetta Motors,Honda
+BR0702,DLR0051,Che-M41,1189125,1,DT00328,14,11,2017,Ginetta Motors,Edsel Motors,Chevrolet
+BR0703,DLR0031,Jee-M11,3831888,3,DT00329,19,7,2017,Ginetta Motors,Caterham Motors,Jeep
+BR0704,DLR0011,Vol-M258,7064261,1,DT00330,23,3,2017,Ginetta Motors,Artega Motors,Volkswagen
+BR0707,DLR0218,Mah-M168,6895348,1,DT00330,2,11,2017,Ginetta Motors,Lagonda  Motors,Mahindra
+BR0708,DLR0198,Mar-M138,1524042,1,DT00331,7,7,2017,Ginetta Motors,Turner Motors,Maruti Suzuki
+BR0709,DLR0178,Vol-M108,20266479,3,DT00332,11,3,2017,Ginetta Motors,Shelby SuperCars Motors,Volkswagen
+BR0710,DLR0158,Kia-M78,23016840,3,DT00332,13,11,2017,Ginetta Motors,"Pontiac, Asüna Motors",Kia
+BR0711,DLR0072,Hyu-M72,3099601,1,DT00333,13,3,2017,Glas Motors,Glas Motors,Hyundai
+BR0712,DLR0052,Che-M42,9043640,2,DT00334,15,11,2017,Glas Motors,e.GO Mobile Motors,Chevrolet
+BR0713,DLR0032,Jee-M12,12837476,2,DT00335,20,7,2017,Glas Motors,Checker Motors,Jeep
+BR0714,DLR0012,Vol-M259,14467488,3,DT00335,24,3,2017,Glas Motors,Asia Motors Motors,Volkswagen
+BR0715,DLR0259,Aud-M229,2362077,3,DT00337,26,11,2017,Glas Motors,Asia Motors Motors,Audi
+BR0717,DLR0219,Mah-M169,2346754,1,DT00337,3,11,2017,Glas Motors,MG  Motors,Mahindra
+BR0718,DLR0199,Mar-M139,6408126,1,DT00338,8,7,2017,Glas Motors,TVR Motors,Maruti Suzuki
+BR0719,DLR0179,Vol-M109,5850798,2,DT00338,12,3,2017,Glas Motors,Simca Motors,Volkswagen
+BR0720,DLR0159,Inf-M79,20093703,3,DT00339,14,11,2017,Glas Motors,Porsche Motors,Infiniti
+BR0721,DLR0073,Hyu-M73,10618472,2,DT00339,14,3,2017,GMC Motors,GMC Motors,Hyundai
+BR0722,DLR0053,Che-M43,10532440,2,DT00340,16,11,2017,GMC Motors,Eicher Polaris Motors,Chevrolet
+BR0723,DLR0033,Jee-M13,27274158,3,DT00340,21,7,2017,GMC Motors,Chevrolet Motors,Jeep
+BR0724,DLR0013,Vol-M260,1506321,3,DT00342,25,3,2017,GMC Motors,Aston Martin Motors,Volkswagen
+BR0726,DLR0180,Mar-M140,13271070,2,DT00342,1,1,2017,Aston Martin Motors,Simca do Brasil Motors,Maruti Suzuki
+BR0727,DLR0220,Mah-M170,17938848,3,DT00343,4,11,2017,GMC Motors,Morris  Motors,Mahindra
+BR0728,DLR0200,Mar-M140,3565182,1,DT00344,9,7,2017,GMC Motors,UAZ Motors,Maruti Suzuki
+BR0730,DLR0160,Nis-M80,7509447,1,DT00345,15,11,2017,GMC Motors,Premier Motors,Nissan
+BR0731,DLR0074,Hyu-M74,9618594,1,DT00346,15,3,2017,GTA Spano Motors,GTA Spano Motors,Hyundai
+BR0732,DLR0054,Che-M44,9411372,1,DT00347,17,11,2017,GTA Spano Motors,Elva Motors,Chevrolet
+BR0734,DLR0014,Nis-M261,5676322,1,DT00348,26,3,2017,GTA Spano Motors,Audi Motors,Nissan
+BR0735,DLR0261,Aud-M231,19790116,2,DT00349,28,11,2017,GTA Spano Motors,Audi Motors,Audi
+BR0738,DLR0201,Mar-M141,9963706,2,DT00349,10,7,2017,GTA Spano Motors,Vauxhall Motors,Maruti Suzuki
+BR0739,DLR0181,Agr-M111,17216700,2,DT00350,14,3,2017,GTA Spano Motors,Singer Motors,Agrale
+BR0741,DLR0075,Hyu-M75,28655037,3,DT00351,16,3,2017,Gumpert Motors,Gumpert Motors,Hyundai
+BR0742,DLR0055,Che-M45,26605503,3,DT00351,18,11,2017,Gumpert Motors,Facel Vega Motors,Chevrolet
+BR0744,DLR0015,Nis-M262,2263432,1,DT00352,27,3,2017,Gumpert Motors,Autobianchi Motors,Nissan
+BR0745,DLR0262,Aud-M232,16567818,3,DT00353,29,11,2017,Gumpert Motors,Autobianchi Motors,Audi
+BR0747,DLR0222,Mah-M172,5314854,3,DT00353,6,11,2017,Gumpert Motors,Riley  Motors,Mahindra
+BR0748,DLR0202,Mar-M142,4209675,1,DT00355,11,7,2017,Gumpert Motors,Venturi Motors,Maruti Suzuki
+BR0751,DLR0076,Kia-M76,5033528,1,DT00356,17,3,2017,Healey Motors,Healey Motors,Kia
+BR0752,DLR0056,Che-M46,17357436,2,DT00357,19,11,2017,Healey Motors,Ferrari Motors,Chevrolet
+BR0753,DLR0036,For-M16,12476619,3,DT00357,24,7,2017,Healey Motors,Chrysler Europe Motors,Ford
+BR0755,DLR0263,Aud-M233,3450990,3,DT00358,30,11,2017,Healey Motors,Auto-Union Motors,Audi
+BR0757,DLR0223,Mah-M173,1437634,1,DT00358,7,11,2017,Healey Motors,Wolseley  Motors,Mahindra
+BR0759,DLR0183,Agr-M113,13809580,2,DT00359,16,3,2017,Healey Motors,Smart Motors,Agrale
+BR0760,DLR0163,Nis-M83,2977984,1,DT00360,18,11,2017,Healey Motors,Ranger Motors,Nissan
+BR0762,DLR0057,Che-M47,13805534,2,DT00362,20,11,2017,Heinkel Motors,Fiat Motors,Chevrolet
+BR0764,DLR0017,Nis-M264,3681751,1,DT00363,29,3,2017,Heinkel Motors,Auverland Motors,Nissan
+BR0765,DLR0264,Aud-M234,9543745,1,DT00363,1,12,2017,Heinkel Motors,Auverland Motors,Audi
+BR0767,DLR0224,Mah-M174,4358908,2,DT00364,8,11,2017,Heinkel Motors,Standard  Motors,Mahindra
+BR0768,DLR0204,Mar-M144,6336897,3,DT00364,13,7,2017,Heinkel Motors,Volkswagen do Brasil Motors,Maruti Suzuki
+BR0769,DLR0184,Che-M114,1234241,1,DT00365,17,3,2017,Heinkel Motors,Spyker Motors,Chevrolet
+BR0770,DLR0164,Nis-M84,13110796,2,DT00366,19,11,2017,Heinkel Motors,Reliant Motors,Nissan
+BR0771,DLR0078,Kia-M78,9175180,1,DT00366,19,3,2017,Hennessey Motors,Hennessey Motors,Kia
+BR0773,DLR0038,For-M18,6922460,1,DT00367,26,7,2017,Hennessey Motors,Cizeta-Moroder Motors,Ford
+BR0774,DLR0018,Nis-M265,8758656,3,DT00367,30,3,2018,Hennessey Motors,Bentley Motors,Nissan
+BR0775,DLR0265,Aud-M235,11320484,2,DT00368,2,12,2018,Hennessey Motors,Bentley Motors,Audi
+BR0778,DLR0205,Mar-M145,6772522,1,DT00369,14,7,2018,Hennessey Motors,Volkswagen South Africa Motors,Maruti Suzuki
+BR0781,DLR0079,Inf-M79,2505504,1,DT00370,20,3,2018,Hillman Motors,Hillman Motors,Infiniti
+BR0783,DLR0039,For-M19,22497648,3,DT00370,27,7,2018,Hillman Motors,Dacia Motors,Ford
+BR0784,DLR0019,Nis-M266,4239958,1,DT00371,31,3,2018,Hillman Motors,Bitter Motors,Nissan
+BR0785,DLR0266,Aud-M236,8874869,1,DT00373,3,12,2018,Hillman Motors,Bitter Motors,Audi
+BR0786,DLR0181,Mar-M141,8540194,1,DT00373,2,1,2018,Audi Motors,Singer Motors,Maruti Suzuki
+BR0787,DLR0226,Mah-M176,2805178,1,DT00374,10,11,2018,Hillman Motors,Das Motors,Mahindra
+BR0789,DLR0186,Cit-M116,12179226,2,DT00375,19,3,2018,Hillman Motors,Standard-Triumph Motors,Citroën
+BR0790,DLR0166,Nis-M86,16171738,2,DT00376,21,11,2018,Hillman Motors,Rivian Motors,Nissan
+BR0791,DLR0080,Nis-M80,1831088,2,DT00377,21,3,2018,Hindustan Motors,Hindustan Motors,Nissan
+BR0792,DLR0060,Che-M50,13934294,2,DT00377,23,11,2018,Hindustan Motors,"Fisker, Karma Motors",Chevrolet
+BR0793,DLR0040,For-M20,8780384,1,DT00378,28,7,2018,Hindustan Motors,"Daewoo, Saehan, Chevrolet Korea Motors",Ford
+BR0794,DLR0020,Nis-M267,9009420,1,DT00380,1,4,2018,Hindustan Motors,BMW Motors,Nissan
+BR0797,DLR0227,Mah-M177,8396297,1,DT00380,11,11,2018,Hindustan Motors,Ramani Motors,Mahindra
+BR0798,DLR0207,Mar-M147,230774,2,DT00381,16,7,2018,Hindustan Motors,Westfield Motors,Maruti Suzuki
+BR0801,DLR0081,Nis-M81,7650808,2,DT00381,22,3,2018,Holden Motors,Holden Motors,Nissan
+BR0802,DLR0061,Che-M51,882130,1,DT00382,24,11,2018,Holden Motors,Ford America Motors,Chevrolet
+BR0803,DLR0041,For-M21,11161014,2,DT00383,29,7,2018,Holden Motors,DAF Motors,Ford
+BR0804,DLR0021,Nis-M268,27884529,3,DT00383,2,4,2018,Holden Motors,Bond Motors,Nissan
+BR0805,DLR0001,Aud-M238,1445892,3,DT00384,5,12,2018,Holden Motors,AC Cars Motors,Audi
+BR0807,DLR0228,Mah-M178,5712936,2,DT00385,12,11,2018,Holden Motors,Deccan Motors,Mahindra
+BR0810,DLR0168,Nis-M88,15252826,2,DT00386,23,11,2018,Holden Motors,Saab Motors,Nissan
+BR0811,DLR0082,Nis-M82,6545996,1,DT00386,23,3,2018,Honda Motors,Honda Motors,Nissan
+BR0812,DLR0062,GMC-M52,1046322,2,DT00387,25,11,2018,Honda Motors,Ford Australia Motors,GMC
+BR0814,DLR0022,Nis-M269,27655845,3,DT00388,3,4,2018,Honda Motors,Borgward (including Goliath and Lloyd) Motors,Nissan
+BR0815,DLR0002,Aud-M239,2567426,1,DT00388,6,12,2018,Honda Motors,Acura Motors,Audi
+BR0817,DLR0229,Tat-M179,8465900,1,DT00389,13,11,2018,Honda Motors,Herald Motors,Tata
+BR0818,DLR0209,Mar-M149,22987824,3,DT00390,18,7,2018,Honda Motors,Zastava Motors,Maruti Suzuki
+BR0819,DLR0189,For-M119,24029529,3,DT00391,22,3,2018,Honda Motors,Sunbeam Motors,Ford
+BR0822,DLR0063,GMC-M53,13584572,2,DT00392,26,11,2018,Honda India Motors,Ford do Brasil Motors,GMC
+BR0823,DLR0043,For-M23,4026720,3,DT00392,31,7,2018,Honda India Motors,Daimler Motors,Ford
+BR0824,DLR0023,Nis-M270,19756170,3,DT00393,4,4,2018,Honda India Motors,Bristol Motors,Nissan
+BR0827,DLR0230,Tat-M180,3946992,2,DT00393,14,11,2018,Honda India Motors,Zion Automobils,Tata
+BR0828,DLR0210,Mar-M150,14358195,3,DT00395,19,7,2018,Honda India Motors,ZAZ Motors,Maruti Suzuki
+BR0829,DLR0190,Hon-M120,16041212,2,DT00396,23,3,2018,Honda India Motors,Suzuki Motors,Honda
+BR0832,DLR0064,GMC-M54,4408905,3,DT00397,27,11,2018,Hudson Motors,Ford Europe Motors,GMC
+BR0833,DLR0044,For-M24,12617286,2,DT00397,1,8,2018,Hudson Motors,,Ford
+BR0834,DLR0024,Sko-M271,14183745,3,DT00398,5,4,2018,Hudson Motors,British Leyland Motors,Skoda
+BR0837,DLR0231,Tat-M181,9116480,1,DT00399,15,11,2018,Hudson Motors,Atlantic Motor Company,Tata
+BR0838,DLR0211,Mar-M151,4394077,1,DT00399,20,7,2018,Hudson Motors,ZIL Motors,Maruti Suzuki
+BR0839,DLR0191,Mer-M121,4320316,1,DT00400,24,3,2018,Hudson Motors,Tata Motors,Mercedes-Benz
+BR0840,DLR0171,Riv-M91,13903245,3,DT00400,26,11,2018,Hudson Motors,Samsung Motors,Rivian
+BR0841,DLR0085,Nis-M85,7548524,1,DT00401,26,3,2018,Humber Motors,Humber Motors,Nissan
+BR0842,DLR0065,GMC-M55,2543978,2,DT00402,28,11,2018,Humber Motors,Ford India Motors,GMC
+BR0843,DLR0045,For-M25,7111300,1,DT00402,2,8,2018,Humber Motors,Delahaye Motors,Ford
+BR0844,DLR0025,Sko-M272,12823790,2,DT00403,6,4,2018,Humber Motors,Austin-Healey Motors,Skoda
+BR0845,DLR0005,BMW-M242,8320334,1,DT00403,9,12,2018,Humber Motors,Alpine Motors,BMW
+BR0846,DLR0182,Mar-M142,2183688,1,DT00404,3,1,2018,Autobianchi Motors,Skoda Motors,Maruti Suzuki
+BR0849,DLR0192,Mer-M122,4298133,3,DT00404,25,3,2018,Humber Motors,Tatra Motors,Mercedes-Benz
+BR0851,DLR0086,Nis-M86,24649203,3,DT00405,27,3,2018,Hummer Motors,Hummer Motors,Nissan
+BR0852,DLR0066,GMC-M56,17594286,2,DT00406,29,11,2018,Hummer Motors,Freightliner Motors,GMC
+BR0854,DLR0026,Sko-M273,2542283,1,DT00407,7,4,2018,Hummer Motors,"Austin, Rover Motors",Skoda
+BR0857,DLR0233,Tat-M183,8238927,1,DT00407,17,11,2018,Hummer Motors,Blankinship Motor Company Building,Tata
+BR0858,DLR0213,Hyu-M153,11212185,3,DT00408,22,7,2018,Hummer Motors,DKW Motors,Hyundai
+BR0859,DLR0193,Mer-M123,4194435,1,DT00408,26,3,2018,Hummer Motors,Tazzari Motors,Mercedes-Benz
+BR0860,DLR0173,Sub-M93,11897544,3,DT00409,28,11,2018,Hummer Motors,Santa Matilde Motors,Subaru
+BR0861,DLR0087,Nis-M87,17799570,3,DT00409,28,3,2018,Hyundai Motors,Hyundai Motors,Nissan
+BR0863,DLR0047,Lin-M27,2754114,2,DT00410,4,8,2018,Hyundai Motors,DeSoto Motors,Lincoln
+BR0865,DLR0007,BMW-M244,7014300,3,DT00411,11,12,2018,Hyundai Motors,"AMC, Eagle Motors",BMW
+BR0867,DLR0234,Tat-M184,255660,1,DT00411,18,11,2018,Hyundai Motors,Bohn Motor Company Automobile Dealership,Tata
+BR0868,DLR0214,Hyu-M154,5808485,1,DT00412,23,7,2018,Hyundai Motors,Horch Motors,Hyundai
+BR0870,DLR0174,Sub-M94,20785545,3,DT00413,29,11,2018,Hyundai Motors,Santana Motors,Subaru
+BR0871,DLR0088,Nis-M88,6450024,2,DT00413,29,3,2018,"IFA (including Trabant, Wartburg, Barkas) Motors","IFA (including Trabant, Wartburg, Barkas) Motors",Nissan
+BR0872,DLR0068,GMC-M58,1131322,2,DT00414,1,12,2018,"IFA (including Trabant, Wartburg, Barkas) Motors",GAZ Motors,GMC
+BR0873,DLR0048,Lin-M28,7003291,1,DT00415,5,8,2018,"IFA (including Trabant, Wartburg, Barkas) Motors",De Tomaso Motors,Lincoln
+BR0877,DLR0235,Tat-M185,24145992,3,DT00415,19,11,2018,"IFA (including Trabant, Wartburg, Barkas) Motors",Buick Automobile Company Building,Tata
+BR0878,DLR0215,Hyu-M155,9184004,2,DT00416,24,7,2018,"IFA (including Trabant, Wartburg, Barkas) Motors",Wanderer Motors,Hyundai
+BR0879,DLR0195,Peu-M125,6156402,1,DT00416,28,3,2018,"IFA (including Trabant, Wartburg, Barkas) Motors",Tornado Motors,Peugeot
+BR0880,DLR0175,Sub-M95,9244306,2,DT00417,30,11,2018,"IFA (including Trabant, Wartburg, Barkas) Motors",Saturn Motors,Subaru
+BR0881,DLR0089,Nis-M89,3425558,1,DT00418,30,3,2018,Infiniti Motors,Infiniti Motors,Nissan
+BR0883,DLR0049,Lin-M29,8367989,1,DT00418,6,8,2018,Infiniti Motors,Dodge Motors,Lincoln
+BR0884,DLR0029,Mit-M276,1712630,2,DT00419,10,4,2018,Infiniti Motors,Bytom Motors,Mitsubishi
+BR0888,DLR0216,Hyu-M156,13917510,2,DT00419,25,7,2018,Infiniti Motors,Maybach  Motors,Hyundai
+BR0889,DLR0196,Peu-M126,12845820,2,DT00420,29,3,2018,Infiniti Motors,Toyota Motors,Peugeot
+BR0890,DLR0176,Tes-M96,4488940,1,DT00420,1,12,2018,Infiniti Motors,Scion Motors,Tesla
+BR0891,DLR0090,Riv-M90,7979531,1,DT00422,31,3,2018,Innocenti Motors,,Rivian
+BR0892,DLR0070,Acu-M60,1993691,1,DT00422,3,12,2018,Innocenti Motors,Gilbern Motors,Acura
+BR0893,DLR0050,Lin-M30,2027904,1,DT00423,7,8,2018,Innocenti Motors,Donkervoort Motors,Lincoln
+BR0894,DLR0030,Mit-M277,10085318,2,DT00423,11,4,2018,Innocenti Motors,Cadillac Motors,Mitsubishi
+BR0895,DLR0010,BMW-M247,5666828,1,DT00424,14,12,2018,Innocenti Motors,ARO Motors,BMW
+BR0897,DLR0237,Tat-M187,7940970,2,DT00424,21,11,2018,Innocenti Motors,Casa de cadillac,Tata
+BR0898,DLR0217,Hyu-M157,19615128,3,DT00425,26,7,2018,Innocenti Motors,Izh  Motors,Hyundai
+BR0899,DLR0197,Ren-M127,8037818,2,DT00426,30,3,2018,Innocenti Motors,Toyota India Motors,Renault
+BR0900,DLR0177,Tes-M97,3283236,3,DT00427,2,12,2018,Innocenti Motors,Seat Motors,Tesla
+BR0901,DLR0091,Riv-M91,4713975,1,DT00427,1,4,2018,Invicta Motors,Invicta Motors,Rivian
+BR0902,DLR0071,Acu-M61,23481786,3,DT00428,4,12,2018,Invicta Motors,Ginetta Motors,Acura
+BR0904,DLR0031,BMW-M1,1618930,2,DT00429,12,4,2018,Invicta Motors,Caterham Motors,BMW
+BR0905,DLR0011,BMW-M248,2626165,1,DT00429,15,12,2018,Invicta Motors,Artega Motors,BMW
+BR0906,DLR0183,Mar-M143,24336876,3,DT00430,4,1,2018,Auto-Union Motors,Smart Motors,Maruti Suzuki
+BR0907,DLR0238,Tat-M188,4438278,2,DT00430,22,11,2018,Invicta Motors,Cass Motor Sales,Tata
+BR0908,DLR0218,Hyu-M158,12742176,3,DT00431,27,7,2018,Invicta Motors,Lagonda  Motors,Hyundai
+BR0909,DLR0198,Ren-M128,12977602,2,DT00431,31,3,2018,Invicta Motors,Turner Motors,Renault
+BR0910,DLR0178,Tes-M98,2276966,2,DT00432,3,12,2018,Invicta Motors,Shelby SuperCars Motors,Tesla
+BR0911,DLR0092,Sub-M92,5758576,1,DT00432,2,4,2018,Isdera Motors,Isdera Motors,Subaru
+BR0912,DLR0072,Acu-M62,3951923,1,DT00433,5,12,2018,Isdera Motors,Glas Motors,Acura
+BR0913,DLR0052,Cad-M32,1106634,1,DT00433,9,8,2018,Isdera Motors,e.GO Mobile Motors,Cadillac
+BR0917,DLR0239,Tat-M189,17029410,3,DT00434,23,11,2018,Isdera Motors,Claremore Auto Dealership,Tata
+BR0918,DLR0219,Hyu-M159,9618034,1,DT00434,28,7,2018,Isdera Motors,MG  Motors,Hyundai
+BR0919,DLR0199,Ren-M129,3687822,2,DT00435,1,4,2018,Isdera Motors,TVR Motors,Renault
+BR0921,DLR0093,Sub-M93,5584847,1,DT00436,3,4,2018,Iso Motors,Iso Motors,Subaru
+BR0922,DLR0073,Acu-M63,14394714,2,DT00436,6,12,2018,Iso Motors,GMC Motors,Acura
+BR0923,DLR0053,Cad-M33,1925980,2,DT00437,10,8,2018,Iso Motors,Eicher Polaris Motors,Cadillac
+BR0924,DLR0033,BMW-M3,2382867,1,DT00437,14,4,2018,Iso Motors,Chevrolet Motors,BMW
+BR0925,DLR0013,BMW-M250,11181320,2,DT00438,17,12,2018,Iso Motors,Aston Martin Motors,BMW
+BR0927,DLR0240,Tat-M190,4010877,1,DT00438,24,11,2018,Iso Motors,Clemens Automobile Company Building,Tata
+BR0928,DLR0220,Hyu-M160,11531190,3,DT00439,29,7,2018,Iso Motors,Morris  Motors,Hyundai
+BR0929,DLR0200,Ren-M130,26759202,3,DT00440,2,4,2018,Iso Motors,UAZ Motors,Renault
+BR0930,DLR0180,Toy-M100,3388438,1,DT00440,5,12,2018,Iso Motors,Simca do Brasil Motors,Toyota
+BR0931,DLR0094,Sub-M94,12409908,2,DT00441,4,4,2018,Isotta Fraschini Motors,Isotta Fraschini Motors,Subaru
+BR0933,DLR0054,Cad-M34,3868980,2,DT00441,11,8,2018,Isotta Fraschini Motors,Elva Motors,Cadillac
+BR0934,DLR0034,BMW-M4,28658523,3,DT00442,15,4,2018,Isotta Fraschini Motors,Chevrolet India Motors,BMW
+BR0935,DLR0014,MG-M251,16238960,2,DT00443,18,12,2018,Isotta Fraschini Motors,Audi Motors,MG
+BR0938,DLR0221,Hyu-M161,9244356,2,DT00443,30,7,2018,Isotta Fraschini Motors,Austin  Motors,Hyundai
+BR0939,DLR0201,Ren-M131,19316154,2,DT00444,3,4,2018,Isotta Fraschini Motors,Vauxhall Motors,Renault
+BR0940,DLR0181,Toy-M101,1419756,1,DT00444,6,12,2018,Isotta Fraschini Motors,Singer Motors,Toyota
+BR0941,DLR0095,Sub-M95,14535884,2,DT00445,5,4,2018,Isuzu Motors,Isuzu Motors,Subaru
+BR0942,DLR0075,Hon-M65,3972716,2,DT00445,8,12,2018,Isuzu Motors,Gumpert Motors,Honda
+BR0943,DLR0055,Cad-M35,2450338,1,DT00446,12,8,2018,Isuzu Motors,Facel Vega Motors,Cadillac
+BR0945,DLR0015,MG-M252,9724176,2,DT00447,19,12,2018,Isuzu Motors,Autobianchi Motors,MG
+BR0947,DLR0242,Tat-M192,3118018,2,DT00449,26,11,2018,Isuzu Motors,H Street Playhouse,Tata
+BR0949,DLR0202,Ren-M132,22871226,3,DT00450,4,4,2018,Isuzu Motors,Venturi Motors,Renault
+BR0950,DLR0182,Toy-M102,23969172,3,DT00450,7,12,2018,Isuzu Motors,Skoda Motors,Toyota
+BR0953,DLR0056,Cad-M36,19165328,2,DT00451,13,8,2018,Iveco Motors,Ferrari Motors,Cadillac
+BR0955,DLR0016,Jee-M253,2321419,1,DT00451,20,12,2018,Iveco Motors,Auto-Union Motors,Jeep
+BR0958,DLR0223,Hyu-M163,16851660,3,DT00452,1,8,2018,Iveco Motors,Wolseley  Motors,Hyundai
+BR0959,DLR0203,Toy-M133,8544438,2,DT00452,5,4,2018,Iveco Motors,Volkswagen Motors,Toyota
+BR0960,DLR0183,Toy-M103,9396554,2,DT00453,8,12,2018,Iveco Motors,Smart Motors,Toyota
+BR0961,DLR0097,Tes-M97,25965132,3,DT00453,7,4,2018,Jaguar Motors,Jaguar Motors,Tesla
+BR0963,DLR0057,Cad-M37,1200316,2,DT00454,14,8,2018,Jaguar Motors,Fiat Motors,Cadillac
+BR0964,DLR0037,Mer-M7,3368813,1,DT00454,18,4,2018,Jaguar Motors,Citroën Motors,Mercedes-Benz
+BR0965,DLR0017,Jee-M254,14113876,2,DT00455,21,12,2018,Jaguar Motors,Auverland Motors,Jeep
+BR0966,DLR0184,Mar-M144,9830183,1,DT00455,5,1,2018,Auverland Motors,Spyker Motors,Maruti Suzuki
+BR0967,DLR0244,Tat-M194,1911273,3,DT00456,28,11,2018,Jaguar Motors,Hupmobile Building,Tata
+BR0968,DLR0224,Hyu-M164,9416402,2,DT00456,2,8,2018,Jaguar Motors,Standard  Motors,Hyundai
+BR0969,DLR0204,Toy-M134,8836730,1,DT00457,6,4,2018,Jaguar Motors,Volkswagen do Brasil Motors,Toyota
+BR0970,DLR0184,Toy-M104,9597689,1,DT00459,9,12,2018,Jaguar Motors,Spyker Motors,Toyota
+BR0971,DLR0098,Tes-M98,19511448,3,DT00460,8,4,2018,Jeep Motors,Jeep Motors,Tesla
+BR0972,DLR0078,Hon-M68,29121171,3,DT00460,11,12,2018,Jeep Motors,Hennessey Motors,Honda
+BR0973,DLR0058,Cad-M38,3505652,1,DT00461,15,8,2018,Jeep Motors,Fiat do Brasil Motors,Cadillac
+BR0974,DLR0038,Mer-M8,28307304,3,DT00462,19,4,2018,Jeep Motors,Cizeta-Moroder Motors,Mercedes-Benz
+BR0975,DLR0018,Vol-M255,13098728,2,DT00462,22,12,2018,Jeep Motors,Bentley Motors,Volkswagen
+BR0978,DLR0225,Mah-M165,14235956,2,DT00463,3,8,2018,Jeep Motors,Talbot  Motors,Mahindra
+BR0979,DLR0205,Vol-M135,5550443,1,DT00463,7,4,2018,Jeep Motors,Volkswagen South Africa Motors,Volkswagen
+BR0980,DLR0185,Toy-M105,27165489,3,DT00464,10,12,2018,Jeep Motors,SsangYong Motors,Toyota
+BR0981,DLR0099,Lex-M99,29188608,3,DT00465,9,4,2018,Jensen Motors,Jensen Motors,Lexus
+BR0983,DLR0059,Cad-M39,24586674,3,DT00465,16,8,2018,Jensen Motors,Fiat India Motors,Cadillac
+BR0984,DLR0039,Dod-M9,7543192,1,DT00466,20,4,2018,Jensen Motors,Dacia Motors,Dodge
+BR0985,DLR0019,Vol-M256,7381760,1,DT00466,23,12,2018,Jensen Motors,Bitter Motors,Volkswagen
+BR0987,DLR0246,Toy-M196,13406360,2,DT00467,30,11,2018,Jensen Motors,Jones Motor Company,Toyota
+BR0988,DLR0226,Mah-M166,26598294,3,DT00467,4,8,2018,Jensen Motors,Das Motors,Mahindra
+BR0989,DLR0206,Vol-M136,6871871,1,DT00468,8,4,2018,Jensen Motors,Volvo Motors,Volkswagen
+BR0990,DLR0186,Toy-M106,9420182,2,DT00468,11,12,2018,Jensen Motors,Standard-Triumph Motors,Toyota
+BR0993,DLR0060,Che-M40,22304289,3,DT00469,17,8,2018,JPX Motors,"Fisker, Karma Motors",Chevrolet
+BR0994,DLR0040,Jee-M10,4731537,1,DT00470,21,4,2018,JPX Motors,"Daewoo, Saehan, Chevrolet Korea Motors",Jeep
+BR0995,DLR0020,Vol-M257,26065980,3,DT00470,24,12,2018,JPX Motors,BMW Motors,Volkswagen
+BR0997,DLR0247,Toy-M197,2021596,2,DT00471,1,12,2018,JPX Motors,Kindel Building,Toyota
+BR0998,DLR0227,Mah-M167,1392885,3,DT00471,5,8,2018,JPX Motors,Ramani Motors,Mahindra
+BR0999,DLR0207,Mar-M137,6364987,1,DT00472,9,4,2018,JPX Motors,Westfield Motors,Maruti Suzuki
+BR1001,DLR0101,Toy-M101,9765765,1,DT00473,11,4,2018,Kia Motors,Kia Motors,Toyota
+BR10026,DLR0068,For-M18,1287088,1,DT00473,5,6,2018,Saab Motors,GAZ Motors,Ford
+BR1003,DLR0061,Che-M41,3056898,3,DT00474,18,8,2018,Kia Motors,Ford America Motors,Chevrolet
+BR1004,DLR0041,Jee-M11,22310235,3,DT00475,22,4,2018,Kia Motors,DAF Motors,Jeep
+BR1005,DLR0021,Vol-M258,7205844,3,DT00476,25,12,2018,Kia Motors,Bond Motors,Volkswagen
+BR1008,DLR0228,Mah-M168,8300430,1,DT00476,6,8,2018,Kia Motors,Deccan Motors,Mahindra
+BR10086,DLR0069,For-M19,19539196,2,DT00477,6,6,2018,SAIC Motor Motors,Geo Motors,Ford
+BR1012,DLR0082,Hyu-M72,1890776,2,DT00478,15,12,2018,Koenigsegg Motors,Honda Motors,Hyundai
+BR1013,DLR0062,Che-M42,14296038,2,DT00478,19,8,2018,Koenigsegg Motors,Ford Australia Motors,Chevrolet
+BR1014,DLR0042,Jee-M12,3272100,3,DT00479,23,4,2018,Koenigsegg Motors,Daihatsu Motors,Jeep
+BR10146,DLR0070,For-M20,14208710,2,DT00479,7,6,2018,Saleen Motors,Gilbern Motors,Ford
+BR1015,DLR0022,Vol-M259,6323832,3,DT00480,26,12,2018,Koenigsegg Motors,Borgward (including Goliath and Lloyd) Motors,Volkswagen
+BR1017,DLR0249,Toy-M199,16918773,3,DT00480,3,12,2018,Koenigsegg Motors,Acura Motors,Toyota
+BR1019,DLR0209,Mar-M139,5745982,2,DT00481,11,4,2018,Koenigsegg Motors,Zastava Motors,Maruti Suzuki
+BR1020,DLR0189,Vol-M109,4346106,1,DT00481,14,12,2018,Koenigsegg Motors,Sunbeam Motors,Volkswagen
+BR10206,DLR0071,For-M21,14538244,2,DT00482,8,6,2018,Samsung Motors,Ginetta Motors,Ford
+BR1021,DLR0103,Toy-M103,7065574,2,DT00482,13,4,2018,KTM Motors,KTM Motors,Toyota
+BR1023,DLR0063,Che-M43,8672176,1,DT00483,20,8,2018,KTM Motors,Ford do Brasil Motors,Chevrolet
+BR1025,DLR0023,Vol-M260,1659618,2,DT00483,27,12,2018,KTM Motors,Bristol Motors,Volkswagen
+BR1026,DLR0185,Mar-M145,5461590,2,DT00484,6,1,2018,Bentley Motors,SsangYong Motors,Maruti Suzuki
+BR1027,DLR0250,Toy-M200,17649146,2,DT00484,4,12,2018,KTM Motors,Aixam-Mega (including Arola) Motors,Toyota
+BR1028,DLR0230,Mah-M170,8682432,1,DT00485,8,8,2018,KTM Motors,Zion Automobils,Mahindra
+BR1029,DLR0210,Mar-M140,26993892,3,DT00485,12,4,2018,KTM Motors,ZAZ Motors,Maruti Suzuki
+BR1032,DLR0084,Hyu-M74,7163899,1,DT00486,17,12,2018,Lada Motors,Hudson Motors,Hyundai
+BR10326,DLR0073,For-M23,14987548,2,DT00486,10,6,2018,Santa Matilde Motors,GMC Motors,Ford
+BR1034,DLR0044,Ram-M14,3072957,1,DT00487,25,4,2018,Lada Motors,,Ram
+BR1035,DLR0024,Nis-M261,8956949,1,DT00487,28,12,2018,Lada Motors,British Leyland Motors,Nissan
+BR1037,DLR0251,Toy-M201,7217151,3,DT00488,5,12,2018,Lada Motors,Alfa Romeo Motors,Toyota
+BR10386,DLR0074,For-M24,17253633,3,DT00488,11,6,2018,Santana Motors,GTA Spano Motors,Ford
+BR1039,DLR0211,Mar-M141,11622186,2,DT00489,13,4,2018,Lada Motors,ZIL Motors,Maruti Suzuki
+BR1040,DLR0191,Agr-M111,7803453,1,DT00489,16,12,2018,Lada Motors,Tata Motors,Agrale
+BR1041,DLR0105,Toy-M105,19224651,3,DT00490,15,4,2018,Lamborghini Motors,Lamborghini Motors,Toyota
+BR1043,DLR0065,Che-M45,15231956,2,DT00492,22,8,2018,Lamborghini Motors,Ford India Motors,Chevrolet
+BR1044,DLR0045,Ram-M15,29809104,3,DT00493,26,4,2018,Lamborghini Motors,Delahaye Motors,Ram
+BR10446,DLR0075,For-M25,6639066,2,DT00493,12,6,2018,Saturn Motors,Gumpert Motors,Ford
+BR1045,DLR0025,Nis-M262,5639958,2,DT00494,29,12,2018,Lamborghini Motors,Austin-Healey Motors,Nissan
+BR1047,DLR0252,Toy-M202,8097915,3,DT00494,6,12,2018,Lamborghini Motors,Alpine Motors,Toyota
+BR1048,DLR0232,Mah-M172,9541932,3,DT00495,10,8,2018,Lamborghini Motors,2008 NRHP-listed,Mahindra
+BR1049,DLR0212,Mar-M142,7574786,1,DT00495,14,4,2018,Lamborghini Motors,,Maruti Suzuki
+BR1050,DLR0192,Agr-M112,6865194,3,DT00496,17,12,2018,Lamborghini Motors,Tatra Motors,Agrale
+BR10506,DLR0076,For-M26,1784735,1,DT00496,13,6,2018,Scion Motors,Healey Motors,Ford
+BR1051,DLR0106,Toy-M106,22519947,3,DT00498,16,4,2018,Lancia Motors,Lancia Motors,Toyota
+BR1052,DLR0086,Kia-M76,7886144,2,DT00498,19,12,2018,Lancia Motors,Hummer Motors,Kia
+BR1053,DLR0066,Che-M46,349526,1,DT00499,23,8,2018,Lancia Motors,Freightliner Motors,Chevrolet
+BR1055,DLR0026,Nis-M263,9672447,3,DT00499,30,12,2018,Lancia Motors,"Austin, Rover Motors",Nissan
+BR10566,DLR0077,Lin-M27,3027222,1,DT00500,14,6,2018,Seat Motors,Heinkel Motors,Lincoln
+BR1058,DLR0233,Mah-M173,1464319,1,DT00501,11,8,2018,Lancia Motors,Blankinship Motor Company Building,Mahindra
+BR1059,DLR0213,Mar-M143,6375040,1,DT00502,15,4,2018,Lancia Motors,DKW Motors,Maruti Suzuki
+BR1060,DLR0193,Agr-M113,7823304,3,DT00502,18,12,2018,Lancia Motors,Tazzari Motors,Agrale
+BR1061,DLR0107,Toy-M107,9518214,1,DT00503,17,4,2018,Land Rover Motors,Land Rover Motors,Toyota
+BR10626,DLR0078,Lin-M28,7448026,2,DT00503,15,6,2018,Shelby SuperCars Motors,Hennessey Motors,Lincoln
+BR1063,DLR0067,Che-M47,9643727,1,DT00504,24,8,2018,Land Rover Motors,FSO Motors,Chevrolet
+BR1065,DLR0027,Nis-M264,11103922,2,DT00505,31,12,2018,Land Rover Motors,Bugatti Motors,Nissan
+BR1067,DLR0254,Toy-M204,12080535,3,DT00505,8,12,2018,Land Rover Motors,"AMC, Eagle Motors",Toyota
+BR1068,DLR0234,Mah-M174,14341460,2,DT00507,12,8,2018,Land Rover Motors,Bohn Motor Company Automobile Dealership,Mahindra
+BR10686,DLR0079,Lin-M29,18270696,3,DT00509,16,6,2018,Simca Motors,Hillman Motors,Lincoln
+BR1070,DLR0194,Che-M114,8850410,2,DT00509,19,12,2018,Land Rover Motors,Tesla Motors,Chevrolet
+BR1071,DLR0108,Vol-M108,5165328,3,DT00510,18,4,2018,Lexus Motors,Lexus Motors,Volkswagen
+BR1073,DLR0068,Che-M48,29103405,3,DT00510,25,8,2018,Lexus Motors,GAZ Motors,Chevrolet
+BR1074,DLR0048,For-M18,4341243,1,DT00511,29,4,2018,Lexus Motors,De Tomaso Motors,Ford
+BR10746,DLR0080,Lin-M30,1331514,2,DT00512,17,6,2018,Simca do Brasil Motors,Hindustan Motors,Lincoln
+BR1075,DLR0028,Nis-M265,946626,1,DT00512,1,1,2018,Lexus Motors,Buick Motors,Nissan
+BR1077,DLR0255,Toy-M205,3951769,1,DT00513,9,12,2018,Lexus Motors,Anadol Motors,Toyota
+BR1078,DLR0235,Mah-M175,8873398,2,DT00513,13,8,2018,Lexus Motors,Buick Automobile Company Building,Mahindra
+BR1079,DLR0215,Mar-M145,14598236,2,DT00514,17,4,2018,Lexus Motors,Wanderer Motors,Maruti Suzuki
+BR1080,DLR0195,Cit-M115,523765,1,DT00514,20,12,2018,Lexus Motors,Tornado Motors,Citroën
+BR10806,DLR0081,Bui-M31,18667524,2,DT00515,18,6,2018,Singer Motors,Holden Motors,Buick
+BR1083,DLR0069,Che-M49,12686360,2,DT00515,26,8,2018,Ligier Motors,Geo Motors,Chevrolet
+BR1086,DLR0186,Mar-M146,1457835,1,DT00516,7,1,2018,Bitter Motors,Standard-Triumph Motors,Maruti Suzuki
+BR1087,DLR0256,Toy-M206,1512679,1,DT00516,10,12,2018,Ligier Motors,Ariel Motors,Toyota
+BR1088,DLR0236,Mah-M176,8412846,1,DT00517,14,8,2018,Ligier Motors,Cadillac Automobile Company Building,Mahindra
+BR1092,DLR0090,Nis-M80,9454887,1,DT00519,23,12,2018,Lincoln Motors,,Nissan
+BR1093,DLR0070,Che-M50,9927018,1,DT00519,27,8,2018,Lincoln Motors,Gilbern Motors,Chevrolet
+BR1094,DLR0050,For-M20,27861795,3,DT00520,1,5,2018,Lincoln Motors,Donkervoort Motors,Ford
+BR1098,DLR0237,Mah-M177,12375153,3,DT00520,15,8,2018,Lincoln Motors,Casa de cadillac,Mahindra
+BR10986,DLR0084,Cad-M34,5803186,2,DT00521,21,6,2018,Spyker Motors,Hudson Motors,Cadillac
+BR1099,DLR0217,Mar-M147,5741370,3,DT00523,19,4,2018,Lincoln Motors,Izh  Motors,Maruti Suzuki
+BR1101,DLR0111,Agr-M111,9378756,1,DT00523,21,4,2018,Lotus Motors,Lotus Motors,Agrale
+BR1102,DLR0091,Nis-M81,3829077,1,DT00524,24,12,2018,Lotus Motors,Invicta Motors,Nissan
+BR1103,DLR0071,Che-M51,5339272,1,DT00524,28,8,2018,Lotus Motors,Ginetta Motors,Chevrolet
+BR1104,DLR0051,For-M21,2186159,1,DT00525,2,5,2018,Lotus Motors,Edsel Motors,Ford
+BR1105,DLR0031,Nis-M268,2349414,3,DT00526,4,1,2018,Lotus Motors,Caterham Motors,Nissan
+BR1107,DLR0258,Ren-M208,4359082,1,DT00526,12,12,2018,Lotus Motors,,Renault
+BR1108,DLR0238,Mah-M178,798600,1,DT00527,16,8,2018,Lotus Motors,Cass Motor Sales,Mahindra
+BR1110,DLR0198,Fia-M118,4186433,1,DT00528,23,12,2018,Lotus Motors,Turner Motors,Fiat
+BR11106,DLR0086,Cad-M36,4118441,1,DT00528,23,6,2018,Standard-Triumph Motors,Hummer Motors,Cadillac
+BR1111,DLR0112,Agr-M112,16902318,3,DT00529,22,4,2018,LTI Motors,LTI Motors,Agrale
+BR1112,DLR0092,Nis-M82,7682953,1,DT00530,25,12,2018,LTI Motors,Isdera Motors,Nissan
+BR1113,DLR0072,GMC-M52,16163871,3,DT00531,29,8,2018,LTI Motors,Glas Motors,GMC
+BR1114,DLR0052,For-M22,6567519,1,DT00531,3,5,2018,LTI Motors,e.GO Mobile Motors,Ford
+BR1117,DLR0259,Ren-M209,3086199,3,DT00532,13,12,2018,LTI Motors,Asia Motors Motors,Renault
+BR1118,DLR0239,Tat-M179,773370,2,DT00533,17,8,2018,LTI Motors,Claremore Auto Dealership,Tata
+BR1121,DLR0113,Agr-M113,6757582,1,DT00534,23,4,2018,LuAZ Motors,LuAZ Motors,Agrale
+BR1123,DLR0073,GMC-M53,20381646,3,DT00535,30,8,2018,LuAZ Motors,GMC Motors,GMC
+BR1125,DLR0033,Nis-M270,5501066,2,DT00535,6,1,2018,LuAZ Motors,Chevrolet Motors,Nissan
+BR1127,DLR0260,Ren-M210,20558646,3,DT00536,14,12,2018,LuAZ Motors,Aston Martin Motors,Renault
+BR1128,DLR0240,Tat-M180,5880062,2,DT00536,18,8,2018,LuAZ Motors,Clemens Automobile Company Building,Tata
+BR11286,DLR0089,Cad-M39,6676518,3,DT00537,26,6,2018,Sunbeam Motors,Infiniti Motors,Cadillac
+BR1129,DLR0220,Mar-M150,4716180,1,DT00538,22,4,2018,LuAZ Motors,Morris  Motors,Maruti Suzuki
+BR1130,DLR0200,Hon-M120,15259290,3,DT00539,25,12,2018,LuAZ Motors,UAZ Motors,Honda
+BR1135,DLR0034,Sko-M271,15299630,2,DT00539,7,1,2018,Lynx Motors,Chevrolet India Motors,Skoda
+BR1137,DLR0261,Ren-M211,10784660,2,DT00540,15,12,2018,Lynx Motors,Audi Motors,Renault
+BR1138,DLR0241,Tat-M181,9838939,1,DT00541,19,8,2018,Lynx Motors,Colman Automotive Building,Tata
+BR1140,DLR0201,Mer-M121,6480690,2,DT00541,26,12,2018,Lynx Motors,Vauxhall Motors,Mercedes-Benz
+BR11406,DLR0091,Che-M41,341128,2,DT00542,28,6,2018,Tata Motors,Invicta Motors,Chevrolet
+BR1141,DLR0115,Cit-M115,2672576,2,DT00542,25,4,2018,Mahindra Motors,Mahindra Motors,Citroën
+BR1143,DLR0075,GMC-M55,14912856,2,DT00543,1,9,2018,Mahindra Motors,Gumpert Motors,GMC
+BR1145,DLR0035,Sko-M272,573260,1,DT00543,8,1,2018,Mahindra Motors,Chrysler Motors,Skoda
+BR1146,DLR0187,Mar-M147,9112182,1,DT00544,8,1,2018,BMW Motors,Studebaker Motors,Maruti Suzuki
+BR11466,DLR0092,Che-M42,14865483,3,DT00546,29,6,2018,Tatra Motors,Isdera Motors,Chevrolet
+BR1147,DLR0262,Kia-M212,17356910,2,DT00546,16,12,2018,Mahindra Motors,Autobianchi Motors,Kia
+BR1148,DLR0242,Tat-M182,5429292,1,DT00547,20,8,2018,Mahindra Motors,H Street Playhouse,Tata
+BR1149,DLR0222,Mar-M152,394149,1,DT00548,24,4,2018,Mahindra Motors,Riley  Motors,Maruti Suzuki
+BR1150,DLR0202,Mer-M122,693802,1,DT00548,27,12,2018,Mahindra Motors,Venturi Motors,Mercedes-Benz
+BR1151,DLR0116,Cit-M116,20009418,3,DT00549,26,4,2018,Marcos Motors,Marcos Motors,Citroën
+BR1152,DLR0096,Nis-M86,22099773,3,DT00550,29,12,2018,Marcos Motors,Iveco Motors,Nissan
+BR11526,DLR0093,Che-M43,18326772,2,DT00550,30,6,2018,Tazzari Motors,Iso Motors,Chevrolet
+BR1155,DLR0036,Sko-M273,6991308,2,DT00551,9,1,2018,Marcos Motors,Chrysler Europe Motors,Skoda
+BR1157,DLR0263,Kia-M213,4808656,2,DT00552,17,12,2018,Marcos Motors,Auto-Union Motors,Kia
+BR1158,DLR0243,Tat-M183,16911087,3,DT00552,21,8,2018,Marcos Motors,Howard Motor Company Building,Tata
+BR11586,DLR0094,Che-M44,3413709,3,DT00553,1,7,2018,Tesla Motors,Isotta Fraschini Motors,Chevrolet
+BR1159,DLR0223,Hyu-M153,4377730,2,DT00554,25,4,2018,Marcos Motors,Wolseley  Motors,Hyundai
+BR1162,DLR0097,Nis-M87,13501758,2,DT00555,30,12,2018,Marlin Motors,Jaguar Motors,Nissan
+BR1163,DLR0077,GMC-M57,27236946,3,DT00556,3,9,2018,Marlin Motors,Heinkel Motors,GMC
+BR1164,DLR0057,Lin-M27,1589669,1,DT00556,8,5,2018,Marlin Motors,Fiat Motors,Lincoln
+BR11646,DLR0095,Che-M45,8817572,1,DT00557,2,7,2018,Tornado Motors,Isuzu Motors,Chevrolet
+BR1165,DLR0037,Sko-M274,4594208,1,DT00557,10,1,2018,Marlin Motors,Citroën Motors,Skoda
+BR1167,DLR0264,Kia-M214,17273871,3,DT00558,18,12,2018,Marlin Motors,Auverland Motors,Kia
+BR1168,DLR0244,Tat-M184,7550560,1,DT00559,22,8,2018,Marlin Motors,Hupmobile Building,Tata
+BR1170,DLR0204,Peu-M124,9062583,1,DT00559,29,12,2018,Marlin Motors,Volkswagen do Brasil Motors,Peugeot
+BR11706,DLR0096,Che-M46,8765382,1,DT00560,3,7,2018,Toyota Motors,Iveco Motors,Chevrolet
+BR1171,DLR0118,Fia-M118,8396223,1,DT00560,28,4,2018,Maruti Motors,Maruti Motors,Fiat
+BR1172,DLR0098,Nis-M88,363498,1,DT00561,31,12,2018,Maruti Motors,Jeep Motors,Nissan
+BR1173,DLR0078,GMC-M58,14665640,2,DT00562,4,9,2018,Maruti Motors,Hennessey Motors,GMC
+BR1174,DLR0058,Lin-M28,8311743,3,DT00562,9,5,2018,Maruti Motors,Fiat do Brasil Motors,Lincoln
+BR1175,DLR0038,Mit-M275,6379479,3,DT00564,11,1,2018,Maruti Motors,Cizeta-Moroder Motors,Mitsubishi
+BR1177,DLR0265,Hon-M215,7818633,3,DT00564,19,12,2018,Maruti Motors,Bentley Motors,Honda
+BR1178,DLR0245,Tat-M185,16935201,3,DT00565,23,8,2018,Maruti Motors,Jennings Ford Automobile Dealership,Tata
+BR1179,DLR0225,Hyu-M155,1863259,1,DT00565,27,4,2018,Maruti Motors,Talbot  Motors,Hyundai
+BR1180,DLR0205,Peu-M125,23562717,3,DT00566,30,12,2018,Maruti Motors,Volkswagen South Africa Motors,Peugeot
+BR1181,DLR0119,For-M119,4386508,2,DT00566,29,4,2018,Maserati Motors,Maserati Motors,Ford
+BR1182,DLR0099,Nis-M89,14603685,3,DT00567,1,1,2018,Maserati Motors,Jensen Motors,Nissan
+BR11826,DLR0098,Che-M48,11941370,2,DT00568,5,7,2018,Turner Motors,Jeep Motors,Chevrolet
+BR1183,DLR0079,Acu-M59,860789,1,DT00569,5,9,2018,Maserati Motors,Hillman Motors,Acura
+BR1184,DLR0059,Lin-M29,1241180,2,DT00570,10,5,2018,Maserati Motors,Fiat India Motors,Lincoln
+BR1188,DLR0246,Tat-M186,16800074,2,DT00570,24,8,2018,Maserati Motors,Jones Motor Company,Tata
+BR1189,DLR0226,Hyu-M156,1397563,1,DT00571,28,4,2018,Maserati Motors,Das Motors,Hyundai
+BR1190,DLR0206,Peu-M126,9479098,2,DT00572,31,12,2018,Maserati Motors,Volvo Motors,Peugeot
+BR1192,DLR0100,Riv-M90,18138627,3,DT00572,2,1,2018,Mastretta Motors,JPX Motors,Rivian
+BR1193,DLR0080,Acu-M60,23134212,3,DT00573,6,9,2018,Mastretta Motors,Hindustan Motors,Acura
+BR1194,DLR0060,Lin-M30,14471634,2,DT00573,11,5,2018,Mastretta Motors,"Fisker, Karma Motors",Lincoln
+BR11946,DLR0100,Che-M50,4533018,3,DT00574,7,7,2018,UAZ Motors,JPX Motors,Chevrolet
+BR1195,DLR0040,Mit-M277,12731434,2,DT00574,13,1,2018,Mastretta Motors,"Daewoo, Saehan, Chevrolet Korea Motors",Mitsubishi
+BR1197,DLR0267,Hon-M217,15725676,3,DT00575,21,12,2018,Mastretta Motors,BMW Motors,Honda
+BR1198,DLR0247,Tat-M187,18205968,2,DT00575,25,8,2018,Mastretta Motors,Kindel Building,Tata
+BR1199,DLR0227,Hyu-M157,25054869,3,DT00576,29,4,2018,Mastretta Motors,Ramani Motors,Hyundai
+BR1200,DLR0207,Ren-M127,5217794,1,DT00577,1,1,2018,Mastretta Motors,Westfield Motors,Renault
+BR12006,DLR0101,Che-M51,9179190,3,DT00578,8,7,2018,Vauxhall Motors,Kia Motors,Chevrolet
+BR1202,DLR0101,Riv-M91,9356885,1,DT00578,3,1,2018,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Kia Motors,Rivian
+BR1203,DLR0081,Acu-M61,4954303,1,DT00579,7,9,2018,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Holden Motors,Acura
+BR1204,DLR0061,Bui-M31,23814543,3,DT00579,12,5,2018,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Ford America Motors,Buick
+BR1205,DLR0041,BMW-M1,20119176,3,DT00580,14,1,2018,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",DAF Motors,BMW
+BR1207,DLR0001,Hon-M218,20098230,3,DT00581,22,12,2018,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",AC Cars Motors,Honda
+BR1208,DLR0248,Tat-M188,1115865,3,DT00581,26,8,2018,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",AC Cars Motors,Tata
+BR1209,DLR0228,Hyu-M158,3475515,1,DT00582,30,4,2018,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Deccan Motors,Hyundai
+BR1210,DLR0208,Ren-M128,9250976,2,DT00582,2,1,2018,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Wiesmann Motors,Renault
+BR1212,DLR0102,Sub-M92,1022362,1,DT00583,4,1,2018,Mazda Motors,Koenigsegg Motors,Subaru
+BR12126,DLR0103,GMC-M53,17232402,2,DT00583,10,7,2018,Volkswagen Motors,KTM Motors,GMC
+BR1214,DLR0062,Cad-M32,736926,2,DT00584,13,5,2018,Mazda Motors,Ford Australia Motors,Cadillac
+BR1215,DLR0042,BMW-M2,12564672,3,DT00585,15,1,2018,Mazda Motors,Daihatsu Motors,BMW
+BR1217,DLR0002,Hon-M219,1171358,1,DT00586,23,12,2018,Mazda Motors,Acura Motors,Honda
+BR1218,DLR0249,Tat-M189,10382696,2,DT00587,27,8,2018,Mazda Motors,Acura Motors,Tata
+BR12186,DLR0104,GMC-M54,8025442,2,DT00587,11,7,2018,Volkswagen do Brasil Motors,Lada Motors,GMC
+BR1219,DLR0229,Hyu-M159,21112329,3,DT00588,1,5,2018,Mazda Motors,Herald Motors,Hyundai
+BR1220,DLR0209,Ren-M129,3678913,1,DT00588,3,1,2018,Mazda Motors,Zastava Motors,Renault
+BR1222,DLR0103,Sub-M93,21804849,3,DT00589,5,1,2018,Mazzanti Motors,KTM Motors,Subaru
+BR1223,DLR0083,Acu-M63,4070808,1,DT00589,9,9,2018,Mazzanti Motors,Honda India Motors,Acura
+BR1224,DLR0063,Cad-M33,4857048,2,DT00590,14,5,2018,Mazzanti Motors,Ford do Brasil Motors,Cadillac
+BR12246,DLR0105,GMC-M55,7964170,2,DT00590,12,7,2018,Volkswagen South Africa Motors,Lamborghini Motors,GMC
+BR1227,DLR0003,Hon-M220,8153345,1,DT00591,24,12,2018,Mazzanti Motors,Aixam-Mega (including Arola) Motors,Honda
+BR1228,DLR0250,Tat-M190,19307094,2,DT00591,28,8,2018,Mazzanti Motors,Aixam-Mega (including Arola) Motors,Tata
+BR1229,DLR0230,Hyu-M160,27943230,3,DT00592,2,5,2018,Mazzanti Motors,Zion Automobils,Hyundai
+BR1230,DLR0210,Ren-M130,16850778,2,DT00592,4,1,2018,Mazzanti Motors,ZAZ Motors,Renault
+BR12306,DLR0106,GMC-M56,19630850,2,DT00593,13,7,2018,Volvo Motors,Lancia Motors,GMC
+BR1231,DLR0124,Peu-M124,12536596,2,DT00593,4,5,2018,McLaren Motors,McLaren Motors,Peugeot
+BR1232,DLR0104,Sub-M94,1865274,3,DT00594,6,1,2018,McLaren Motors,Lada Motors,Subaru
+BR1233,DLR0084,Hon-M64,7780268,1,DT00594,10,9,2018,McLaren Motors,Hudson Motors,Honda
+BR1234,DLR0064,Cad-M34,19647284,2,DT00595,15,5,2018,McLaren Motors,Ford Europe Motors,Cadillac
+BR1235,DLR0044,BMW-M4,7034814,2,DT00595,17,1,2018,McLaren Motors,,BMW
+BR12366,DLR0107,GMC-M57,8636598,2,DT00596,14,7,2018,Westfield Motors,Land Rover Motors,GMC
+BR1238,DLR0251,Tat-M191,9139185,1,DT00596,29,8,2018,McLaren Motors,Alfa Romeo Motors,Tata
+BR1239,DLR0231,Hyu-M161,9632295,3,DT00597,3,5,2018,McLaren Motors,Atlantic Motor Company,Hyundai
+BR1240,DLR0211,Ren-M131,2717264,1,DT00597,5,1,2018,McLaren Motors,ZIL Motors,Renault
+BR1241,DLR0125,Peu-M125,4013044,2,DT00598,5,5,2018,Mercedes-Benz (including Maybach) Motors,Mercedes-Benz (including Maybach) Motors,Peugeot
+BR1243,DLR0085,Hon-M65,4013704,2,DT00599,11,9,2018,Mercedes-Benz (including Maybach) Motors,Humber Motors,Honda
+BR1244,DLR0065,Cad-M35,9810558,3,DT00599,16,5,2018,Mercedes-Benz (including Maybach) Motors,Ford India Motors,Cadillac
+BR1245,DLR0045,BMW-M5,3141089,1,DT00600,18,1,2018,Mercedes-Benz (including Maybach) Motors,Delahaye Motors,BMW
+BR1247,DLR0005,For-M222,2503041,1,DT00600,26,12,2018,Mercedes-Benz (including Maybach) Motors,Alpine Motors,Ford
+BR1248,DLR0252,Tat-M192,1910037,3,DT00601,30,8,2018,Mercedes-Benz (including Maybach) Motors,Alpine Motors,Tata
+BR12486,DLR0109,Acu-M59,12894642,3,DT00601,16,7,2018,Zastava Motors,Ligier Motors,Acura
+BR1249,DLR0232,Hyu-M162,7324987,1,DT00602,4,5,2018,Mercedes-Benz (including Maybach) Motors,2008 NRHP-listed,Hyundai
+BR1251,DLR0126,Peu-M126,17994549,3,DT00602,6,5,2018,Mercury Motors,Mercury Motors,Peugeot
+BR1252,DLR0106,Tes-M96,10290584,2,DT00603,8,1,2018,Mercury Motors,Lancia Motors,Tesla
+BR1253,DLR0086,Hon-M66,1962370,1,DT00603,12,9,2018,Mercury Motors,Hummer Motors,Honda
+BR1255,DLR0046,Mer-M6,4815214,2,DT00604,19,1,2018,Mercury Motors,DeLorean Motors,Mercedes-Benz
+BR1258,DLR0253,Tat-M193,8419928,1,DT00604,31,8,2018,Mercury Motors,Alvis Motors,Tata
+BR1259,DLR0233,Hyu-M163,2398611,1,DT00605,5,5,2018,Mercury Motors,Blankinship Motor Company Building,Hyundai
+BR12606,DLR0111,Acu-M61,3510889,1,DT00605,18,7,2018,ZIL Motors,Lotus Motors,Acura
+BR1261,DLR0127,Ren-M127,20032434,3,DT00606,7,5,2018,Merkur Motors,Merkur Motors,Renault
+BR1262,DLR0107,Tes-M97,8902988,2,DT00606,9,1,2018,Merkur Motors,Land Rover Motors,Tesla
+BR1263,DLR0087,Hon-M67,5498931,3,DT00607,13,9,2018,Merkur Motors,Hyundai Motors,Honda
+BR1264,DLR0067,Cad-M37,8193938,1,DT00607,18,5,2018,Merkur Motors,FSO Motors,Cadillac
+BR1266,DLR0189,Mar-M149,12944730,3,DT00608,10,1,2018,Borgward (including Goliath and Lloyd) Motors,Sunbeam Motors,Maruti Suzuki
+BR12666,DLR0112,Acu-M62,10668876,2,DT00609,19,7,2018,Audi Motors,LTI Motors,Acura
+BR1267,DLR0007,For-M224,4852780,1,DT00609,28,12,2018,Merkur Motors,"AMC, Eagle Motors",Ford
+BR1268,DLR0254,Tat-M194,5687952,3,DT00611,1,9,2018,Merkur Motors,"AMC, Eagle Motors",Tata
+BR1270,DLR0214,Toy-M134,22982112,3,DT00611,8,1,2018,Merkur Motors,Horch Motors,Toyota
+BR1273,DLR0088,Hon-M68,4756842,2,DT00612,14,9,2018,Messerschmitt Motors,"IFA (including Trabant, Wartburg, Barkas) Motors",Honda
+BR1274,DLR0068,Cad-M38,8194514,2,DT00612,19,5,2018,Messerschmitt Motors,GAZ Motors,Cadillac
+BR1275,DLR0048,Mer-M8,1681622,1,DT00613,21,1,2018,Messerschmitt Motors,De Tomaso Motors,Mercedes-Benz
+BR1277,DLR0008,For-M225,8105433,3,DT00614,29,12,2018,Messerschmitt Motors,Anadol Motors,Ford
+BR12786,DLR0114,Hon-M64,8184342,1,DT00614,21,7,2018,Horch Motors,Lynx Motors,Honda
+BR1279,DLR0235,Mah-M165,4152994,2,DT00615,7,5,2018,Messerschmitt Motors,Buick Automobile Company Building,Mahindra
+BR1283,DLR0089,Hon-M69,24716376,3,DT00615,15,9,2018,Mia Motors,Infiniti Motors,Honda
+BR1287,DLR0009,For-M226,6950547,1,DT00616,30,12,2018,Mia Motors,Ariel Motors,Ford
+BR1288,DLR0256,Toy-M196,16395304,2,DT00617,3,9,2018,Mia Motors,Ariel Motors,Toyota
+BR1289,DLR0236,Mah-M166,2474385,3,DT00617,8,5,2018,Mia Motors,Cadillac Automobile Company Building,Mahindra
+BR1290,DLR0216,Vol-M136,19641387,3,DT00618,10,1,2018,Mia Motors,Maybach  Motors,Volkswagen
+BR12906,DLR0116,Hon-M66,2525831,1,DT00618,23,7,2018,Maybach  Motors,Marcos Motors,Honda
+BR1291,DLR0130,Ren-M130,2945306,1,DT00619,10,5,2018,Micro Motors,Micro Motors,Renault
+BR1292,DLR0110,Toy-M100,23239323,3,DT00620,12,1,2018,Micro Motors,Lincoln Motors,Toyota
+BR1293,DLR0090,Hon-M70,22218969,3,DT00620,16,9,2018,Micro Motors,,Honda
+BR1294,DLR0070,Che-M40,1934226,3,DT00621,21,5,2018,Micro Motors,Gilbern Motors,Chevrolet
+BR1295,DLR0050,Jee-M10,14558850,2,DT00621,23,1,2018,Micro Motors,Donkervoort Motors,Jeep
+BR12966,DLR0117,Hon-M67,9155025,3,DT00622,24,7,2018,Izh  Motors,Marlin Motors,Honda
+BR1298,DLR0257,Toy-M197,2414785,1,DT00622,4,9,2018,Micro Motors,ARO Motors,Toyota
+BR1299,DLR0237,Mah-M167,9875101,1,DT00623,9,5,2018,Micro Motors,Casa de cadillac,Mahindra
+BR1300,DLR0217,Mar-M137,8749140,3,DT00623,11,1,2018,Micro Motors,Izh  Motors,Maruti Suzuki
+BR1301,DLR0131,Ren-M131,9813516,1,DT00624,11,5,2018,Mini Motors,Mini Motors,Renault
+BR1302,DLR0111,Toy-M101,3796049,1,DT00624,13,1,2018,Mini Motors,Lotus Motors,Toyota
+BR13026,DLR0118,Hon-M68,14888976,3,DT00625,25,7,2018,Lagonda  Motors,Maruti Motors,Honda
+BR1303,DLR0091,Hon-M71,15407670,3,DT00625,17,9,2018,Mini Motors,Invicta Motors,Honda
+BR1304,DLR0071,Che-M41,12463830,3,DT00626,22,5,2018,Mini Motors,Ginetta Motors,Chevrolet
+BR1305,DLR0051,Jee-M11,4375707,3,DT00626,24,1,2018,Mini Motors,Edsel Motors,Jeep
+BR1307,DLR0011,Aud-M228,13947848,2,DT00627,1,1,2018,Mini Motors,Artega Motors,Audi
+BR13086,DLR0119,Hon-M69,22958067,3,DT00627,26,7,2018,MG  Motors,Maserati Motors,Honda
+BR1310,DLR0218,Mar-M138,1791030,1,DT00628,12,1,2018,Mini Motors,Lagonda  Motors,Maruti Suzuki
+BR1313,DLR0092,Hyu-M72,18149337,3,DT00629,18,9,2018,Mitsubishi Motors,Isdera Motors,Hyundai
+BR1314,DLR0072,Che-M42,1441488,1,DT00630,23,5,2018,Mitsubishi Motors,Glas Motors,Chevrolet
+BR1315,DLR0052,Jee-M12,6981696,3,DT00631,25,1,2018,Mitsubishi Motors,e.GO Mobile Motors,Jeep
+BR1317,DLR0012,Aud-M229,14458628,2,DT00631,2,1,2018,Mitsubishi Motors,Asia Motors Motors,Audi
+BR1318,DLR0259,Toy-M199,6984864,2,DT00632,6,9,2018,Mitsubishi Motors,Asia Motors Motors,Toyota
+BR1320,DLR0219,Mar-M139,15720604,2,DT00632,13,1,2018,Mitsubishi Motors,MG  Motors,Maruti Suzuki
+BR1321,DLR0133,Toy-M133,8014593,1,DT00633,13,5,2018,Monica Motors,Monica Motors,Toyota
+BR1322,DLR0113,Toy-M103,4935354,2,DT00634,15,1,2018,Monica Motors,LuAZ Motors,Toyota
+BR1323,DLR0093,Hyu-M73,23853315,3,DT00634,19,9,2018,Monica Motors,Iso Motors,Hyundai
+BR1325,DLR0053,Jee-M13,11820578,2,DT00635,26,1,2018,Monica Motors,Eicher Polaris Motors,Jeep
+BR1326,DLR0190,Mar-M150,18991178,2,DT00635,11,1,2018,Bristol Motors,Suzuki Motors,Maruti Suzuki
+BR13266,DLR0122,Hyu-M72,2488763,1,DT00636,29,7,2018,Riley  Motors,Mazda Motors,Hyundai
+BR1328,DLR0260,Toy-M200,9647960,1,DT00638,7,9,2018,Monica Motors,Aston Martin Motors,Toyota
+BR1330,DLR0220,Mar-M140,4505054,2,DT00639,14,1,2018,Monica Motors,Morris  Motors,Maruti Suzuki
+BR1332,DLR0114,Toy-M104,26891523,3,DT00640,16,1,2018,Monteverdi Motors,Lynx Motors,Toyota
+BR13326,DLR0123,Hyu-M73,2594596,1,DT00641,30,7,2018,Wolseley  Motors,Mazzanti Motors,Hyundai
+BR1333,DLR0094,Hyu-M74,28091703,3,DT00641,20,9,2018,Monteverdi Motors,Isotta Fraschini Motors,Hyundai
+BR1338,DLR0261,Toy-M201,2319903,1,DT00642,8,9,2018,Monteverdi Motors,Audi Motors,Toyota
+BR13386,DLR0124,Hyu-M74,5609846,2,DT00642,31,7,2018,Standard  Motors,McLaren Motors,Hyundai
+BR1339,DLR0241,Mah-M171,4342526,1,DT00643,13,5,2018,Monteverdi Motors,Colman Automotive Building,Mahindra
+BR1340,DLR0221,Mar-M141,7636791,1,DT00643,15,1,2018,Monteverdi Motors,Austin  Motors,Maruti Suzuki
+BR1343,DLR0095,Hyu-M75,982629,1,DT00644,21,9,2018,Morgan Motors,Isuzu Motors,Hyundai
+BR1347,DLR0015,Aud-M232,8461623,1,DT00644,5,1,2018,Morgan Motors,Autobianchi Motors,Audi
+BR1348,DLR0262,Toy-M202,6633454,1,DT00645,9,9,2018,Morgan Motors,Autobianchi Motors,Toyota
+BR1349,DLR0242,Mah-M172,5303990,2,DT00645,14,5,2018,Morgan Motors,H Street Playhouse,Mahindra
+BR13506,DLR0126,Kia-M76,7842499,1,DT00646,2,8,2018,Das Motors,Mercury Motors,Kia
+BR1351,DLR0136,Vol-M136,19375632,3,DT00646,16,5,2018,Moskwitch Motors,Moskwitch Motors,Volkswagen
+BR1352,DLR0116,Toy-M106,319262,2,DT00647,18,1,2018,Moskwitch Motors,Marcos Motors,Toyota
+BR1353,DLR0096,Kia-M76,5204886,2,DT00648,22,9,2018,Moskwitch Motors,Iveco Motors,Kia
+BR13566,DLR0127,Kia-M77,5798275,1,DT00649,3,8,2018,Ramani Motors,Merkur Motors,Kia
+BR1358,DLR0263,Toy-M203,736620,2,DT00649,10,9,2018,Moskwitch Motors,Auto-Union Motors,Toyota
+BR1360,DLR0223,Mar-M143,10719476,2,DT00650,17,1,2018,Moskwitch Motors,Wolseley  Motors,Maruti Suzuki
+BR1362,DLR0117,Toy-M107,1338147,1,DT00650,19,1,2018,Nash Motors,Marlin Motors,Toyota
+BR13626,DLR0128,Kia-M78,1011480,2,DT00651,4,8,2018,Deccan Motors,Messerschmitt Motors,Kia
+BR1363,DLR0097,Kia-M77,3290799,3,DT00651,23,9,2018,Nash Motors,Jaguar Motors,Kia
+BR1364,DLR0077,Che-M47,4916778,1,DT00652,28,5,2018,Nash Motors,Heinkel Motors,Chevrolet
+BR1365,DLR0057,For-M17,1729269,1,DT00653,30,1,2018,Nash Motors,Fiat Motors,Ford
+BR13686,DLR0129,Inf-M79,2298897,3,DT00653,5,8,2018,Herald Motors,Mia Motors,Infiniti
+BR1369,DLR0244,Mah-M174,11406252,2,DT00654,16,5,2018,Nash Motors,Hupmobile Building,Mahindra
+BR1370,DLR0224,Mar-M144,22596384,3,DT00654,18,1,2018,Nash Motors,Standard  Motors,Maruti Suzuki
+BR1371,DLR0138,Mar-M138,5418394,1,DT00655,18,5,2018,Naza Motors,Naza Motors,Maruti Suzuki
+BR1372,DLR0118,Vol-M108,3543648,3,DT00655,20,1,2018,Naza Motors,Maruti Motors,Volkswagen
+BR1373,DLR0098,Kia-M78,16951182,3,DT00656,24,9,2018,Naza Motors,Jeep Motors,Kia
+BR13746,DLR0130,Nis-M80,16207740,3,DT00657,6,8,2018,Zion Automobils,Micro Motors,Nissan
+BR1377,DLR0018,Aud-M235,23525034,3,DT00658,8,1,2018,Naza Motors,Bentley Motors,Audi
+BR1378,DLR0265,Toy-M205,19976336,2,DT00658,12,9,2018,Naza Motors,Bentley Motors,Toyota
+BR1379,DLR0245,Mah-M175,5326101,3,DT00659,17,5,2018,Naza Motors,Jennings Ford Automobile Dealership,Mahindra
+BR1380,DLR0225,Mar-M145,5143059,3,DT00659,19,1,2018,Naza Motors,Talbot  Motors,Maruti Suzuki
+BR13806,DLR0131,Nis-M81,15426514,2,DT00660,7,8,2018,Atlantic Motor Company,Mini Motors,Nissan
+BR1382,DLR0119,Vol-M109,6794711,1,DT00660,21,1,2018,Nissan Motors,Maserati Motors,Volkswagen
+BR1383,DLR0099,Inf-M79,13155981,3,DT00661,25,9,2018,Nissan Motors,Jensen Motors,Infiniti
+BR1384,DLR0079,Che-M49,18310262,2,DT00661,30,5,2018,Nissan Motors,Hillman Motors,Chevrolet
+BR1386,DLR0191,Mar-M151,19849948,2,DT00662,12,1,2018,British Leyland Motors,Tata Motors,Maruti Suzuki
+BR1388,DLR0266,Toy-M206,7415464,1,DT00662,13,9,2018,Nissan Motors,Bitter Motors,Toyota
+BR1390,DLR0226,Mar-M146,18375622,2,DT00663,20,1,2018,Nissan Motors,Das Motors,Maruti Suzuki
+BR1391,DLR0140,Mar-M140,28350189,3,DT00663,20,5,2018,Nissan India Motors,Nissan India Motors,Maruti Suzuki
+BR1392,DLR0120,Vol-M110,2729702,2,DT00664,22,1,2018,Nissan India Motors,Mastretta Motors,Volvo
+BR13926,DLR0133,Nis-M83,5885097,3,DT00665,9,8,2018,Blankinship Motor Company Building,Monica Motors,Nissan
+BR1393,DLR0100,Nis-M80,1095368,2,DT00666,26,9,2018,Nissan India Motors,JPX Motors,Nissan
+BR1395,DLR0060,For-M20,3826662,2,DT00667,2,2,2018,Nissan India Motors,"Fisker, Karma Motors",Ford
+BR1397,DLR0020,Aud-M237,798371,1,DT00668,10,1,2018,Nissan India Motors,BMW Motors,Audi
+BR1398,DLR0267,Ren-M207,2679588,3,DT00668,14,9,2018,Nissan India Motors,BMW Motors,Renault
+BR13986,DLR0134,Nis-M84,4328047,1,DT00669,10,8,2018,Bohn Motor Company Automobile Dealership,Monteverdi Motors,Nissan
+BR1399,DLR0247,Mah-M177,5623406,1,DT00669,19,5,2018,Nissan India Motors,Kindel Building,Mahindra
+BR1401,DLR0141,Mar-M141,5897132,2,DT00670,21,5,2018,Noble Motors,Noble Motors,Maruti Suzuki
+BR1402,DLR0121,Agr-M111,6973684,2,DT00670,23,1,2018,Noble Motors,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Agrale
+BR1403,DLR0101,Nis-M81,27016929,3,DT00671,27,9,2018,Noble Motors,Kia Motors,Nissan
+BR1404,DLR0081,Che-M51,4024362,3,DT00671,1,6,2018,Noble Motors,Holden Motors,Chevrolet
+BR14046,DLR0135,Nis-M85,4067332,1,DT00673,11,8,2018,Buick Automobile Company Building,Morgan Motors,Nissan
+BR1405,DLR0061,For-M21,8119439,1,DT00673,3,2,2018,Noble Motors,Ford America Motors,Ford
+BR1407,DLR0021,Aud-M238,616018,2,DT00674,11,1,2018,Noble Motors,Bond Motors,Audi
+BR1408,DLR0001,Ren-M208,7905878,1,DT00674,15,9,2018,Noble Motors,AC Cars Motors,Renault
+BR1410,DLR0228,Mar-M148,22715907,3,DT00675,22,1,2018,Noble Motors,Deccan Motors,Maruti Suzuki
+BR14106,DLR0136,Nis-M86,19215370,2,DT00675,12,8,2018,Cadillac Automobile Company Building,Moskwitch Motors,Nissan
+BR1411,DLR0142,Mar-M142,14312230,2,DT00676,22,5,2018,NSU Motors,NSU Motors,Maruti Suzuki
+BR1412,DLR0122,Agr-M112,6726654,1,DT00677,24,1,2018,NSU Motors,Mazda Motors,Agrale
+BR1413,DLR0102,Nis-M82,4087496,2,DT00677,28,9,2018,NSU Motors,Koenigsegg Motors,Nissan
+BR1414,DLR0082,GMC-M52,18880134,3,DT00678,2,6,2018,NSU Motors,Honda Motors,GMC
+BR14166,DLR0137,Nis-M87,4002375,3,DT00678,13,8,2018,Casa de cadillac,Nash Motors,Nissan
+BR1417,DLR0022,Aud-M239,18812372,2,DT00679,12,1,2018,NSU Motors,Borgward (including Goliath and Lloyd) Motors,Audi
+BR1418,DLR0002,Ren-M209,9731832,2,DT00679,16,9,2018,NSU Motors,Acura Motors,Renault
+BR1419,DLR0249,Tat-M179,3424744,1,DT00680,21,5,2018,NSU Motors,Acura Motors,Tata
+BR1420,DLR0229,Mar-M149,3362029,1,DT00681,23,1,2018,NSU Motors,Herald Motors,Maruti Suzuki
+BR1421,DLR0143,Mar-M143,6365796,3,DT00681,23,5,2018,Oldsmobile Motors,Oldsmobile Motors,Maruti Suzuki
+BR14226,DLR0138,Nis-M88,21753009,3,DT00682,14,8,2018,Cass Motor Sales,Naza Motors,Nissan
+BR1424,DLR0083,GMC-M53,9007548,3,DT00682,3,6,2018,Oldsmobile Motors,Honda India Motors,GMC
+BR1425,DLR0063,For-M23,19571838,3,DT00683,5,2,2018,Oldsmobile Motors,Ford do Brasil Motors,Ford
+BR1428,DLR0003,Ren-M210,15259797,3,DT00684,17,9,2018,Oldsmobile Motors,Aixam-Mega (including Arola) Motors,Renault
+BR1431,DLR0144,Mar-M144,8912312,2,DT00685,24,5,2018,Oltcit Motors,,Maruti Suzuki
+BR1435,DLR0064,For-M24,8184657,1,DT00685,6,2,2018,Oltcit Motors,Ford Europe Motors,Ford
+BR1438,DLR0004,Ren-M211,8532678,2,DT00686,18,9,2018,Oltcit Motors,Alfa Romeo Motors,Renault
+BR1440,DLR0231,Mar-M151,12650379,3,DT00687,25,1,2018,Oltcit Motors,Atlantic Motor Company,Maruti Suzuki
+BR14406,DLR0141,Riv-M91,902716,2,DT00687,17,8,2018,Colman Automotive Building,Noble Motors,Rivian
+BR1442,DLR0125,Cit-M115,10537488,2,DT00688,27,1,2018,Opel Motors,Mercedes-Benz (including Maybach) Motors,Citroën
+BR1444,DLR0085,GMC-M55,7543950,2,DT00688,5,6,2018,Opel Motors,Humber Motors,GMC
+BR1445,DLR0065,For-M25,17788070,2,DT00689,7,2,2018,Opel Motors,Ford India Motors,Ford
+BR1447,DLR0025,BMW-M242,27486141,3,DT00689,15,1,2018,Opel Motors,Austin-Healey Motors,BMW
+BR1448,DLR0005,Kia-M212,19710144,2,DT00691,19,9,2018,Opel Motors,Alpine Motors,Kia
+BR1449,DLR0252,Tat-M182,15669614,2,DT00691,24,5,2018,Opel Motors,Alpine Motors,Tata
+BR1450,DLR0232,Mar-M152,19474533,3,DT00693,26,1,2018,Opel Motors,2008 NRHP-listed,Maruti Suzuki
+BR1451,DLR0146,Mar-M146,6485847,3,DT00694,26,5,2018,Packard Motors,Packard Motors,Maruti Suzuki
+BR1452,DLR0126,Cit-M116,7899765,3,DT00694,28,1,2018,Packard Motors,Mercury Motors,Citroën
+BR14526,DLR0143,Sub-M93,11154554,2,DT00695,19,8,2018,Howard Motor Company Building,Oldsmobile Motors,Subaru
+BR1454,DLR0086,GMC-M56,25855152,3,DT00696,6,6,2018,Packard Motors,Hummer Motors,GMC
+BR1455,DLR0066,For-M26,5109932,2,DT00697,8,2,2018,Packard Motors,Freightliner Motors,Ford
+BR1457,DLR0026,BMW-M243,19645242,3,DT00697,16,1,2018,Packard Motors,"Austin, Rover Motors",BMW
+BR14586,DLR0144,Sub-M94,9566388,2,DT00698,20,8,2018,Hupmobile Building,,Subaru
+BR1459,DLR0253,Tat-M183,10229682,3,DT00698,25,5,2018,Packard Motors,Alvis Motors,Tata
+BR1460,DLR0233,Hyu-M153,5377184,2,DT00699,27,1,2018,Packard Motors,Blankinship Motor Company Building,Hyundai
+BR1461,DLR0147,Mar-M147,17561478,2,DT00700,27,5,2018,Pagani Motors,Pagani Motors,Maruti Suzuki
+BR1463,DLR0107,Nis-M87,7707708,2,DT00700,3,10,2018,Pagani Motors,Land Rover Motors,Nissan
+BR1464,DLR0087,GMC-M57,9643741,1,DT00701,7,6,2018,Pagani Motors,Hyundai Motors,GMC
+BR14646,DLR0145,Sub-M95,11159985,3,DT00701,21,8,2018,Jennings Ford Automobile Dealership,Opel Motors,Subaru
+BR1465,DLR0067,Lin-M27,756130,2,DT00702,9,2,2018,Pagani Motors,FSO Motors,Lincoln
+BR1467,DLR0027,BMW-M244,10043608,2,DT00703,17,1,2018,Pagani Motors,Bugatti Motors,BMW
+BR14706,DLR0146,Tes-M96,13963694,2,DT00703,22,8,2018,Jones Motor Company,Packard Motors,Tesla
+BR1471,DLR0148,Mar-M148,21192432,3,DT00705,28,5,2018,Panhard Motors,Panhard Motors,Maruti Suzuki
+BR1473,DLR0108,Nis-M88,20704056,3,DT00706,4,10,2018,Panhard Motors,Lexus Motors,Nissan
+BR1475,DLR0068,Lin-M28,14722240,2,DT00707,10,2,2018,Panhard Motors,GAZ Motors,Lincoln
+BR14766,DLR0147,Tes-M97,18803154,3,DT00707,23,8,2018,Kindel Building,Pagani Motors,Tesla
+BR1477,DLR0028,BMW-M245,6392002,2,DT00708,18,1,2018,Panhard Motors,Buick Motors,BMW
+BR1479,DLR0255,Tat-M185,2777340,2,DT00708,27,5,2018,Panhard Motors,Anadol Motors,Tata
+BR1480,DLR0235,Hyu-M155,16603584,2,DT00709,29,1,2018,Panhard Motors,Buick Automobile Company Building,Hyundai
+BR1482,DLR0129,For-M119,1224224,2,DT00710,31,1,2018,Panoz Motors,Mia Motors,Ford
+BR1483,DLR0109,Nis-M89,7346559,1,DT00710,5,10,2018,Panoz Motors,Ligier Motors,Nissan
+BR1485,DLR0069,Lin-M29,6430716,1,DT00711,11,2,2018,Panoz Motors,Geo Motors,Lincoln
+BR1488,DLR0009,Hon-M216,6450877,1,DT00711,23,9,2018,Panoz Motors,Ariel Motors,Honda
+BR1489,DLR0256,Tat-M186,11547286,2,DT00712,28,5,2018,Panoz Motors,Ariel Motors,Tata
+BR1491,DLR0150,Mar-M150,13805586,2,DT00713,30,5,2018,Panther Motors,Panther Motors,Maruti Suzuki
+BR1492,DLR0130,Hon-M120,16088542,2,DT00713,1,2,2018,Panther Motors,Micro Motors,Honda
+BR1493,DLR0110,Riv-M90,5573732,1,DT00714,6,10,2018,Panther Motors,Lincoln Motors,Rivian
+BR1495,DLR0070,Lin-M30,3396415,1,DT00716,12,2,2018,Panther Motors,Gilbern Motors,Lincoln
+BR1498,DLR0010,Hon-M217,10324128,2,DT00716,24,9,2018,Panther Motors,ARO Motors,Honda
+BR1499,DLR0257,Tat-M187,7373736,1,DT00717,29,5,2018,Panther Motors,ARO Motors,Tata
+BR1502,DLR0131,Mer-M121,10249968,3,DT00717,2,2,2018,Peel Motors,Mini Motors,Mercedes-Benz
+BR1503,DLR0111,Riv-M91,3234890,1,DT00718,7,10,2018,Peel Motors,Lotus Motors,Rivian
+BR1504,DLR0091,Acu-M61,513083,1,DT00718,11,6,2018,Peel Motors,Invicta Motors,Acura
+BR1507,DLR0031,BMW-M248,19477396,2,DT00719,21,1,2018,Peel Motors,Caterham Motors,BMW
+BR1510,DLR0238,Hyu-M158,21888990,3,DT00719,1,2,2018,Peel Motors,Cass Motor Sales,Hyundai
+BR1511,DLR0152,Mar-M152,6576128,2,DT00720,1,6,2018,Perodua Motors,Perodua Motors,Maruti Suzuki
+BR1512,DLR0132,Mer-M122,16365546,2,DT00720,3,2,2018,Perodua Motors,Mitsubishi Motors,Mercedes-Benz
+BR1513,DLR0112,Sub-M92,2368511,1,DT00721,8,10,2018,Perodua Motors,LTI Motors,Subaru
+BR1515,DLR0072,Cad-M32,14614923,3,DT00721,14,2,2018,Perodua Motors,Glas Motors,Cadillac
+BR1518,DLR0012,Hon-M219,17408562,2,DT00722,26,9,2018,Perodua Motors,Asia Motors Motors,Honda
+BR1519,DLR0259,Tat-M189,12844128,2,DT00723,31,5,2018,Perodua Motors,Asia Motors Motors,Tata
+BR1520,DLR0239,Hyu-M159,28839432,3,DT00724,2,2,2018,Perodua Motors,Claremore Auto Dealership,Hyundai
+BR1521,DLR0153,Hyu-M153,11687542,2,DT00725,2,6,2018,Peugeot Motors,Peugeot Motors,Hyundai
+BR1522,DLR0133,Mer-M123,1916646,1,DT00725,4,2,2018,Peugeot Motors,Monica Motors,Mercedes-Benz
+BR1523,DLR0113,Sub-M93,19789761,3,DT00726,9,10,2018,Peugeot Motors,LuAZ Motors,Subaru
+BR1524,DLR0093,Acu-M63,1167288,3,DT00726,13,6,2018,Peugeot Motors,Iso Motors,Acura
+BR1525,DLR0073,Cad-M33,5345219,1,DT00727,15,2,2018,Peugeot Motors,GMC Motors,Cadillac
+BR1527,DLR0033,BMW-M250,5028079,1,DT00727,23,1,2018,Peugeot Motors,Chevrolet Motors,BMW
+BR1528,DLR0013,Hon-M220,4380506,1,DT00729,27,9,2018,Peugeot Motors,Aston Martin Motors,Honda
+BR1529,DLR0260,Tat-M190,3937331,1,DT00730,1,6,2018,Peugeot Motors,Aston Martin Motors,Tata
+BR1530,DLR0240,Hyu-M160,4257825,3,DT00730,3,2,2018,Peugeot Motors,Clemens Automobile Company Building,Hyundai
+BR1531,DLR0154,Hyu-M154,3223632,3,DT00731,3,6,2018,PGO Motors,PGO Motors,Hyundai
+BR1540,DLR0241,Hyu-M161,19956204,3,DT00732,4,2,2018,PGO Motors,Colman Automotive Building,Hyundai
+BR1541,DLR0155,Hyu-M155,12200662,2,DT00733,4,6,2018,Piaggio Motors,Piaggio Motors,Hyundai
+BR1542,DLR0135,Peu-M125,19051425,3,DT00734,6,2,2019,Piaggio Motors,Morgan Motors,Peugeot
+BR1543,DLR0115,Sub-M95,8710705,1,DT00734,11,10,2019,Piaggio Motors,Mahindra Motors,Subaru
+BR1544,DLR0095,Hon-M65,24008736,3,DT00735,15,6,2019,Piaggio Motors,Isuzu Motors,Honda
+BR1545,DLR0075,Cad-M35,11312878,2,DT00736,17,2,2019,Piaggio Motors,Gumpert Motors,Cadillac
+BR1547,DLR0035,MG-M252,8513511,1,DT00737,25,1,2019,Piaggio Motors,Chrysler Motors,MG
+BR1549,DLR0262,Tat-M192,5823668,2,DT00738,3,6,2019,Piaggio Motors,Autobianchi Motors,Tata
+BR1552,DLR0136,Peu-M126,2244035,1,DT00738,7,2,2019,Plymouth Motors,Moskwitch Motors,Peugeot
+BR1553,DLR0116,Tes-M96,20377248,3,DT00739,12,10,2019,Plymouth Motors,Marcos Motors,Tesla
+BR1554,DLR0096,Hon-M66,6710574,2,DT00741,16,6,2019,Plymouth Motors,Iveco Motors,Honda
+BR1555,DLR0076,Cad-M36,20868240,3,DT00741,18,2,2019,Plymouth Motors,Healey Motors,Cadillac
+BR1557,DLR0036,Jee-M253,6605147,1,DT00742,26,1,2019,Plymouth Motors,Chrysler Europe Motors,Jeep
+BR1558,DLR0016,For-M223,7008640,1,DT00742,30,9,2019,Plymouth Motors,Auto-Union Motors,Ford
+BR1559,DLR0263,Tat-M193,24960051,3,DT00743,4,6,2019,Plymouth Motors,Auto-Union Motors,Tata
+BR1560,DLR0243,Hyu-M163,9443751,3,DT00743,6,2,2019,Plymouth Motors,Howard Motor Company Building,Hyundai
+BR1561,DLR0157,Hyu-M157,1397660,2,DT00744,6,6,2019,Polestar Motors,Polestar Motors,Hyundai
+BR1562,DLR0137,Ren-M127,3313784,2,DT00745,8,2,2019,Polestar Motors,Nash Motors,Renault
+BR1563,DLR0117,Tes-M97,6013572,2,DT00746,13,10,2019,Polestar Motors,Marlin Motors,Tesla
+BR1564,DLR0097,Hon-M67,1064642,1,DT00746,17,6,2019,Polestar Motors,Jaguar Motors,Honda
+BR1565,DLR0077,Cad-M37,14383581,3,DT00747,19,2,2019,Polestar Motors,Heinkel Motors,Cadillac
+BR1567,DLR0037,Jee-M254,14125293,3,DT00747,27,1,2019,Polestar Motors,Citroën Motors,Jeep
+BR1568,DLR0017,For-M224,11398706,2,DT00748,1,10,2019,Polestar Motors,Auverland Motors,Ford
+BR1569,DLR0264,Tat-M194,19922738,2,DT00748,5,6,2019,Polestar Motors,Auverland Motors,Tata
+BR1570,DLR0244,Hyu-M164,12224948,2,DT00749,7,2,2019,Polestar Motors,Hupmobile Building,Hyundai
+BR1571,DLR0158,Hyu-M158,8591331,1,DT00749,7,6,2019,"Pontiac, Asüna Motors","Pontiac, Asüna Motors",Hyundai
+BR1573,DLR0118,Tes-M98,4378700,1,DT00750,14,10,2019,"Pontiac, Asüna Motors",Maruti Motors,Tesla
+BR1574,DLR0098,Hon-M68,5410099,1,DT00751,18,6,2019,"Pontiac, Asüna Motors",Jeep Motors,Honda
+BR1575,DLR0078,Cad-M38,8234393,1,DT00751,20,2,2019,"Pontiac, Asüna Motors",Hennessey Motors,Cadillac
+BR1577,DLR0038,Vol-M255,672494,1,DT00752,28,1,2019,"Pontiac, Asüna Motors",Cizeta-Moroder Motors,Volkswagen
+BR1578,DLR0018,For-M225,18586362,2,DT00752,2,10,2019,"Pontiac, Asüna Motors",Bentley Motors,Ford
+BR1579,DLR0265,Toy-M195,6597000,1,DT00753,6,6,2019,"Pontiac, Asüna Motors",Bentley Motors,Toyota
+BR1582,DLR0139,Ren-M129,9708437,1,DT00753,10,2,2019,Porsche Motors,Nissan Motors,Renault
+BR1583,DLR0119,Lex-M99,3422245,1,DT00754,15,10,2019,Porsche Motors,Maserati Motors,Lexus
+BR1585,DLR0079,Cad-M39,2785750,1,DT00756,21,2,2019,Porsche Motors,Hillman Motors,Cadillac
+BR1588,DLR0019,For-M226,2519270,2,DT00756,3,10,2019,Porsche Motors,Bitter Motors,Ford
+BR1589,DLR0266,Toy-M196,1526846,1,DT00757,7,6,2019,Porsche Motors,Bitter Motors,Toyota
+BR1590,DLR0246,Mah-M166,4431368,1,DT00757,9,2,2019,Porsche Motors,Jones Motor Company,Mahindra
+BR1592,DLR0140,Ren-M130,6674538,2,DT00758,11,2,2019,Premier Motors,Nissan India Motors,Renault
+BR1593,DLR0120,Toy-M100,2674500,2,DT00759,16,10,2019,Premier Motors,Mastretta Motors,Toyota
+BR1594,DLR0100,Hon-M70,10601488,2,DT00760,20,6,2019,Premier Motors,JPX Motors,Honda
+BR1595,DLR0080,Che-M40,7968813,1,DT00761,22,2,2019,Premier Motors,Hindustan Motors,Chevrolet
+BR1597,DLR0040,Vol-M257,1862253,1,DT00762,30,1,2019,Premier Motors,"Daewoo, Saehan, Chevrolet Korea Motors",Volkswagen
+BR1598,DLR0020,Aud-M227,24839778,3,DT00762,4,10,2019,Premier Motors,BMW Motors,Audi
+BR1600,DLR0247,Mah-M167,112246,1,DT00763,10,2,2019,Premier Motors,Kindel Building,Mahindra
+BR1601,DLR0161,Hyu-M161,17398632,3,DT00763,10,6,2019,Proton Motors,Proton Motors,Hyundai
+BR1602,DLR0141,Ren-M131,17503942,2,DT00764,12,2,2019,Proton Motors,Noble Motors,Renault
+BR1603,DLR0121,Toy-M101,2870595,3,DT00764,17,10,2019,Proton Motors,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Toyota
+BR1604,DLR0101,Hon-M71,7013124,1,DT00765,21,6,2019,Proton Motors,Kia Motors,Honda
+BR1605,DLR0081,Che-M41,2656854,3,DT00765,23,2,2019,Proton Motors,Holden Motors,Chevrolet
+BR1608,DLR0021,Aud-M228,16979252,2,DT00766,5,10,2019,Proton Motors,Bond Motors,Audi
+BR1610,DLR0248,Mah-M168,24362178,3,DT00767,11,2,2019,Proton Motors,AC Cars Motors,Mahindra
+BR1611,DLR0162,Hyu-M162,3819603,1,DT00767,11,6,2019,Puma Motors,Puma Motors,Hyundai
+BR1612,DLR0142,Ren-M132,15885976,2,DT00768,13,2,2019,Puma Motors,NSU Motors,Renault
+BR1613,DLR0122,Toy-M102,3197417,1,DT00769,18,10,2019,Puma Motors,Mazda Motors,Toyota
+BR1615,DLR0082,Che-M42,16927332,3,DT00769,24,2,2019,Puma Motors,Honda Motors,Chevrolet
+BR1617,DLR0042,Vol-M259,2398282,2,DT00770,1,2,2019,Puma Motors,Daihatsu Motors,Volkswagen
+BR1618,DLR0022,Aud-M229,3506007,1,DT00771,6,10,2019,Puma Motors,Borgward (including Goliath and Lloyd) Motors,Audi
+BR1619,DLR0002,Toy-M199,2083892,2,DT00771,10,6,2019,Puma Motors,Acura Motors,Toyota
+BR1620,DLR0249,Mah-M169,27957369,3,DT00772,12,2,2019,Puma Motors,Acura Motors,Mahindra
+BR1621,DLR0163,Hyu-M163,4611630,2,DT00772,12,6,2019,Ranger Motors,Ranger Motors,Hyundai
+BR1623,DLR0123,Toy-M103,9049002,3,DT00773,19,10,2019,Ranger Motors,Mazzanti Motors,Toyota
+BR1625,DLR0083,Che-M43,5608623,3,DT00774,25,2,2019,Ranger Motors,Honda India Motors,Chevrolet
+BR1626,DLR0195,Hyu-M155,5978034,3,DT00775,16,1,2019,Buick Motors,Tornado Motors,Hyundai
+BR1628,DLR0023,Aud-M230,4374748,1,DT00775,7,10,2019,Ranger Motors,Bristol Motors,Audi
+BR1629,DLR0003,Toy-M200,575341,1,DT00776,11,6,2019,Ranger Motors,Aixam-Mega (including Arola) Motors,Toyota
+BR1630,DLR0250,Mah-M170,4796736,1,DT00776,13,2,2019,Ranger Motors,Aixam-Mega (including Arola) Motors,Mahindra
+BR1631,DLR0164,Hyu-M164,7755909,3,DT00777,13,6,2019,Reliant Motors,Reliant Motors,Hyundai
+BR1632,DLR0144,Toy-M134,1117884,3,DT00777,15,2,2019,Reliant Motors,,Toyota
+BR1633,DLR0124,Toy-M104,2163135,1,DT00778,20,10,2019,Reliant Motors,McLaren Motors,Toyota
+BR1634,DLR0104,Hyu-M74,5730373,1,DT00780,24,6,2019,Reliant Motors,Lada Motors,Hyundai
+BR1635,DLR0084,Che-M44,7473819,3,DT00780,26,2,2019,Reliant Motors,Hudson Motors,Chevrolet
+BR1637,DLR0044,Nis-M261,1966407,1,DT00781,3,2,2019,Reliant Motors,,Nissan
+BR1638,DLR0024,Aud-M231,9519982,1,DT00782,8,10,2019,Reliant Motors,British Leyland Motors,Audi
+BR1639,DLR0004,Toy-M201,6343528,1,DT00783,12,6,2019,Reliant Motors,Alfa Romeo Motors,Toyota
+BR1640,DLR0251,Mah-M171,19794014,2,DT00783,14,2,2019,Reliant Motors,Alfa Romeo Motors,Mahindra
+BR1641,DLR0165,Mah-M165,11071452,3,DT00784,14,6,2019,Renault Motors,Renault Motors,Mahindra
+BR1642,DLR0145,Vol-M135,485030,2,DT00785,16,2,2019,Renault Motors,Opel Motors,Volkswagen
+BR1643,DLR0125,Toy-M105,13198065,3,DT00785,21,10,2019,Renault Motors,Mercedes-Benz (including Maybach) Motors,Toyota
+BR1647,DLR0045,Nis-M262,19984848,2,DT00786,4,2,2019,Renault Motors,Delahaye Motors,Nissan
+BR1649,DLR0005,Toy-M202,2616456,1,DT00786,13,6,2019,Renault Motors,Alpine Motors,Toyota
+BR1651,DLR0166,Mah-M166,18946656,3,DT00787,15,6,2019,Rivian Motors,Rivian Motors,Mahindra
+BR1652,DLR0146,Vol-M136,2744649,1,DT00787,17,2,2019,Rivian Motors,Packard Motors,Volkswagen
+BR1653,DLR0126,Toy-M106,2077165,1,DT00788,22,10,2019,Rivian Motors,Mercury Motors,Toyota
+BR1654,DLR0106,Kia-M76,2718268,1,DT00789,26,6,2019,Rivian Motors,Lancia Motors,Kia
+BR1655,DLR0086,Che-M46,15077118,2,DT00789,28,2,2019,Rivian Motors,Hummer Motors,Chevrolet
+BR1657,DLR0046,Nis-M263,12520536,2,DT00790,5,2,2019,Rivian Motors,DeLorean Motors,Nissan
+BR1658,DLR0026,Aud-M233,1106300,2,DT00791,10,10,2019,Rivian Motors,"Austin, Rover Motors",Audi
+BR1659,DLR0006,Toy-M203,14117661,3,DT00791,14,6,2019,Rivian Motors,Alvis Motors,Toyota
+BR1660,DLR0253,Mah-M173,1134198,2,DT00792,16,2,2019,Rivian Motors,Alvis Motors,Mahindra
+BR1661,DLR0167,Mah-M167,8843133,1,DT00792,16,6,2019,Rolls-Royce Motors,Rolls-Royce Motors,Mahindra
+BR1663,DLR0127,Toy-M107,1478854,2,DT00793,23,10,2019,Rolls-Royce Motors,Merkur Motors,Toyota
+BR1664,DLR0107,Kia-M77,8914706,2,DT00794,27,6,2019,Rolls-Royce Motors,Land Rover Motors,Kia
+BR1665,DLR0087,Che-M47,7622398,1,DT00794,29,2,2019,Rolls-Royce Motors,Hyundai Motors,Chevrolet
+BR1667,DLR0047,Nis-M264,1418879,1,DT00795,6,2,2019,Rolls-Royce Motors,DeSoto Motors,Nissan
+BR1668,DLR0027,Aud-M234,8297402,1,DT00796,11,10,2019,Rolls-Royce Motors,Bugatti Motors,Audi
+BR1669,DLR0007,Toy-M204,9083644,2,DT00796,15,6,2019,Rolls-Royce Motors,"AMC, Eagle Motors",Toyota
+BR1670,DLR0254,Mah-M174,6473726,1,DT00799,17,2,2019,Rolls-Royce Motors,"AMC, Eagle Motors",Mahindra
+BR1671,DLR0168,Mah-M168,6186812,1,DT00800,17,6,2019,Saab Motors,Saab Motors,Mahindra
+BR1672,DLR0148,Mar-M138,1261306,1,DT00800,19,2,2019,Saab Motors,Panhard Motors,Maruti Suzuki
+BR1673,DLR0128,Vol-M108,29113914,3,DT00801,24,10,2019,Saab Motors,Messerschmitt Motors,Volkswagen
+BR1674,DLR0108,Kia-M78,2383197,1,DT00802,28,6,2019,Saab Motors,Lexus Motors,Kia
+BR1677,DLR0048,Nis-M265,3744641,1,DT00803,7,2,2019,Saab Motors,De Tomaso Motors,Nissan
+BR1678,DLR0028,Aud-M235,26759610,3,DT00803,12,10,2019,Saab Motors,Buick Motors,Audi
+BR1679,DLR0008,Toy-M205,4004193,3,DT00804,16,6,2019,Saab Motors,Anadol Motors,Toyota
+BR1680,DLR0255,Mah-M175,10287849,3,DT00805,18,2,2019,Saab Motors,Anadol Motors,Mahindra
+BR1681,DLR0169,Mah-M169,1537290,3,DT00805,18,6,2019,SAIC Motor Motors,SAIC Motor Motors,Mahindra
+BR1682,DLR0149,Mar-M139,8677097,1,DT00806,20,2,2019,SAIC Motor Motors,Panoz Motors,Maruti Suzuki
+BR1683,DLR0129,Vol-M109,3149218,1,DT00807,25,10,2019,SAIC Motor Motors,Mia Motors,Volkswagen
+BR1684,DLR0109,Inf-M79,6511723,1,DT00808,29,6,2019,SAIC Motor Motors,Ligier Motors,Infiniti
+BR1685,DLR0089,Che-M49,2232010,1,DT00811,2,3,2019,SAIC Motor Motors,Infiniti Motors,Chevrolet
+BR1686,DLR0196,Hyu-M156,15457020,3,DT00811,17,1,2019,Bytom Motors,Toyota Motors,Hyundai
+BR1687,DLR0049,Nis-M266,6453537,3,DT00812,8,2,2019,SAIC Motor Motors,Dodge Motors,Nissan
+BR1688,DLR0029,Aud-M236,7263872,2,DT00812,13,10,2019,SAIC Motor Motors,Bytom Motors,Audi
+BR1689,DLR0009,Toy-M206,1200616,1,DT00813,17,6,2019,SAIC Motor Motors,Ariel Motors,Toyota
+BR1690,DLR0256,Mah-M176,9633912,2,DT00813,19,2,2019,SAIC Motor Motors,Ariel Motors,Mahindra
+BR1691,DLR0170,Mah-M170,9662865,1,DT00814,19,6,2019,Saleen Motors,Saleen Motors,Mahindra
+BR1692,DLR0150,Mar-M140,9864716,2,DT00814,21,2,2019,Saleen Motors,Panther Motors,Maruti Suzuki
+BR1693,DLR0130,Vol-M110,4232991,1,DT00815,26,10,2019,Saleen Motors,Micro Motors,Volvo
+BR1697,DLR0050,Nis-M267,16504464,3,DT00815,9,2,2019,Saleen Motors,Donkervoort Motors,Nissan
+BR1699,DLR0010,Ren-M207,5653611,1,DT00816,18,6,2019,Saleen Motors,ARO Motors,Renault
+BR1700,DLR0257,Mah-M177,3198540,3,DT00817,20,2,2019,Saleen Motors,ARO Motors,Mahindra
+BR1701,DLR0171,Mah-M171,27176325,3,DT00818,20,6,2019,Samsung Motors,Samsung Motors,Mahindra
+BR1702,DLR0151,Mar-M141,6687048,3,DT00818,22,2,2019,Samsung Motors,Peel Motors,Maruti Suzuki
+BR1708,DLR0031,Aud-M238,8014856,2,DT00819,15,10,2019,Samsung Motors,Caterham Motors,Audi
+BR1709,DLR0011,Ren-M208,1922186,1,DT00819,19,6,2019,Samsung Motors,Artega Motors,Renault
+BR1710,DLR0258,Mah-M178,8638572,2,DT00820,21,2,2019,Samsung Motors,,Mahindra
+BR1711,DLR0172,Mah-M172,24169257,3,DT00820,21,6,2019,San Motors,San Motors,Mahindra
+BR1712,DLR0152,Mar-M142,17066514,3,DT00821,23,2,2019,San Motors,Perodua Motors,Maruti Suzuki
+BR1714,DLR0112,Nis-M82,3182328,1,DT00821,2,7,2019,San Motors,LTI Motors,Nissan
+BR1715,DLR0092,GMC-M52,10283534,2,DT00822,5,3,2019,San Motors,Isdera Motors,GMC
+BR1717,DLR0052,Nis-M269,7134171,3,DT00822,11,2,2019,San Motors,e.GO Mobile Motors,Nissan
+BR1718,DLR0032,Aud-M239,6479302,2,DT00823,16,10,2019,San Motors,Checker Motors,Audi
+BR1719,DLR0012,Ren-M209,13290276,3,DT00823,20,6,2019,San Motors,Asia Motors Motors,Renault
+BR1720,DLR0259,Tat-M179,2656204,2,DT00824,22,2,2019,San Motors,Asia Motors Motors,Tata
+BR1721,DLR0173,Mah-M173,5666511,1,DT00824,22,6,2019,Santa Matilde Motors,Santa Matilde Motors,Mahindra
+BR1722,DLR0153,Mar-M143,8590743,3,DT00825,24,2,2019,Santa Matilde Motors,Peugeot Motors,Maruti Suzuki
+BR1723,DLR0133,Agr-M113,5253078,3,DT00825,29,10,2019,Santa Matilde Motors,Monica Motors,Agrale
+BR1725,DLR0093,GMC-M53,3508984,1,DT00826,6,3,2019,Santa Matilde Motors,Iso Motors,GMC
+BR1727,DLR0053,Nis-M270,11337774,2,DT00826,12,2,2019,Santa Matilde Motors,Eicher Polaris Motors,Nissan
+BR1728,DLR0033,Aud-M240,25750338,3,DT00827,17,10,2019,Santa Matilde Motors,Chevrolet Motors,Audi
+BR1729,DLR0013,Ren-M210,16634625,3,DT00827,21,6,2019,Santa Matilde Motors,Aston Martin Motors,Renault
+BR1731,DLR0174,Mah-M174,25732437,3,DT00828,23,6,2019,Santana Motors,Santana Motors,Mahindra
+BR1733,DLR0134,Che-M114,1660874,1,DT00829,30,10,2019,Santana Motors,Monteverdi Motors,Chevrolet
+BR1735,DLR0094,GMC-M54,8238429,3,DT00830,7,3,2019,Santana Motors,Isotta Fraschini Motors,GMC
+BR1737,DLR0054,Sko-M271,28847274,3,DT00831,13,2,2019,Santana Motors,Elva Motors,Skoda
+BR1739,DLR0014,Ren-M211,8621918,2,DT00831,22,6,2019,Santana Motors,Audi Motors,Renault
+BR1741,DLR0175,Mah-M175,16722688,2,DT00832,24,6,2019,Saturn Motors,Saturn Motors,Mahindra
+BR1742,DLR0155,Mar-M145,16872384,3,DT00832,26,2,2019,Saturn Motors,Piaggio Motors,Maruti Suzuki
+BR1743,DLR0135,Cit-M115,28942212,3,DT00833,31,10,2019,Saturn Motors,Morgan Motors,Citroën
+BR1745,DLR0095,GMC-M55,19930602,2,DT00834,8,3,2019,Saturn Motors,Isuzu Motors,GMC
+BR1746,DLR0197,Hyu-M157,16878962,2,DT00834,18,1,2019,Cadillac Motors,Toyota India Motors,Hyundai
+BR1747,DLR0055,Sko-M272,5889531,3,DT00835,14,2,2019,Saturn Motors,Facel Vega Motors,Skoda
+BR1749,DLR0015,Kia-M212,3605282,1,DT00835,23,6,2019,Saturn Motors,Autobianchi Motors,Kia
+BR1750,DLR0262,Tat-M182,10592974,2,DT00837,25,2,2019,Saturn Motors,Autobianchi Motors,Tata
+BR1751,DLR0176,Mah-M176,2815512,3,DT00838,25,6,2019,Scion Motors,Scion Motors,Mahindra
+BR1752,DLR0156,Mar-M146,6947409,3,DT00839,27,2,2019,Scion Motors,Plymouth Motors,Maruti Suzuki
+BR1753,DLR0136,Cit-M116,26456838,3,DT00839,1,11,2019,Scion Motors,Moskwitch Motors,Citroën
+BR1754,DLR0116,Nis-M86,492495,1,DT00840,6,7,2019,Scion Motors,Marcos Motors,Nissan
+BR1755,DLR0096,GMC-M56,19774090,2,DT00841,9,3,2019,Scion Motors,Iveco Motors,GMC
+BR1757,DLR0056,Sko-M273,9245748,1,DT00842,15,2,2019,Scion Motors,Ferrari Motors,Skoda
+BR1758,DLR0036,BMW-M243,10055328,3,DT00842,20,10,2019,Scion Motors,Chrysler Europe Motors,BMW
+BR1759,DLR0016,Kia-M213,13669080,2,DT00843,24,6,2019,Scion Motors,Auto-Union Motors,Kia
+BR1761,DLR0177,Mah-M177,11000572,2,DT00844,26,6,2019,Seat Motors,Seat Motors,Mahindra
+BR1762,DLR0157,Mar-M147,18121749,3,DT00845,28,2,2019,Seat Motors,Polestar Motors,Maruti Suzuki
+BR1763,DLR0137,Fia-M117,12729795,3,DT00845,2,11,2019,Seat Motors,Nash Motors,Fiat
+BR1764,DLR0117,Nis-M87,7449370,2,DT00846,7,7,2019,Seat Motors,Marlin Motors,Nissan
+BR1765,DLR0097,GMC-M57,16250655,3,DT00847,10,3,2019,Seat Motors,Jaguar Motors,GMC
+BR1768,DLR0037,BMW-M244,12209884,2,DT00848,21,10,2019,Seat Motors,Citroën Motors,BMW
+BR1769,DLR0017,Kia-M214,9753154,1,DT00849,25,6,2019,Seat Motors,Auverland Motors,Kia
+BR1770,DLR0264,Tat-M184,8789076,2,DT00849,27,2,2019,Seat Motors,Auverland Motors,Tata
+BR1771,DLR0178,Mah-M178,10901283,3,DT00850,27,6,2019,Shelby SuperCars Motors,Shelby SuperCars Motors,Mahindra
+BR1777,DLR0058,Mit-M275,13058781,3,DT00851,17,2,2019,Shelby SuperCars Motors,Fiat do Brasil Motors,Mitsubishi
+BR1778,DLR0038,BMW-M245,2603689,1,DT00851,22,10,2019,Shelby SuperCars Motors,Cizeta-Moroder Motors,BMW
+BR1779,DLR0018,Hon-M215,7404518,2,DT00852,26,6,2019,Shelby SuperCars Motors,Bentley Motors,Honda
+BR1780,DLR0265,Tat-M185,5907291,1,DT00852,28,2,2019,Shelby SuperCars Motors,Bentley Motors,Tata
+BR1782,DLR0159,Mar-M149,2287310,1,DT00853,2,3,2019,Simca Motors,Porsche Motors,Maruti Suzuki
+BR1783,DLR0139,For-M119,26421006,3,DT00853,4,11,2019,Simca Motors,Nissan Motors,Ford
+BR1784,DLR0119,Nis-M89,6403419,3,DT00854,9,7,2019,Simca Motors,Maserati Motors,Nissan
+BR1785,DLR0099,Acu-M59,8656704,3,DT00855,12,3,2019,Simca Motors,Jensen Motors,Acura
+BR1787,DLR0059,Mit-M276,8270331,1,DT00857,18,2,2019,Simca Motors,Fiat India Motors,Mitsubishi
+BR1788,DLR0039,BMW-M246,6966456,2,DT00858,23,10,2019,Simca Motors,Dacia Motors,BMW
+BR1789,DLR0019,Hon-M216,5365482,1,DT00858,27,6,2019,Simca Motors,Bitter Motors,Honda
+BR1792,DLR0160,Mar-M150,792051,3,DT00859,3,3,2019,Simca do Brasil Motors,Premier Motors,Maruti Suzuki
+BR1793,DLR0140,Hon-M120,605475,3,DT00859,5,11,2019,Simca do Brasil Motors,Nissan India Motors,Honda
+BR1795,DLR0100,Acu-M60,3338625,3,DT00860,13,3,2019,Simca do Brasil Motors,JPX Motors,Acura
+BR1797,DLR0060,Mit-M277,6803236,2,DT00861,19,2,2019,Simca do Brasil Motors,"Fisker, Karma Motors",Mitsubishi
+BR1798,DLR0040,BMW-M247,3862100,1,DT00862,24,10,2019,Simca do Brasil Motors,"Daewoo, Saehan, Chevrolet Korea Motors",BMW
+BR1799,DLR0020,Hon-M217,6836634,1,DT00863,28,6,2019,Simca do Brasil Motors,BMW Motors,Honda
+BR1800,DLR0267,Tat-M187,6558027,3,DT00863,1,3,2019,Simca do Brasil Motors,BMW Motors,Tata
+BR1803,DLR0141,Mer-M121,19975950,2,DT00864,6,11,2019,Singer Motors,Noble Motors,Mercedes-Benz
+BR1804,DLR0121,Riv-M91,18009496,2,DT00864,11,7,2019,Singer Motors,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Rivian
+BR1805,DLR0101,Acu-M61,6868940,1,DT00865,14,3,2019,Singer Motors,Kia Motors,Acura
+BR1807,DLR0061,BMW-M1,110318,1,DT00866,20,2,2019,Singer Motors,Ford America Motors,BMW
+BR1808,DLR0041,BMW-M248,19749408,2,DT00866,25,10,2019,Singer Motors,DAF Motors,BMW
+BR1809,DLR0021,Hon-M218,750595,1,DT00867,29,6,2019,Singer Motors,Bond Motors,Honda
+BR1811,DLR0182,Tat-M182,22819110,3,DT00868,1,7,2019,Skoda Motors,Skoda Motors,Tata
+BR1812,DLR0162,Mar-M152,4447597,1,DT00869,5,3,2019,Skoda Motors,Puma Motors,Maruti Suzuki
+BR1814,DLR0122,Sub-M92,17375382,3,DT00869,12,7,2019,Skoda Motors,Mazda Motors,Subaru
+BR1815,DLR0102,Acu-M62,9592556,1,DT00871,15,3,2019,Skoda Motors,Koenigsegg Motors,Acura
+BR1820,DLR0002,Tat-M189,2847247,1,DT00871,3,3,2019,Skoda Motors,Acura Motors,Tata
+BR1821,DLR0183,Tat-M183,5740231,1,DT00872,2,7,2019,Smart Motors,Smart Motors,Tata
+BR1822,DLR0163,Hyu-M153,540651,3,DT00873,6,3,2019,Smart Motors,Ranger Motors,Hyundai
+BR1823,DLR0143,Mer-M123,6220644,1,DT00874,8,11,2019,Smart Motors,Oldsmobile Motors,Mercedes-Benz
+BR1824,DLR0123,Sub-M93,279928,1,DT00875,13,7,2019,Smart Motors,Mazzanti Motors,Subaru
+BR1827,DLR0063,BMW-M3,18880437,3,DT00877,22,2,2019,Smart Motors,Ford do Brasil Motors,BMW
+BR1828,DLR0043,BMW-M250,24097389,3,DT00878,27,10,2019,Smart Motors,Daimler Motors,BMW
+BR1829,DLR0023,Hon-M220,14728632,3,DT00878,1,7,2019,Smart Motors,Bristol Motors,Honda
+BR1830,DLR0003,Tat-M190,8462551,1,DT00879,4,3,2019,Smart Motors,Aixam-Mega (including Arola) Motors,Tata
+BR1831,DLR0184,Tat-M184,22956720,3,DT00880,3,7,2019,Spyker Motors,Spyker Motors,Tata
+BR1832,DLR0164,Hyu-M154,11418932,2,DT00881,7,3,2019,Spyker Motors,Reliant Motors,Hyundai
+BR1833,DLR0144,Peu-M124,6062757,3,DT00882,9,11,2019,Spyker Motors,,Peugeot
+BR1834,DLR0124,Sub-M94,2142415,1,DT00882,14,7,2019,Spyker Motors,McLaren Motors,Subaru
+BR1835,DLR0104,Hon-M64,18031704,2,DT00883,17,3,2019,Spyker Motors,Lada Motors,Honda
+BR1837,DLR0064,BMW-M4,5822465,1,DT00884,23,2,2019,Spyker Motors,Ford Europe Motors,BMW
+BR1838,DLR0044,MG-M251,26285466,3,DT00884,28,10,2019,Spyker Motors,,MG
+BR1839,DLR0024,For-M221,5997976,2,DT00885,2,7,2019,Spyker Motors,British Leyland Motors,Ford
+BR1840,DLR0004,Tat-M191,14824880,2,DT00886,5,3,2019,Spyker Motors,Alfa Romeo Motors,Tata
+BR1841,DLR0185,Tat-M185,18486910,2,DT00886,4,7,2019,SsangYong Motors,SsangYong Motors,Tata
+BR1842,DLR0165,Hyu-M155,10442638,2,DT00887,8,3,2019,SsangYong Motors,Renault Motors,Hyundai
+BR1843,DLR0145,Peu-M125,19590816,3,DT00887,10,11,2019,SsangYong Motors,Opel Motors,Peugeot
+BR1844,DLR0125,Sub-M95,21127932,3,DT00888,15,7,2019,SsangYong Motors,Mercedes-Benz (including Maybach) Motors,Subaru
+BR1845,DLR0105,Hon-M65,19645278,3,DT00888,18,3,2019,SsangYong Motors,Lamborghini Motors,Honda
+BR1847,DLR0065,BMW-M5,13403368,2,DT00891,24,2,2019,SsangYong Motors,Ford India Motors,BMW
+BR1849,DLR0025,For-M222,29227953,3,DT00892,3,7,2019,SsangYong Motors,Austin-Healey Motors,Ford
+BR1852,DLR0166,Hyu-M156,16699206,3,DT00892,9,3,2019,Standard-Triumph Motors,Rivian Motors,Hyundai
+BR1854,DLR0126,Tes-M96,4992132,3,DT00893,16,7,2019,Standard-Triumph Motors,Mercury Motors,Tesla
+BR1855,DLR0106,Hon-M66,12924729,3,DT00894,19,3,2019,Standard-Triumph Motors,Lancia Motors,Honda
+BR1858,DLR0046,Jee-M253,21108186,3,DT00894,30,10,2019,Standard-Triumph Motors,DeLorean Motors,Jeep
+BR1860,DLR0006,Tat-M193,19782228,3,DT00895,7,3,2019,Standard-Triumph Motors,Alvis Motors,Tata
+BR1861,DLR0187,Tat-M187,12941846,2,DT00896,6,7,2019,Studebaker Motors,Studebaker Motors,Tata
+BR1862,DLR0167,Hyu-M157,18529414,2,DT00896,10,3,2019,Studebaker Motors,Rolls-Royce Motors,Hyundai
+BR1863,DLR0147,Ren-M127,3706613,1,DT00897,12,11,2019,Studebaker Motors,Pagani Motors,Renault
+BR1864,DLR0127,Tes-M97,4960610,1,DT00897,17,7,2019,Studebaker Motors,Merkur Motors,Tesla
+BR1865,DLR0107,Hon-M67,17791749,3,DT00898,20,3,2019,Studebaker Motors,Land Rover Motors,Honda
+BR1867,DLR0067,Mer-M7,14208170,2,DT00898,26,2,2019,Studebaker Motors,FSO Motors,Mercedes-Benz
+BR1868,DLR0047,Jee-M254,8652921,3,DT00899,31,10,2019,Studebaker Motors,DeSoto Motors,Jeep
+BR1869,DLR0027,For-M224,14116226,2,DT00899,5,7,2019,Studebaker Motors,Bugatti Motors,Ford
+BR1871,DLR0188,Tat-M188,24939225,3,DT00900,7,7,2019,Subaru Motors,Subaru Motors,Tata
+BR1872,DLR0168,Hyu-M158,1018690,1,DT00901,11,3,2019,Subaru Motors,Saab Motors,Hyundai
+BR1873,DLR0148,Ren-M128,4556011,1,DT00901,13,11,2019,Subaru Motors,Panhard Motors,Renault
+BR1874,DLR0128,Tes-M98,6627355,1,DT00902,18,7,2019,Subaru Motors,Messerschmitt Motors,Tesla
+BR1875,DLR0108,Hon-M68,2569118,2,DT00902,21,3,2019,Subaru Motors,Lexus Motors,Honda
+BR1877,DLR0068,Mer-M8,5502771,1,DT00903,27,2,2019,Subaru Motors,GAZ Motors,Mercedes-Benz
+BR1878,DLR0048,Vol-M255,27904578,3,DT00904,1,11,2019,Subaru Motors,De Tomaso Motors,Volkswagen
+BR1879,DLR0028,For-M225,29546586,3,DT00905,6,7,2019,Subaru Motors,Buick Motors,Ford
+BR1880,DLR0008,Toy-M195,9541679,1,DT00905,9,3,2019,Subaru Motors,Anadol Motors,Toyota
+BR1882,DLR0169,Hyu-M159,12945492,3,DT00906,12,3,2019,Sunbeam Motors,SAIC Motor Motors,Hyundai
+BR1884,DLR0129,Lex-M99,4301122,2,DT00907,19,7,2019,Sunbeam Motors,Mia Motors,Lexus
+BR1887,DLR0069,Dod-M9,28322907,3,DT00907,28,2,2019,Sunbeam Motors,Geo Motors,Dodge
+BR1888,DLR0049,Vol-M256,12101712,3,DT00908,2,11,2019,Sunbeam Motors,Dodge Motors,Volkswagen
+BR1889,DLR0029,For-M226,2734569,1,DT00908,7,7,2019,Sunbeam Motors,Bytom Motors,Ford
+BR1892,DLR0170,Hyu-M160,17144544,3,DT00909,13,3,2019,Suzuki Motors,Saleen Motors,Hyundai
+BR1894,DLR0130,Toy-M100,7205130,2,DT00909,20,7,2019,Suzuki Motors,Micro Motors,Toyota
+BR1895,DLR0110,Hon-M70,13877574,2,DT00910,23,3,2019,Suzuki Motors,Lincoln Motors,Honda
+BR1897,DLR0070,Jee-M10,7370323,1,DT00910,1,3,2019,Suzuki Motors,Gilbern Motors,Jeep
+BR1901,DLR0191,Tat-M191,4553745,3,DT00912,10,7,2019,Tata Motors,Tata Motors,Tata
+BR1902,DLR0171,Hyu-M161,8786484,1,DT00913,14,3,2019,Tata Motors,Samsung Motors,Hyundai
+BR1903,DLR0151,Ren-M131,1575710,2,DT00913,16,11,2019,Tata Motors,Peel Motors,Renault
+BR1905,DLR0111,Hon-M71,26277687,3,DT00914,24,3,2019,Tata Motors,Lotus Motors,Honda
+BR1908,DLR0051,Vol-M258,4800009,1,DT00916,4,11,2019,Tata Motors,Edsel Motors,Volkswagen
+BR1910,DLR0011,Toy-M198,9387408,2,DT00917,12,3,2019,Tata Motors,Artega Motors,Toyota
+BR1911,DLR0192,Tat-M192,19268528,2,DT00917,11,7,2019,Tatra Motors,Tatra Motors,Tata
+BR1913,DLR0152,Ren-M132,2693650,1,DT00918,17,11,2019,Tatra Motors,Perodua Motors,Renault
+BR1914,DLR0132,Toy-M102,15300512,2,DT00918,22,7,2019,Tatra Motors,Mitsubishi Motors,Toyota
+BR1915,DLR0112,Hyu-M72,2145815,1,DT00920,25,3,2019,Tatra Motors,LTI Motors,Hyundai
+BR1917,DLR0072,Jee-M12,24232686,3,DT00921,3,3,2019,Tatra Motors,Glas Motors,Jeep
+BR1918,DLR0052,Vol-M259,2533330,1,DT00922,5,11,2019,Tatra Motors,e.GO Mobile Motors,Volkswagen
+BR1919,DLR0032,Aud-M229,18341554,2,DT00922,10,7,2019,Tatra Motors,Checker Motors,Audi
+BR1920,DLR0012,Toy-M199,8137212,2,DT00923,13,3,2019,Tatra Motors,Asia Motors Motors,Toyota
+BR1922,DLR0173,Hyu-M163,7857274,2,DT00923,16,3,2019,Tazzari Motors,Santa Matilde Motors,Hyundai
+BR1923,DLR0153,Toy-M133,27271989,3,DT00924,18,11,2019,Tazzari Motors,Peugeot Motors,Toyota
+BR1924,DLR0133,Toy-M103,12692734,2,DT00924,23,7,2019,Tazzari Motors,Monica Motors,Toyota
+BR1925,DLR0113,Hyu-M73,7259016,2,DT00925,26,3,2019,Tazzari Motors,LuAZ Motors,Hyundai
+BR1927,DLR0073,Jee-M13,10997361,3,DT00925,4,3,2019,Tazzari Motors,GMC Motors,Jeep
+BR1928,DLR0053,Vol-M260,28693191,3,DT00926,6,11,2019,Tazzari Motors,Eicher Polaris Motors,Volkswagen
+BR1929,DLR0033,Aud-M230,22238241,3,DT00926,11,7,2019,Tazzari Motors,Chevrolet Motors,Audi
+BR1930,DLR0013,Toy-M200,27872751,3,DT00927,14,3,2019,Tazzari Motors,Aston Martin Motors,Toyota
+BR1931,DLR0194,Tat-M194,13975350,3,DT00928,13,7,2019,Tesla Motors,Tesla Motors,Tata
+BR1932,DLR0174,Hyu-M164,2027358,2,DT00928,17,3,2019,Tesla Motors,Santana Motors,Hyundai
+BR1933,DLR0154,Toy-M134,1391762,1,DT00929,19,11,2019,Tesla Motors,PGO Motors,Toyota
+BR1934,DLR0134,Toy-M104,16884642,3,DT00929,24,7,2019,Tesla Motors,Monteverdi Motors,Toyota
+BR1935,DLR0114,Hyu-M74,1988116,2,DT00930,27,3,2019,Tesla Motors,Lynx Motors,Hyundai
+BR1937,DLR0074,Ram-M14,7504486,2,DT00930,5,3,2019,Tesla Motors,GTA Spano Motors,Ram
+BR1938,DLR0054,Nis-M261,12812390,2,DT00931,7,11,2019,Tesla Motors,Elva Motors,Nissan
+BR1939,DLR0034,Aud-M231,8214262,1,DT00931,12,7,2019,Tesla Motors,Chevrolet India Motors,Audi
+BR1940,DLR0014,Toy-M201,8464536,2,DT00932,15,3,2019,Tesla Motors,Audi Motors,Toyota
+BR1941,DLR0195,Toy-M195,8532681,3,DT00933,14,7,2019,Tornado Motors,Tornado Motors,Toyota
+BR1943,DLR0155,Vol-M135,7526731,1,DT00933,20,11,2019,Tornado Motors,Piaggio Motors,Volkswagen
+BR1944,DLR0135,Toy-M105,18536784,3,DT00934,25,7,2019,Tornado Motors,Morgan Motors,Toyota
+BR1945,DLR0115,Hyu-M75,15778162,2,DT00934,28,3,2019,Tornado Motors,Mahindra Motors,Hyundai
+BR1947,DLR0075,Ram-M15,8652050,1,DT00935,6,3,2019,Tornado Motors,Gumpert Motors,Ram
+BR1948,DLR0055,Nis-M262,23656572,3,DT00935,8,11,2019,Tornado Motors,Facel Vega Motors,Nissan
+BR1949,DLR0035,Aud-M232,13940379,3,DT00936,13,7,2019,Tornado Motors,Chrysler Motors,Audi
+BR1951,DLR0196,Toy-M196,1852696,2,DT00937,15,7,2019,Toyota Motors,Toyota Motors,Toyota
+BR1952,DLR0176,Mah-M166,6238932,1,DT00937,19,3,2019,Toyota Motors,Scion Motors,Mahindra
+BR1954,DLR0136,Toy-M106,5024274,1,DT00938,26,7,2019,Toyota Motors,Moskwitch Motors,Toyota
+BR1955,DLR0116,Kia-M76,2167212,3,DT00938,29,3,2019,Toyota Motors,Marcos Motors,Kia
+BR1957,DLR0076,For-M16,1905414,2,DT00939,7,3,2019,Toyota Motors,Healey Motors,Ford
+BR1958,DLR0056,Nis-M263,3679016,1,DT00939,9,11,2019,Toyota Motors,Ferrari Motors,Nissan
+BR1959,DLR0036,Aud-M233,5044983,3,DT00940,14,7,2019,Toyota Motors,Chrysler Europe Motors,Audi
+BR1960,DLR0016,Toy-M203,4420992,1,DT00941,17,3,2019,Toyota Motors,Auto-Union Motors,Toyota
+BR1962,DLR0177,Mah-M167,3019029,1,DT00941,20,3,2019,Toyota India Motors,Seat Motors,Mahindra
+BR1963,DLR0157,Mar-M137,9992208,2,DT00942,22,11,2019,Toyota India Motors,Polestar Motors,Maruti Suzuki
+BR1964,DLR0137,Toy-M107,5313843,3,DT00942,27,7,2019,Toyota India Motors,Nash Motors,Toyota
+BR1965,DLR0117,Kia-M77,9918502,2,DT00943,30,3,2019,Toyota India Motors,Marlin Motors,Kia
+BR1967,DLR0077,For-M17,12790714,2,DT00944,8,3,2019,Toyota India Motors,Heinkel Motors,Ford
+BR1968,DLR0057,Nis-M264,18662240,2,DT00944,10,11,2019,Toyota India Motors,Fiat Motors,Nissan
+BR1969,DLR0037,Aud-M234,3692235,3,DT00945,15,7,2019,Toyota India Motors,Citroën Motors,Audi
+BR1971,DLR0198,Toy-M198,307458,2,DT00945,17,7,2019,Turner Motors,Turner Motors,Toyota
+BR1972,DLR0178,Mah-M168,1123825,1,DT00946,21,3,2019,Turner Motors,Shelby SuperCars Motors,Mahindra
+BR1974,DLR0138,Vol-M108,28686045,3,DT00947,28,7,2019,Turner Motors,Naza Motors,Volkswagen
+BR1975,DLR0118,Kia-M78,12487035,3,DT00947,31,3,2019,Turner Motors,Maruti Motors,Kia
+BR1977,DLR0078,For-M18,13301616,3,DT00948,9,3,2019,Turner Motors,Hennessey Motors,Ford
+BR1978,DLR0058,Nis-M265,11539143,3,DT00949,11,11,2019,Turner Motors,Fiat do Brasil Motors,Nissan
+BR1980,DLR0018,Toy-M205,18797763,3,DT00950,19,3,2019,Turner Motors,Bentley Motors,Toyota
+BR1984,DLR0139,Vol-M109,9892344,3,DT00952,29,7,2019,TVR Motors,Nissan Motors,Volkswagen
+BR1985,DLR0119,Inf-M79,1185524,2,DT00952,1,4,2019,TVR Motors,Maserati Motors,Infiniti
+BR1987,DLR0079,For-M19,5928623,1,DT00953,10,3,2019,TVR Motors,Hillman Motors,Ford
+BR1988,DLR0059,Nis-M266,6686346,2,DT00953,12,11,2019,TVR Motors,Fiat India Motors,Nissan
+BR1989,DLR0039,Aud-M236,10034872,2,DT00954,17,7,2019,TVR Motors,Dacia Motors,Audi
+BR1990,DLR0019,Toy-M206,16819923,3,DT00955,20,3,2019,TVR Motors,Bitter Motors,Toyota
+BR1991,DLR0200,Toy-M200,2545818,3,DT00955,19,7,2019,UAZ Motors,UAZ Motors,Toyota
+BR1993,DLR0160,Mar-M140,3745426,2,DT00956,25,11,2019,UAZ Motors,Premier Motors,Maruti Suzuki
+BR1994,DLR0140,Vol-M110,5292186,1,DT00957,30,7,2019,UAZ Motors,Nissan India Motors,Volvo
+BR1998,DLR0060,Nis-M267,7781997,3,DT00958,13,11,2019,UAZ Motors,"Fisker, Karma Motors",Nissan
+BR1999,DLR0040,Aud-M237,933846,1,DT00958,18,7,2019,UAZ Motors,"Daewoo, Saehan, Chevrolet Korea Motors",Audi
+BR2000,DLR0020,Ren-M207,26641407,3,DT00959,21,3,2019,UAZ Motors,BMW Motors,Renault
+BR2004,DLR0141,Agr-M111,14333481,3,DT00960,31,7,2019,Vauxhall Motors,Noble Motors,Agrale
+BR2005,DLR0121,Nis-M81,29104182,3,DT00960,3,4,2019,Vauxhall Motors,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Nissan
+BR2007,DLR0081,For-M21,15373923,3,DT00961,12,3,2019,Vauxhall Motors,Holden Motors,Ford
+BR2008,DLR0061,Nis-M268,12162555,3,DT00962,14,11,2019,Vauxhall Motors,Ford America Motors,Nissan
+BR2009,DLR0041,Aud-M238,16171360,2,DT00962,19,7,2019,Vauxhall Motors,DAF Motors,Audi
+BR2011,DLR0202,Toy-M202,14283456,2,DT00963,21,7,2019,Venturi Motors,Venturi Motors,Toyota
+BR2017,DLR0082,For-M22,11257083,3,DT00963,13,3,2019,Venturi Motors,Honda Motors,Ford
+BR2018,DLR0062,Nis-M269,6506846,1,DT00965,15,11,2019,Venturi Motors,Ford Australia Motors,Nissan
+BR2019,DLR0042,Aud-M239,820540,1,DT00965,20,7,2019,Venturi Motors,Daihatsu Motors,Audi
+BR2021,DLR0203,Toy-M203,6064806,1,DT00966,22,7,2019,Volkswagen Motors,Volkswagen Motors,Toyota
+BR2022,DLR0183,Mah-M173,295120,2,DT00966,26,3,2019,Volkswagen Motors,Smart Motors,Mahindra
+BR2023,DLR0163,Mar-M143,8060510,2,DT00968,28,11,2019,Volkswagen Motors,Ranger Motors,Maruti Suzuki
+BR2024,DLR0143,Agr-M113,7167374,2,DT00968,2,8,2019,Volkswagen Motors,Oldsmobile Motors,Agrale
+BR2025,DLR0123,Nis-M83,6607616,1,DT00969,5,4,2019,Volkswagen Motors,Mazzanti Motors,Nissan
+BR2027,DLR0083,For-M23,27373935,3,DT00970,14,3,2019,Volkswagen Motors,Honda India Motors,Ford
+BR2028,DLR0063,Nis-M270,18681285,3,DT00970,16,11,2019,Volkswagen Motors,Ford do Brasil Motors,Nissan
+BR2029,DLR0043,Aud-M240,9113392,1,DT00971,21,7,2019,Volkswagen Motors,Daimler Motors,Audi
+BR2030,DLR0023,Ren-M210,29245743,3,DT00972,24,3,2019,Volkswagen Motors,Bristol Motors,Renault
+BR2031,DLR0204,Toy-M204,27205020,3,DT00973,23,7,2019,Volkswagen do Brasil Motors,Volkswagen do Brasil Motors,Toyota
+BR2032,DLR0184,Mah-M174,4763922,3,DT00974,27,3,2019,Volkswagen do Brasil Motors,Spyker Motors,Mahindra
+BR2033,DLR0164,Mar-M144,2475576,2,DT00974,29,11,2019,Volkswagen do Brasil Motors,Reliant Motors,Maruti Suzuki
+BR2034,DLR0144,Che-M114,18846993,3,DT00975,3,8,2019,Volkswagen do Brasil Motors,,Chevrolet
+BR2035,DLR0124,Nis-M84,11136476,2,DT00976,6,4,2019,Volkswagen do Brasil Motors,McLaren Motors,Nissan
+BR2037,DLR0084,For-M24,8358033,1,DT00976,15,3,2019,Volkswagen do Brasil Motors,Hudson Motors,Ford
+BR2039,DLR0044,Aud-M241,25413093,3,DT00977,22,7,2019,Volkswagen do Brasil Motors,,Audi
+BR2040,DLR0024,Ren-M211,1362898,1,DT00978,25,3,2019,Volkswagen do Brasil Motors,British Leyland Motors,Renault
+BR2041,DLR0205,Toy-M205,857333,1,DT00979,24,7,2019,Volkswagen South Africa Motors,Volkswagen South Africa Motors,Toyota
+BR2042,DLR0185,Mah-M175,4893280,2,DT00980,28,3,2019,Volkswagen South Africa Motors,SsangYong Motors,Mahindra
+BR2045,DLR0125,Nis-M85,8087798,2,DT00980,7,4,2019,Volkswagen South Africa Motors,Mercedes-Benz (including Maybach) Motors,Nissan
+BR2046,DLR0202,Hyu-M162,1826850,3,DT00981,23,1,2019,Chrysler Motors,Venturi Motors,Hyundai
+BR2047,DLR0085,For-M25,26346189,3,DT00981,16,3,2019,Volkswagen South Africa Motors,Humber Motors,Ford
+BR2048,DLR0065,Sko-M272,14758116,2,DT00982,18,11,2019,Volkswagen South Africa Motors,Ford India Motors,Skoda
+BR2049,DLR0045,BMW-M242,6666064,2,DT00982,23,7,2019,Volkswagen South Africa Motors,Delahaye Motors,BMW
+BR2050,DLR0025,Kia-M212,24546006,3,DT00983,26,3,2019,Volkswagen South Africa Motors,Austin-Healey Motors,Kia
+BR2052,DLR0186,Mah-M176,22058883,3,DT00983,29,3,2019,Volvo Motors,Standard-Triumph Motors,Mahindra
+BR2053,DLR0166,Mar-M146,29062869,3,DT00984,1,12,2019,Volvo Motors,Rivian Motors,Maruti Suzuki
+BR2054,DLR0146,Cit-M116,24282477,3,DT00985,5,8,2019,Volvo Motors,Packard Motors,Citroën
+BR2057,DLR0086,For-M26,12706496,2,DT00986,17,3,2019,Volvo Motors,Hummer Motors,Ford
+BR2058,DLR0066,Sko-M273,1490532,1,DT00987,19,11,2019,Volvo Motors,Freightliner Motors,Skoda
+BR2059,DLR0046,BMW-M243,3215803,1,DT00988,24,7,2019,Volvo Motors,DeLorean Motors,BMW
+BR2060,DLR0026,Kia-M213,2493076,1,DT00988,27,3,2019,Volvo Motors,"Austin, Rover Motors",Kia
+BR2061,DLR0207,Ren-M207,12167115,3,DT00989,26,7,2019,Westfield Motors,Westfield Motors,Renault
+BR2062,DLR0187,Mah-M177,10930779,3,DT00989,30,3,2019,Westfield Motors,Studebaker Motors,Mahindra
+BR2063,DLR0167,Mar-M147,11007280,2,DT00990,2,12,2019,Westfield Motors,Rolls-Royce Motors,Maruti Suzuki
+BR2064,DLR0147,Fia-M117,16986690,2,DT00990,6,8,2019,Westfield Motors,Pagani Motors,Fiat
+BR2065,DLR0127,Nis-M87,5761937,1,DT00991,9,4,2019,Westfield Motors,Merkur Motors,Nissan
+BR2067,DLR0087,Lin-M27,25757136,3,DT00992,18,3,2019,Westfield Motors,Hyundai Motors,Lincoln
+BR2068,DLR0067,Sko-M274,24876672,3,DT00992,20,11,2019,Westfield Motors,FSO Motors,Skoda
+BR2070,DLR0027,Kia-M214,8376524,1,DT00993,28,3,2019,Westfield Motors,Bugatti Motors,Kia
+BR2071,DLR0208,Ren-M208,7862894,2,DT00993,27,7,2019,Wiesmann Motors,Wiesmann Motors,Renault
+BR2072,DLR0188,Mah-M178,6483099,3,DT00994,31,3,2019,Wiesmann Motors,Subaru Motors,Mahindra
+BR2075,DLR0128,Nis-M88,5248404,2,DT00994,10,4,2019,Wiesmann Motors,Messerschmitt Motors,Nissan
+BR2077,DLR0088,Lin-M28,7074852,1,DT00995,19,3,2019,Wiesmann Motors,"IFA (including Trabant, Wartburg, Barkas) Motors",Lincoln
+BR2079,DLR0048,BMW-M245,15652146,2,DT00996,26,7,2019,Wiesmann Motors,De Tomaso Motors,BMW
+BR2080,DLR0028,Hon-M215,7528299,1,DT00996,29,3,2019,Wiesmann Motors,Buick Motors,Honda
+BR2082,DLR0189,Tat-M179,8561936,2,DT00997,1,4,2019,Zastava Motors,Sunbeam Motors,Tata
+BR2083,DLR0169,Mar-M149,1021566,1,DT00998,4,12,2019,Zastava Motors,SAIC Motor Motors,Maruti Suzuki
+BR2084,DLR0149,For-M119,7740377,1,DT00998,8,8,2019,Zastava Motors,Panoz Motors,Ford
+BR2085,DLR0129,Nis-M89,8997126,3,DT00999,11,4,2019,Zastava Motors,Mia Motors,Nissan
+BR2087,DLR0089,Lin-M29,26693064,3,DT01000,20,3,2019,Zastava Motors,Infiniti Motors,Lincoln
+BR2088,DLR0069,Mit-M276,14179306,2,DT01000,22,11,2019,Zastava Motors,Geo Motors,Mitsubishi
+BR2089,DLR0049,BMW-M246,8766677,1,DT01001,27,7,2019,Zastava Motors,Dodge Motors,BMW
+BR2090,DLR0029,Hon-M216,1297858,1,DT01002,30,3,2019,Zastava Motors,Bytom Motors,Honda
+BR2091,DLR0210,Ren-M210,15599949,3,DT01002,29,7,2019,ZAZ Motors,ZAZ Motors,Renault
+BR2095,DLR0130,Riv-M90,14384055,3,DT01003,12,4,2019,ZAZ Motors,Micro Motors,Rivian
+BR2097,DLR0090,Lin-M30,26242311,3,DT01003,21,3,2019,ZAZ Motors,,Lincoln
+BR2099,DLR0050,BMW-M247,9946293,3,DT01004,28,7,2019,ZAZ Motors,Donkervoort Motors,BMW
+BR2100,DLR0030,Hon-M217,1794492,1,DT01005,31,3,2019,ZAZ Motors,Cadillac Motors,Honda
+BR2101,DLR0211,Ren-M211,313401,1,DT01005,30,7,2019,ZIL Motors,ZIL Motors,Renault
+BR2103,DLR0171,Mar-M151,19991650,2,DT01006,6,12,2019,ZIL Motors,Samsung Motors,Maruti Suzuki
+BR2104,DLR0151,Mer-M121,9142867,1,DT01006,10,8,2019,ZIL Motors,Peel Motors,Mercedes-Benz
+BR2105,DLR0131,Riv-M91,9851706,3,DT01007,13,4,2019,ZIL Motors,Mini Motors,Rivian
+BR2106,DLR0203,Hyu-M163,19924618,2,DT01007,24,1,2019,Chrysler Europe Motors,Volkswagen Motors,Hyundai
+BR2107,DLR0091,Bui-M31,319035,3,DT01008,22,3,2019,ZIL Motors,Invicta Motors,Buick
+BR2108,DLR0071,BMW-M1,19362792,3,DT01009,24,11,2019,ZIL Motors,Ginetta Motors,BMW
+BR2110,DLR0031,Hon-M218,7084610,1,DT01010,1,4,2019,ZIL Motors,Caterham Motors,Honda
+BR2113,DLR0172,Mar-M152,6702328,2,DT01011,7,12,2019,Audi Motors,San Motors,Maruti Suzuki
+BR2114,DLR0152,Mer-M122,1841594,1,DT01011,11,8,2019,Audi Motors,Perodua Motors,Mercedes-Benz
+BR2115,DLR0132,Sub-M92,18425982,2,DT01012,14,4,2019,Audi Motors,Mitsubishi Motors,Subaru
+BR2117,DLR0092,Cad-M32,17715573,3,DT01012,23,3,2019,Audi Motors,Isdera Motors,Cadillac
+BR2118,DLR0072,BMW-M2,28256700,3,DT01014,25,11,2019,Audi Motors,Glas Motors,BMW
+BR2119,DLR0052,BMW-M249,25246338,3,DT01014,30,7,2019,Audi Motors,e.GO Mobile Motors,BMW
+BR2121,DLR0213,Kia-M213,11571686,2,DT01015,1,8,2019,DKW Motors,DKW Motors,Kia
+BR2122,DLR0193,Tat-M183,19694214,3,DT01016,5,4,2019,DKW Motors,Tazzari Motors,Tata
+BR2123,DLR0173,Hyu-M153,2300537,1,DT01016,8,12,2019,DKW Motors,Santa Matilde Motors,Hyundai
+BR2124,DLR0153,Mer-M123,1880148,1,DT01017,12,8,2019,DKW Motors,Peugeot Motors,Mercedes-Benz
+BR2125,DLR0133,Sub-M93,8790030,1,DT01017,15,4,2019,DKW Motors,Monica Motors,Subaru
+BR2128,DLR0073,BMW-M3,7398601,1,DT01018,26,11,2019,DKW Motors,GMC Motors,BMW
+BR2129,DLR0053,BMW-M250,21557505,3,DT01018,31,7,2019,DKW Motors,Eicher Polaris Motors,BMW
+BR2130,DLR0033,Hon-M220,2203758,1,DT01019,3,4,2019,DKW Motors,Chevrolet Motors,Honda
+BR2131,DLR0214,Kia-M214,6953904,2,DT01020,2,8,2019,Horch Motors,Horch Motors,Kia
+BR2132,DLR0194,Tat-M184,11112984,3,DT01021,6,4,2019,Horch Motors,Tesla Motors,Tata
+BR2133,DLR0174,Hyu-M154,10005932,2,DT01022,9,12,2019,Horch Motors,Santana Motors,Hyundai
+BR2134,DLR0154,Peu-M124,8376690,1,DT01023,13,8,2019,Horch Motors,PGO Motors,Peugeot
+BR2135,DLR0134,Sub-M94,8253262,2,DT01025,16,4,2019,Horch Motors,Monteverdi Motors,Subaru
+BR2137,DLR0094,Cad-M34,19753406,2,DT01026,25,3,2019,Horch Motors,Isotta Fraschini Motors,Cadillac
+BR2138,DLR0074,BMW-M4,531557,1,DT01026,27,11,2019,Horch Motors,GTA Spano Motors,BMW
+BR2139,DLR0054,MG-M251,5596372,2,DT01027,1,8,2019,Horch Motors,Elva Motors,MG
+BR2140,DLR0034,For-M221,18982494,3,DT01028,4,4,2019,Horch Motors,Chevrolet India Motors,Ford
+BR2142,DLR0195,Tat-M185,2368695,1,DT01028,7,4,2019,Wanderer Motors,Tornado Motors,Tata
+BR2143,DLR0175,Hyu-M155,27412863,3,DT01029,10,12,2019,Wanderer Motors,Saturn Motors,Hyundai
+BR2144,DLR0155,Peu-M125,1811252,2,DT01030,14,8,2019,Wanderer Motors,Piaggio Motors,Peugeot
+BR2147,DLR0095,Cad-M35,3814214,1,DT01032,26,3,2019,Wanderer Motors,Isuzu Motors,Cadillac
+BR2148,DLR0075,BMW-M5,311498,2,DT01033,28,11,2019,Wanderer Motors,Gumpert Motors,BMW
+BR2149,DLR0055,MG-M252,8312239,1,DT01034,2,8,2019,Wanderer Motors,Facel Vega Motors,MG
+BR2150,DLR0035,For-M222,1010235,3,DT01035,5,4,2019,Wanderer Motors,Chrysler Motors,Ford
+BR2151,DLR0216,Hon-M216,6813837,1,DT01036,4,8,2019,Maybach  Motors,Maybach  Motors,Honda
+BR2152,DLR0196,Tat-M186,9982652,1,DT01037,8,4,2019,Maybach  Motors,Toyota Motors,Tata
+BR2153,DLR0176,Hyu-M156,7604313,1,DT01037,11,12,2019,Maybach  Motors,Scion Motors,Hyundai
+BR2154,DLR0156,Peu-M126,2947608,2,DT01038,15,8,2019,Maybach  Motors,Plymouth Motors,Peugeot
+BR2155,DLR0136,Tes-M96,11171496,3,DT01039,18,4,2019,Maybach  Motors,Moskwitch Motors,Tesla
+BR2157,DLR0096,Cad-M36,9656742,1,DT01040,27,3,2019,Maybach  Motors,Iveco Motors,Cadillac
+BR2158,DLR0076,Mer-M6,2969225,1,DT01040,29,11,2019,Maybach  Motors,Healey Motors,Mercedes-Benz
+BR2159,DLR0056,Jee-M253,16171560,2,DT01041,3,8,2019,Maybach  Motors,Ferrari Motors,Jeep
+BR2160,DLR0036,For-M223,4417448,2,DT01041,6,4,2019,Maybach  Motors,Chrysler Europe Motors,Ford
+BR2161,DLR0217,Hon-M217,4038996,3,DT01042,5,8,2019,Izh  Motors,Izh  Motors,Honda
+BR2163,DLR0177,Hyu-M157,14791150,2,DT01044,12,12,2019,Izh  Motors,Seat Motors,Hyundai
+BR2164,DLR0157,Ren-M127,18843345,3,DT01044,16,8,2019,Izh  Motors,Polestar Motors,Renault
+BR2165,DLR0137,Tes-M97,26413749,3,DT01045,19,4,2019,Izh  Motors,Nash Motors,Tesla
+BR2166,DLR0204,Hyu-M164,19297413,3,DT01045,25,1,2019,Citroën Motors,Volkswagen do Brasil Motors,Hyundai
+BR2167,DLR0097,Cad-M37,11823756,3,DT01046,28,3,2019,Izh  Motors,Jaguar Motors,Cadillac
+BR2168,DLR0077,Mer-M7,14529736,2,DT01046,30,11,2019,Izh  Motors,Heinkel Motors,Mercedes-Benz
+BR2169,DLR0057,Jee-M254,18615153,3,DT01047,4,8,2019,Izh  Motors,Fiat Motors,Jeep
+BR2170,DLR0037,For-M224,1229389,1,DT01047,7,4,2019,Izh  Motors,Citroën Motors,Ford
+BR2171,DLR0218,Hon-M218,8043585,1,DT01048,6,8,2019,Lagonda  Motors,Lagonda  Motors,Honda
+BR2172,DLR0198,Tat-M188,19494650,2,DT01049,10,4,2019,Lagonda  Motors,Turner Motors,Tata
+BR2173,DLR0178,Hyu-M158,14481660,3,DT01049,13,12,2019,Lagonda  Motors,Shelby SuperCars Motors,Hyundai
+BR2174,DLR0158,Ren-M128,14172508,2,DT01050,17,8,2019,Lagonda  Motors,"Pontiac, Asüna Motors",Renault
+BR2175,DLR0138,Tes-M98,8877463,1,DT01051,20,4,2019,Lagonda  Motors,Naza Motors,Tesla
+BR2177,DLR0098,Cad-M38,1107889,1,DT01052,29,3,2019,Lagonda  Motors,Jeep Motors,Cadillac
+BR2178,DLR0078,Mer-M8,6100968,2,DT01052,1,12,2019,Lagonda  Motors,Hennessey Motors,Mercedes-Benz
+BR2179,DLR0058,Vol-M255,5142062,1,DT01053,5,8,2019,Lagonda  Motors,Fiat do Brasil Motors,Volkswagen
+BR2180,DLR0038,For-M225,10562268,3,DT01053,8,4,2019,Lagonda  Motors,Cizeta-Moroder Motors,Ford
+BR2182,DLR0199,Tat-M189,18590022,2,DT01054,11,4,2019,MG  Motors,TVR Motors,Tata
+BR2183,DLR0179,Hyu-M159,9612495,1,DT01055,14,12,2019,MG  Motors,Simca Motors,Hyundai
+BR2184,DLR0159,Ren-M129,15234825,3,DT01055,18,8,2019,MG  Motors,Porsche Motors,Renault
+BR2185,DLR0139,Lex-M99,20577474,3,DT01056,21,4,2019,MG  Motors,Nissan Motors,Lexus
+BR2187,DLR0099,Cad-M39,554686,2,DT01057,30,3,2019,MG  Motors,Jensen Motors,Cadillac
+BR2188,DLR0079,Dod-M9,9030055,1,DT01057,2,12,2019,MG  Motors,Hillman Motors,Dodge
+BR2190,DLR0039,For-M226,13949298,2,DT01058,9,4,2019,MG  Motors,Dacia Motors,Ford
+BR2191,DLR0220,Hon-M220,5295622,2,DT01060,8,8,2019,Morris  Motors,Morris  Motors,Honda
+BR2192,DLR0200,Tat-M190,26354109,3,DT01060,12,4,2019,Morris  Motors,UAZ Motors,Tata
+BR2195,DLR0140,Toy-M100,15681306,2,DT01062,22,4,2019,Morris  Motors,Nissan India Motors,Toyota
+BR2197,DLR0100,Che-M40,7974634,2,DT01062,31,3,2019,Morris  Motors,JPX Motors,Chevrolet
+BR2198,DLR0080,Jee-M10,10096794,3,DT01063,3,12,2019,Morris  Motors,Hindustan Motors,Jeep
+BR2199,DLR0060,Vol-M257,14595714,2,DT01063,7,8,2019,Morris  Motors,"Fisker, Karma Motors",Volkswagen
+BR2200,DLR0040,Aud-M227,8881768,1,DT01064,10,4,2019,Morris  Motors,"Daewoo, Saehan, Chevrolet Korea Motors",Audi
+BR2201,DLR0221,For-M221,10821420,2,DT01064,9,8,2019,Austin  Motors,Austin  Motors,Ford
+BR2202,DLR0201,Tat-M191,11759934,3,DT01065,13,4,2019,Austin  Motors,Vauxhall Motors,Tata
+BR2204,DLR0161,Ren-M131,13286568,2,DT01065,20,8,2019,Austin  Motors,Proton Motors,Renault
+BR2207,DLR0101,Che-M41,5710352,1,DT01066,1,4,2019,Austin  Motors,Kia Motors,Chevrolet
+BR2208,DLR0081,Jee-M11,25524021,3,DT01066,4,12,2019,Austin  Motors,Holden Motors,Jeep
+BR2210,DLR0041,Aud-M228,14143962,2,DT01067,11,4,2019,Austin  Motors,DAF Motors,Audi
+BR2211,DLR0222,For-M222,6142710,1,DT01067,10,8,2019,Riley  Motors,Riley  Motors,Ford
+BR2213,DLR0182,Hyu-M162,2224314,3,DT01069,17,12,2019,Riley  Motors,Skoda Motors,Hyundai
+BR2214,DLR0162,Ren-M132,4002438,1,DT01069,21,8,2019,Riley  Motors,Puma Motors,Renault
+BR2217,DLR0102,Che-M42,3453486,3,DT01070,2,4,2019,Riley  Motors,Koenigsegg Motors,Chevrolet
+BR2220,DLR0042,Aud-M229,5651109,3,DT01070,12,4,2019,Riley  Motors,Daihatsu Motors,Audi
+BR2221,DLR0223,For-M223,9833386,1,DT01071,11,8,2019,Wolseley  Motors,Wolseley  Motors,Ford
+BR2222,DLR0203,Tat-M193,3333756,2,DT01072,15,4,2019,Wolseley  Motors,Volkswagen Motors,Tata
+BR2223,DLR0183,Hyu-M163,9965784,1,DT01073,18,12,2019,Wolseley  Motors,Smart Motors,Hyundai
+BR2225,DLR0143,Toy-M103,9042719,1,DT01073,25,4,2019,Wolseley  Motors,Oldsmobile Motors,Toyota
+BR2226,DLR0205,Mah-M165,28208490,3,DT01074,26,1,2019,Cizeta-Moroder Motors,Volkswagen South Africa Motors,Mahindra
+BR2229,DLR0063,Vol-M260,5490078,3,DT01075,10,8,2019,Wolseley  Motors,Ford do Brasil Motors,Volkswagen
+BR2230,DLR0043,Aud-M230,18718750,2,DT01075,13,4,2019,Wolseley  Motors,Daimler Motors,Audi
+BR2231,DLR0224,For-M224,7376554,2,DT01078,12,8,2019,Standard  Motors,Standard  Motors,Ford
+BR2232,DLR0204,Tat-M194,16284062,2,DT01078,16,4,2019,Standard  Motors,Volkswagen do Brasil Motors,Tata
+BR2233,DLR0184,Hyu-M164,23998932,3,DT01079,19,12,2019,Standard  Motors,Spyker Motors,Hyundai
+BR2234,DLR0164,Toy-M134,27362391,3,DT01080,23,8,2019,Standard  Motors,Reliant Motors,Toyota
+BR2237,DLR0104,Che-M44,6961332,3,DT01081,4,4,2019,Standard  Motors,Lada Motors,Chevrolet
+BR2239,DLR0064,Nis-M261,1557242,2,DT01081,11,8,2019,Standard  Motors,Ford Europe Motors,Nissan
+BR2240,DLR0044,Aud-M231,19955415,3,DT01082,14,4,2019,Standard  Motors,,Audi
+BR2241,DLR0225,For-M225,25182108,3,DT01082,13,8,2019,Talbot  Motors,Talbot  Motors,Ford
+BR2243,DLR0185,Mah-M165,2298772,1,DT01083,20,12,2019,Talbot  Motors,SsangYong Motors,Mahindra
+BR2244,DLR0165,Vol-M135,5313410,2,DT01083,24,8,2019,Talbot  Motors,Renault Motors,Volkswagen
+BR2245,DLR0145,Toy-M105,8064714,2,DT01084,27,4,2019,Talbot  Motors,Opel Motors,Toyota
+BR2247,DLR0105,Che-M45,4942804,2,DT01084,5,4,2019,Talbot  Motors,Lamborghini Motors,Chevrolet
+BR2248,DLR0085,Ram-M15,5790416,2,DT01085,8,12,2019,Talbot  Motors,Humber Motors,Ram
+BR2250,DLR0045,Aud-M232,1853412,2,DT01086,15,4,2019,Talbot  Motors,Delahaye Motors,Audi
+BR2251,DLR0226,For-M226,2647939,1,DT01087,14,8,2019,Das Motors,Das Motors,Ford
+BR2252,DLR0206,Toy-M196,23525256,3,DT01087,18,4,2019,Das Motors,Volvo Motors,Toyota
+BR2253,DLR0186,Mah-M166,20980833,3,DT01088,21,12,2019,Das Motors,Standard-Triumph Motors,Mahindra
+BR2258,DLR0086,For-M16,5674660,2,DT01089,9,12,2019,Das Motors,Hummer Motors,Ford
+BR2259,DLR0066,Nis-M263,993368,2,DT01089,13,8,2019,Das Motors,Freightliner Motors,Nissan
+BR2260,DLR0046,Aud-M233,226386,2,DT01090,16,4,2019,Das Motors,DeLorean Motors,Audi
+BR2262,DLR0207,Toy-M197,6371231,1,DT01090,19,4,2019,Ramani Motors,Westfield Motors,Toyota
+BR2263,DLR0187,Mah-M167,10059666,2,DT01091,22,12,2019,Ramani Motors,Studebaker Motors,Mahindra
+BR2264,DLR0167,Mar-M137,18789165,3,DT01091,26,8,2019,Ramani Motors,Rolls-Royce Motors,Maruti Suzuki
+BR2267,DLR0107,Che-M47,7556174,2,DT01092,7,4,2019,Ramani Motors,Land Rover Motors,Chevrolet
+BR2270,DLR0047,Aud-M234,7358930,2,DT01093,17,4,2019,Ramani Motors,DeSoto Motors,Audi
+BR2271,DLR0228,Aud-M228,13947502,2,DT01093,16,8,2019,Deccan Motors,Deccan Motors,Audi
+BR2272,DLR0208,Toy-M198,8946299,1,DT01094,20,4,2019,Deccan Motors,Wiesmann Motors,Toyota
+BR2273,DLR0188,Mah-M168,5115269,1,DT01094,23,12,2019,Deccan Motors,Subaru Motors,Mahindra
+BR2275,DLR0148,Vol-M108,17151476,2,DT01095,30,4,2019,Deccan Motors,Panhard Motors,Volkswagen
+BR2277,DLR0108,Che-M48,12594525,3,DT01095,8,4,2019,Deccan Motors,Lexus Motors,Chevrolet
+BR2278,DLR0088,For-M18,27030327,3,DT01096,11,12,2019,Deccan Motors,"IFA (including Trabant, Wartburg, Barkas) Motors",Ford
+BR2280,DLR0048,Aud-M235,23929671,3,DT01096,18,4,2019,Deccan Motors,De Tomaso Motors,Audi
+BR2281,DLR0229,Aud-M229,4030132,1,DT01097,17,8,2019,Herald Motors,Herald Motors,Audi
+BR2282,DLR0209,Toy-M199,10183878,3,DT01098,21,4,2020,Herald Motors,Zastava Motors,Toyota
+BR2283,DLR0189,Mah-M169,12791852,2,DT01099,24,12,2020,Herald Motors,Sunbeam Motors,Mahindra
+BR2284,DLR0169,Mar-M139,14836218,3,DT01099,28,8,2020,Herald Motors,SAIC Motor Motors,Maruti Suzuki
+BR2285,DLR0149,Vol-M109,13073782,2,DT01100,1,5,2020,Herald Motors,Panoz Motors,Volkswagen
+BR2286,DLR0206,Mah-M166,6614970,2,DT01101,27,1,2020,Dacia Motors,Volvo Motors,Mahindra
+BR2287,DLR0109,Che-M49,8888376,3,DT01102,9,4,2020,Herald Motors,Ligier Motors,Chevrolet
+BR2288,DLR0089,For-M19,16436052,2,DT01103,12,12,2020,Herald Motors,Infiniti Motors,Ford
+BR2289,DLR0069,Nis-M266,11307066,3,DT01103,16,8,2020,Herald Motors,Geo Motors,Nissan
+BR2290,DLR0049,Aud-M236,14157891,3,DT01104,19,4,2020,Herald Motors,Dodge Motors,Audi
+BR2291,DLR0230,Aud-M230,1023248,1,DT01105,18,8,2020,Zion Automobils,Zion Automobils,Audi
+BR2293,DLR0190,Mah-M170,9632678,1,DT01105,25,12,2020,Zion Automobils,Suzuki Motors,Mahindra
+BR2295,DLR0150,Vol-M110,16770687,3,DT01106,2,5,2020,Zion Automobils,Panther Motors,Volvo
+BR2297,DLR0110,Che-M50,11484212,2,DT01106,10,4,2020,Zion Automobils,Lincoln Motors,Chevrolet
+BR2300,DLR0050,Aud-M237,5769353,1,DT01107,20,4,2020,Zion Automobils,Donkervoort Motors,Audi
+BR2301,DLR0231,Aud-M231,9805168,2,DT01108,19,8,2020,Atlantic Motor Company,Atlantic Motor Company,Audi
+BR2302,DLR0211,Toy-M201,7763828,1,DT01108,23,4,2020,Atlantic Motor Company,ZIL Motors,Toyota
+BR2303,DLR0191,Mah-M171,6380740,2,DT01109,26,12,2020,Atlantic Motor Company,Tata Motors,Mahindra
+BR2305,DLR0151,Agr-M111,18708022,2,DT01109,3,5,2020,Atlantic Motor Company,Peel Motors,Agrale
+BR2307,DLR0111,Che-M51,15149418,2,DT01110,11,4,2020,Atlantic Motor Company,Lotus Motors,Chevrolet
+BR2308,DLR0091,For-M21,4549470,1,DT01110,14,12,2020,Atlantic Motor Company,Invicta Motors,Ford
+BR2309,DLR0071,Nis-M268,4906052,2,DT01112,18,8,2020,Atlantic Motor Company,Ginetta Motors,Nissan
+BR2310,DLR0051,Aud-M238,6666418,1,DT01112,21,4,2020,Atlantic Motor Company,Edsel Motors,Audi
+BR2312,DLR0212,Toy-M202,8183979,1,DT01113,24,4,2020,2008 NRHP-listed,,Toyota
+BR2313,DLR0192,Mah-M172,4347531,1,DT01113,27,12,2020,2008 NRHP-listed,Tatra Motors,Mahindra
+BR2315,DLR0152,Agr-M112,18804507,3,DT01114,4,5,2020,2008 NRHP-listed,Perodua Motors,Agrale
+BR2317,DLR0112,GMC-M52,8773934,2,DT01114,12,4,2020,2008 NRHP-listed,LTI Motors,GMC
+BR2318,DLR0092,For-M22,29705004,3,DT01115,15,12,2020,2008 NRHP-listed,Isdera Motors,Ford
+BR2319,DLR0072,Nis-M269,11129928,3,DT01116,19,8,2020,2008 NRHP-listed,Glas Motors,Nissan
+BR2320,DLR0052,Aud-M239,5651517,3,DT01117,22,4,2020,2008 NRHP-listed,e.GO Mobile Motors,Audi
+BR2321,DLR0233,Aud-M233,11278020,3,DT01118,21,8,2020,Blankinship Motor Company Building,Blankinship Motor Company Building,Audi
+BR2322,DLR0213,Toy-M203,29924316,3,DT01118,25,4,2020,Blankinship Motor Company Building,DKW Motors,Toyota
+BR2323,DLR0193,Mah-M173,6271301,1,DT01119,28,12,2020,Blankinship Motor Company Building,Tazzari Motors,Mahindra
+BR2324,DLR0173,Mar-M143,10866874,2,DT01120,1,9,2020,Blankinship Motor Company Building,Santa Matilde Motors,Maruti Suzuki
+BR2327,DLR0113,GMC-M53,7221195,1,DT01120,13,4,2020,Blankinship Motor Company Building,LuAZ Motors,GMC
+BR2329,DLR0073,Nis-M270,6214775,1,DT01121,20,8,2020,Blankinship Motor Company Building,GMC Motors,Nissan
+BR2330,DLR0053,Aud-M240,21747525,3,DT01121,23,4,2020,Blankinship Motor Company Building,Eicher Polaris Motors,Audi
+BR2331,DLR0234,Aud-M234,26563497,3,DT01122,22,8,2020,Bohn Motor Company Automobile Dealership,Bohn Motor Company Automobile Dealership,Audi
+BR2332,DLR0214,Toy-M204,17533466,2,DT01124,26,4,2020,Bohn Motor Company Automobile Dealership,Horch Motors,Toyota
+BR2334,DLR0174,Mar-M144,18752160,3,DT01125,2,9,2020,Bohn Motor Company Automobile Dealership,Santana Motors,Maruti Suzuki
+BR2335,DLR0154,Che-M114,28867227,3,DT01127,6,5,2020,Bohn Motor Company Automobile Dealership,PGO Motors,Chevrolet
+BR2337,DLR0114,GMC-M54,6329743,1,DT01128,14,4,2020,Bohn Motor Company Automobile Dealership,Lynx Motors,GMC
+BR2338,DLR0094,For-M24,18592218,3,DT01128,17,12,2020,Bohn Motor Company Automobile Dealership,Isotta Fraschini Motors,Ford
+BR2339,DLR0074,Sko-M271,5064801,1,DT01129,21,8,2020,Bohn Motor Company Automobile Dealership,GTA Spano Motors,Skoda
+BR2340,DLR0054,Aud-M241,7111275,1,DT01129,24,4,2020,Bohn Motor Company Automobile Dealership,Elva Motors,Audi
+BR2341,DLR0235,Aud-M235,4900328,1,DT01130,23,8,2020,Buick Automobile Company Building,Buick Automobile Company Building,Audi
+BR2342,DLR0215,Toy-M205,3184412,1,DT01131,27,4,2020,Buick Automobile Company Building,Wanderer Motors,Toyota
+BR2344,DLR0175,Mar-M145,15286122,3,DT01132,3,9,2020,Buick Automobile Company Building,Saturn Motors,Maruti Suzuki
+BR2345,DLR0155,Cit-M115,17266956,2,DT01132,7,5,2020,Buick Automobile Company Building,Piaggio Motors,Citroën
+BR2346,DLR0207,Mah-M167,4767401,1,DT01133,28,1,2020,"Daewoo, Saehan, Chevrolet Korea Motors",Westfield Motors,Mahindra
+BR2347,DLR0115,GMC-M55,1156044,1,DT01133,15,4,2020,Buick Automobile Company Building,Mahindra Motors,GMC
+BR2348,DLR0095,For-M25,4242946,2,DT01134,18,12,2020,Buick Automobile Company Building,Isuzu Motors,Ford
+BR2350,DLR0055,BMW-M242,1772823,3,DT01135,25,4,2020,Buick Automobile Company Building,Facel Vega Motors,BMW
+BR2351,DLR0236,Aud-M236,17972157,3,DT01135,24,8,2020,Cadillac Automobile Company Building,Cadillac Automobile Company Building,Audi
+BR2352,DLR0216,Toy-M206,13386544,2,DT01136,28,4,2020,Cadillac Automobile Company Building,Maybach  Motors,Toyota
+BR2353,DLR0196,Mah-M176,7236359,1,DT01136,31,12,2020,Cadillac Automobile Company Building,Toyota Motors,Mahindra
+BR2355,DLR0156,Cit-M116,18011674,2,DT01137,8,5,2020,Cadillac Automobile Company Building,Plymouth Motors,Citroën
+BR2357,DLR0116,GMC-M56,7530236,1,DT01137,16,4,2020,Cadillac Automobile Company Building,Marcos Motors,GMC
+BR2358,DLR0096,For-M26,6105596,2,DT01138,19,12,2020,Cadillac Automobile Company Building,Iveco Motors,Ford
+BR2359,DLR0076,Sko-M273,1627572,3,DT01138,23,8,2020,Cadillac Automobile Company Building,Healey Motors,Skoda
+BR2360,DLR0056,BMW-M243,17444340,3,DT01139,26,4,2020,Cadillac Automobile Company Building,Ferrari Motors,BMW
+BR2361,DLR0237,Aud-M237,10920946,2,DT01140,25,8,2020,Casa de cadillac,Casa de cadillac,Audi
+BR2362,DLR0217,Ren-M207,6457651,1,DT01140,29,4,2020,Casa de cadillac,Izh  Motors,Renault
+BR2367,DLR0117,GMC-M57,15644564,2,DT01141,17,4,2020,Casa de cadillac,Marlin Motors,GMC
+BR2368,DLR0097,Lin-M27,6337284,2,DT01142,20,12,2020,Casa de cadillac,Jaguar Motors,Lincoln
+BR2369,DLR0077,Sko-M274,8371844,1,DT01143,24,8,2020,Casa de cadillac,Heinkel Motors,Skoda
+BR2370,DLR0057,BMW-M244,1498461,1,DT01143,27,4,2020,Casa de cadillac,Fiat Motors,BMW
+BR2371,DLR0238,Aud-M238,3440078,2,DT01144,26,8,2020,Cass Motor Sales,Cass Motor Sales,Audi
+BR2372,DLR0218,Ren-M208,5259795,3,DT01144,30,4,2020,Cass Motor Sales,Lagonda  Motors,Renault
+BR2374,DLR0178,Mar-M148,16494576,2,DT01145,6,9,2020,Cass Motor Sales,Shelby SuperCars Motors,Maruti Suzuki
+BR2375,DLR0158,Fia-M118,7855838,1,DT01145,10,5,2020,Cass Motor Sales,"Pontiac, Asüna Motors",Fiat
+BR2377,DLR0118,GMC-M58,11048511,3,DT01146,18,4,2020,Cass Motor Sales,Maruti Motors,GMC
+BR2378,DLR0098,Lin-M28,20192148,3,DT01146,21,12,2020,Cass Motor Sales,Jeep Motors,Lincoln
+BR2380,DLR0058,BMW-M245,3241882,2,DT01147,28,4,2020,Cass Motor Sales,Fiat do Brasil Motors,BMW
+BR2382,DLR0219,Ren-M209,7833314,1,DT01147,1,5,2020,Claremore Auto Dealership,MG  Motors,Renault
+BR2383,DLR0199,Tat-M179,13747540,2,DT01148,3,1,2020,Claremore Auto Dealership,TVR Motors,Tata
+BR2384,DLR0179,Mar-M149,28905498,3,DT01148,7,9,2020,Claremore Auto Dealership,Simca Motors,Maruti Suzuki
+BR2385,DLR0159,For-M119,2413373,1,DT01149,11,5,2020,Claremore Auto Dealership,Porsche Motors,Ford
+BR2388,DLR0099,Lin-M29,3396379,1,DT01150,22,12,2020,Claremore Auto Dealership,Jensen Motors,Lincoln
+BR2389,DLR0079,Mit-M276,8997454,1,DT01151,26,8,2020,Claremore Auto Dealership,Hillman Motors,Mitsubishi
+BR2391,DLR0240,Aud-M240,16855406,2,DT01151,28,8,2020,Clemens Automobile Company Building,Clemens Automobile Company Building,Audi
+BR2392,DLR0220,Ren-M210,9108088,1,DT01152,2,5,2020,Clemens Automobile Company Building,Morris  Motors,Renault
+BR2393,DLR0200,Tat-M180,4533032,1,DT01153,4,1,2020,Clemens Automobile Company Building,UAZ Motors,Tata
+BR2394,DLR0180,Mar-M150,2023916,1,DT01154,8,9,2020,Clemens Automobile Company Building,Simca do Brasil Motors,Maruti Suzuki
+BR2395,DLR0160,Hon-M120,19441050,2,DT01154,12,5,2020,Clemens Automobile Company Building,Premier Motors,Honda
+BR2399,DLR0080,Mit-M277,19086794,2,DT01155,27,8,2020,Clemens Automobile Company Building,Hindustan Motors,Mitsubishi
+BR2401,DLR0241,Aud-M241,6911454,2,DT01156,29,8,2020,Colman Automotive Building,Colman Automotive Building,Audi
+BR2402,DLR0221,Ren-M211,2563293,1,DT01157,3,5,2020,Colman Automotive Building,Austin  Motors,Renault
+BR2404,DLR0181,Mar-M151,9180803,1,DT01158,9,9,2020,Colman Automotive Building,Singer Motors,Maruti Suzuki
+BR2405,DLR0161,Mer-M121,2583356,2,DT01159,13,5,2020,Colman Automotive Building,Proton Motors,Mercedes-Benz
+BR2406,DLR0208,Mah-M168,28263645,3,DT01160,29,1,2020,DAF Motors,Wiesmann Motors,Mahindra
+BR2407,DLR0121,Acu-M61,9777657,1,DT01160,21,4,2020,Colman Automotive Building,"Matra (including Deutsch-Bonnet, René Bonnet) Motors",Acura
+BR2409,DLR0081,BMW-M1,1192682,2,DT01161,28,8,2020,Colman Automotive Building,Holden Motors,BMW
+BR2410,DLR0061,BMW-M248,1996961,1,DT01162,1,5,2020,Colman Automotive Building,Ford America Motors,BMW
+BR2411,DLR0242,BMW-M242,17126070,3,DT01162,30,8,2020,H Street Playhouse,H Street Playhouse,BMW
+BR2412,DLR0222,Kia-M212,13360260,3,DT01163,4,5,2020,H Street Playhouse,Riley  Motors,Kia
+BR2414,DLR0182,Mar-M152,23012124,3,DT01164,10,9,2020,H Street Playhouse,Skoda Motors,Maruti Suzuki
+BR2415,DLR0162,Mer-M122,10879764,3,DT01164,14,5,2020,H Street Playhouse,Puma Motors,Mercedes-Benz
+BR2417,DLR0122,Acu-M62,13804728,2,DT01165,22,4,2020,H Street Playhouse,Mazda Motors,Acura
+BR2419,DLR0082,BMW-M2,14197656,3,DT01167,29,8,2020,H Street Playhouse,Honda Motors,BMW
+BR2420,DLR0062,BMW-M249,2428393,1,DT01167,2,5,2020,H Street Playhouse,Ford Australia Motors,BMW
+BR2421,DLR0243,BMW-M243,1739244,3,DT01168,31,8,2020,Howard Motor Company Building,Howard Motor Company Building,BMW
+BR2423,DLR0203,Tat-M183,5565960,1,DT01168,7,1,2020,Howard Motor Company Building,Volkswagen Motors,Tata
+BR2427,DLR0123,Acu-M63,1781776,1,DT01169,23,4,2020,Howard Motor Company Building,Mazzanti Motors,Acura
+BR2428,DLR0103,Cad-M33,18247482,3,DT01169,26,12,2020,Howard Motor Company Building,KTM Motors,Cadillac
+BR2429,DLR0083,BMW-M3,9743532,3,DT01170,30,8,2020,Howard Motor Company Building,Honda India Motors,BMW
+BR2431,DLR0244,BMW-M244,4934636,1,DT01170,1,9,2020,Hupmobile Building,Hupmobile Building,BMW
+BR2433,DLR0204,Tat-M184,140515,1,DT01172,8,1,2020,Hupmobile Building,Volkswagen do Brasil Motors,Tata
+BR2437,DLR0124,Hon-M64,4315629,3,DT01172,24,4,2020,Hupmobile Building,McLaren Motors,Honda
+BR2438,DLR0104,Cad-M34,22956252,3,DT01173,27,12,2020,Hupmobile Building,Lada Motors,Cadillac
+BR2439,DLR0084,BMW-M4,17445024,3,DT01174,31,8,2020,Hupmobile Building,Hudson Motors,BMW
+BR2440,DLR0064,MG-M251,14491058,2,DT01174,4,5,2020,Hupmobile Building,Ford Europe Motors,MG
+BR2441,DLR0245,BMW-M245,24211491,3,DT01175,2,9,2020,Jennings Ford Automobile Dealership,Jennings Ford Automobile Dealership,BMW
+BR2443,DLR0205,Tat-M185,2272794,3,DT01175,9,1,2020,Jennings Ford Automobile Dealership,Volkswagen South Africa Motors,Tata
+BR2444,DLR0185,Hyu-M155,3970176,2,DT01176,13,9,2020,Jennings Ford Automobile Dealership,SsangYong Motors,Hyundai
+BR2445,DLR0165,Peu-M125,4188963,1,DT01176,17,5,2020,Jennings Ford Automobile Dealership,Renault Motors,Peugeot
+BR2447,DLR0125,Hon-M65,24556629,3,DT01178,25,4,2020,Jennings Ford Automobile Dealership,Mercedes-Benz (including Maybach) Motors,Honda
+BR2448,DLR0105,Cad-M35,4116309,3,DT01179,28,12,2020,Jennings Ford Automobile Dealership,Lamborghini Motors,Cadillac
+BR2449,DLR0085,BMW-M5,18661467,3,DT01179,1,9,2020,Jennings Ford Automobile Dealership,Humber Motors,BMW
+BR2450,DLR0065,MG-M252,5979549,1,DT01180,5,5,2020,Jennings Ford Automobile Dealership,Ford India Motors,MG
+BR2451,DLR0246,BMW-M246,1050883,1,DT01180,3,9,2020,Jones Motor Company,Jones Motor Company,BMW
+BR2452,DLR0226,Hon-M216,13442598,2,DT01181,8,5,2020,Jones Motor Company,Das Motors,Honda
+BR2454,DLR0186,Hyu-M156,10644934,2,DT01181,14,9,2020,Jones Motor Company,Standard-Triumph Motors,Hyundai
+BR2455,DLR0166,Peu-M126,23079612,3,DT01182,18,5,2020,Jones Motor Company,Rivian Motors,Peugeot
+BR2457,DLR0126,Hon-M66,8981081,1,DT01182,26,4,2020,Jones Motor Company,Mercury Motors,Honda
+BR2460,DLR0066,Jee-M253,3309294,2,DT01183,6,5,2020,Jones Motor Company,Freightliner Motors,Jeep
+BR2462,DLR0227,Hon-M217,7757426,2,DT01183,9,5,2020,Kindel Building,Ramani Motors,Honda
+BR2463,DLR0207,Tat-M187,19756430,2,DT01184,11,1,2020,Kindel Building,Westfield Motors,Tata
+BR2464,DLR0187,Hyu-M157,11152924,2,DT01184,15,9,2020,Kindel Building,Studebaker Motors,Hyundai
+BR2467,DLR0127,Hon-M67,9819030,2,DT01185,27,4,2020,Kindel Building,Merkur Motors,Honda
+BR2468,DLR0107,Cad-M37,3108616,1,DT01185,30,12,2020,Kindel Building,Land Rover Motors,Cadillac
+BR2469,DLR0087,Mer-M7,1600510,2,DT01186,3,9,2020,Kindel Building,Hyundai Motors,Mercedes-Benz
+BR2470,DLR0067,Jee-M254,2050218,3,DT01186,7,5,2020,Kindel Building,FSO Motors,Jeep
+BR2526,DLR0210,Mah-M170,14716257,3,DT01187,31,1,2020,Daimler Motors,ZAZ Motors,Mahindra
+BR2586,DLR0211,Mah-M171,9868520,1,DT01187,1,2,2020,Datsun Motors,ZIL Motors,Mahindra
+BR2646,DLR0212,Mah-M172,9820202,1,DT01189,2,2,2020,Delahaye Motors,,Mahindra
+BR2706,DLR0213,Mah-M173,19708557,3,DT01189,3,2,2020,DeLorean Motors,DKW Motors,Mahindra
+BR2766,DLR0214,Mah-M174,5427166,1,DT01190,4,2,2020,DeSoto Motors,Horch Motors,Mahindra
+BR2886,DLR0216,Mah-M176,9203891,1,DT01191,6,2,2020,Dodge Motors,Maybach  Motors,Mahindra
+BR2946,DLR0217,Mah-M177,15240213,3,DT01191,7,2,2020,Donkervoort Motors,Izh  Motors,Mahindra
+BR3006,DLR0218,Mah-M178,7776326,1,DT01192,8,2,2020,Edsel Motors,Lagonda  Motors,Mahindra
+BR3066,DLR0219,Tat-M179,7996640,2,DT01192,9,2,2020,e.GO Mobile Motors,MG  Motors,Tata
+BR3186,DLR0221,Tat-M181,2295360,1,DT01193,11,2,2020,Elva Motors,Austin  Motors,Tata
+BR3246,DLR0222,Tat-M182,16485056,2,DT01193,12,2,2020,Facel Vega Motors,Riley  Motors,Tata
+BR3306,DLR0223,Tat-M183,10765934,2,DT01194,13,2,2020,Ferrari Motors,Wolseley  Motors,Tata
+BR3426,DLR0225,Tat-M185,2642509,1,DT01195,15,2,2020,Fiat do Brasil Motors,Talbot  Motors,Tata
+BR3546,DLR0227,Tat-M187,21399438,3,DT01195,17,2,2020,"Fisker, Karma Motors",Ramani Motors,Tata
+BR3606,DLR0228,Tat-M188,7469629,1,DT01196,18,2,2020,Ford America Motors,Deccan Motors,Tata
+BR3666,DLR0229,Tat-M189,13010454,2,DT01196,19,2,2020,Ford Australia Motors,Herald Motors,Tata
+BR3726,DLR0230,Tat-M190,24662301,3,DT01197,20,2,2020,Ford do Brasil Motors,Zion Automobils,Tata
+BR3786,DLR0231,Tat-M191,3216435,3,DT01197,21,2,2020,Ford Europe Motors,Atlantic Motor Company,Tata
+BR3906,DLR0233,Tat-M193,2525202,3,DT01198,23,2,2020,Freightliner Motors,Blankinship Motor Company Building,Tata
+BR3966,DLR0234,Tat-M194,2842308,3,DT01198,24,2,2020,FSO Motors,Bohn Motor Company Automobile Dealership,Tata
+BR4026,DLR0235,Toy-M195,9181555,1,DT01199,25,2,2020,GAZ Motors,Buick Automobile Company Building,Toyota
+BR4086,DLR0236,Toy-M196,8914250,1,DT01199,26,2,2020,Geo Motors,Cadillac Automobile Company Building,Toyota
+BR4146,DLR0237,Toy-M197,5805602,1,DT01200,27,2,2020,Gilbern Motors,Casa de cadillac,Toyota
+BR4266,DLR0239,Toy-M199,8004269,1,DT01200,1,3,2020,Glas Motors,Claremore Auto Dealership,Toyota
+BR4386,DLR0241,Toy-M201,2523098,2,DT01201,3,3,2020,GTA Spano Motors,Colman Automotive Building,Toyota
+BR4446,DLR0242,Toy-M202,2015710,1,DT01201,4,3,2020,Gumpert Motors,H Street Playhouse,Toyota
+BR4566,DLR0244,Toy-M204,5885517,3,DT01202,6,3,2020,Heinkel Motors,Hupmobile Building,Toyota
+BR4626,DLR0245,Toy-M205,12723726,2,DT01202,7,3,2020,Hennessey Motors,Jennings Ford Automobile Dealership,Toyota
+BR4686,DLR0246,Toy-M206,29237313,3,DT01203,8,3,2020,Hillman Motors,Jones Motor Company,Toyota
+BR4746,DLR0247,Ren-M207,7152297,3,DT01204,9,3,2020,Hindustan Motors,Kindel Building,Renault
+BR4806,DLR0248,Ren-M208,8393822,1,DT01204,10,3,2020,Holden Motors,AC Cars Motors,Renault
+BR4926,DLR0250,Ren-M210,3816910,1,DT01205,12,3,2020,Honda India Motors,Aixam-Mega (including Arola) Motors,Renault
+BR4986,DLR0251,Ren-M211,20137029,3,DT01205,13,3,2020,Hudson Motors,Alfa Romeo Motors,Renault
+BR5046,DLR0252,Kia-M212,2136358,1,DT01206,14,3,2020,Humber Motors,Alpine Motors,Kia
+BR5106,DLR0253,Kia-M213,19993293,3,DT01206,15,3,2020,Hummer Motors,Alvis Motors,Kia
+BR5226,DLR0255,Hon-M215,2688075,3,DT01207,17,3,2020,"IFA (including Trabant, Wartburg, Barkas) Motors",Anadol Motors,Honda
+BR5346,DLR0257,Hon-M217,15763710,2,DT01207,19,3,2020,Innocenti Motors,ARO Motors,Honda
+BR5406,DLR0258,Hon-M218,20585610,3,DT01208,20,3,2020,Invicta Motors,,Honda
+BR5466,DLR0259,Hon-M219,29960037,3,DT01208,21,3,2020,Isdera Motors,Asia Motors Motors,Honda
+BR5586,DLR0261,For-M221,18848868,2,DT01209,23,3,2020,Isotta Fraschini Motors,Audi Motors,Ford
+BR5646,DLR0262,For-M222,9899360,1,DT01210,24,3,2020,Isuzu Motors,Autobianchi Motors,Ford
+BR5706,DLR0263,For-M223,3796026,3,DT01211,25,3,2020,Iveco Motors,Auto-Union Motors,Ford
+BR5826,DLR0265,For-M225,5408464,1,DT01211,27,3,2020,Jeep Motors,Bentley Motors,Ford
+BR5886,DLR0266,For-M226,1832463,1,DT01212,28,3,2020,Jensen Motors,Bitter Motors,Ford
+BR5946,DLR0267,Aud-M227,389981,1,DT01213,29,3,2020,JPX Motors,BMW Motors,Audi
+BR6006,DLR0001,Aud-M228,5184332,1,DT01213,30,3,2020,Kia Motors,AC Cars Motors,Audi
+BR6066,DLR0002,Aud-M229,4383190,2,DT01214,31,3,2020,Koenigsegg Motors,Acura Motors,Audi
+BR6126,DLR0003,Aud-M230,481608,3,DT01216,1,4,2020,KTM Motors,Aixam-Mega (including Arola) Motors,Audi
+BR6186,DLR0004,Aud-M231,6037333,1,DT01217,2,4,2020,Lada Motors,Alfa Romeo Motors,Audi
+BR6246,DLR0005,Aud-M232,2942646,2,DT01217,3,4,2020,Lamborghini Motors,Alpine Motors,Audi
+BR6306,DLR0006,Aud-M233,3583528,2,DT01218,4,4,2020,Lancia Motors,Alvis Motors,Audi
+BR6366,DLR0007,Aud-M234,19516300,2,DT01218,5,4,2020,Land Rover Motors,"AMC, Eagle Motors",Audi
+BR6426,DLR0008,Aud-M235,1962018,2,DT01219,6,4,2020,Lexus Motors,Anadol Motors,Audi
+BR6486,DLR0009,Aud-M236,14356532,2,DT01220,7,4,2020,Ligier Motors,Ariel Motors,Audi
+BR6546,DLR0010,Aud-M237,28109448,3,DT01220,8,4,2020,Lincoln Motors,ARO Motors,Audi
+BR6606,DLR0011,Aud-M238,8242881,3,DT01221,9,4,2020,Lotus Motors,Artega Motors,Audi
+BR6786,DLR0014,Aud-M241,8995284,3,DT01222,12,4,2020,Lynx Motors,Audi Motors,Audi
+BR6846,DLR0015,BMW-M242,834966,1,DT01222,13,4,2020,Mahindra Motors,Autobianchi Motors,BMW
+BR6966,DLR0017,BMW-M244,6274137,1,DT01223,15,4,2020,Marlin Motors,Auverland Motors,BMW
+BR7026,DLR0018,BMW-M245,1996244,1,DT01223,16,4,2020,Maruti Motors,Bentley Motors,BMW
+BR7146,DLR0020,BMW-M247,18775617,3,DT01224,18,4,2020,Mastretta Motors,BMW Motors,BMW
+BR7266,DLR0022,BMW-M249,17412957,3,DT01225,20,4,2020,Mazda Motors,Borgward (including Goliath and Lloyd) Motors,BMW
+BR7326,DLR0023,BMW-M250,3669774,1,DT01226,21,4,2020,Mazzanti Motors,Bristol Motors,BMW
+BR7386,DLR0024,MG-M251,1355190,2,DT01226,22,4,2020,McLaren Motors,British Leyland Motors,MG
+BR7446,DLR0025,MG-M252,3552093,3,DT01227,23,4,2020,Mercedes-Benz (including Maybach) Motors,Austin-Healey Motors,MG
+BR7506,DLR0026,Jee-M253,13876546,2,DT01227,24,4,2020,Mercury Motors,"Austin, Rover Motors",Jeep
+BR7686,DLR0029,Vol-M256,471533,1,DT01228,27,4,2020,Mia Motors,Bytom Motors,Volkswagen
+BR7746,DLR0030,Vol-M257,14482858,2,DT01228,28,4,2020,Micro Motors,Cadillac Motors,Volkswagen
+BR7806,DLR0031,Vol-M258,11927904,3,DT01229,29,4,2020,Mini Motors,Caterham Motors,Volkswagen
+BR7866,DLR0032,Vol-M259,16886348,2,DT01229,30,4,2020,Mitsubishi Motors,Checker Motors,Volkswagen
+BR7926,DLR0033,Vol-M260,19550380,2,DT01230,1,5,2020,Monica Motors,Chevrolet Motors,Volkswagen
+BR7986,DLR0034,Nis-M261,17277864,3,DT01230,2,5,2020,Monteverdi Motors,Chevrolet India Motors,Nissan
+BR8046,DLR0035,Nis-M262,18919476,2,DT01231,3,5,2020,Morgan Motors,Chrysler Motors,Nissan
+BR8106,DLR0036,Nis-M263,16518360,2,DT01232,4,5,2020,Moskwitch Motors,Chrysler Europe Motors,Nissan
+BR8226,DLR0038,Nis-M265,9128122,2,DT01233,6,5,2020,Naza Motors,Cizeta-Moroder Motors,Nissan
+BR8286,DLR0039,Nis-M266,22319748,3,DT01234,7,5,2020,Nissan Motors,Dacia Motors,Nissan
+BR8406,DLR0041,Nis-M268,7003696,1,DT01236,9,5,2020,Noble Motors,DAF Motors,Nissan
+BR8466,DLR0042,Nis-M269,4068964,1,DT01236,10,5,2020,NSU Motors,Daihatsu Motors,Nissan
+BR8586,DLR0044,Sko-M271,17998402,2,DT01237,12,5,2020,Oltcit Motors,,Skoda
+BR8646,DLR0045,Sko-M272,18672717,3,DT01237,13,5,2020,Opel Motors,Delahaye Motors,Skoda
+BR8706,DLR0046,Sko-M273,6318758,2,DT01238,14,5,2020,Packard Motors,DeLorean Motors,Skoda
+BR8766,DLR0047,Sko-M274,5507437,1,DT01238,15,5,2020,Pagani Motors,DeSoto Motors,Skoda
+BR8826,DLR0048,Mit-M275,2528334,2,DT01239,16,5,2020,Panhard Motors,De Tomaso Motors,Mitsubishi
+BR8886,DLR0049,Mit-M276,3302523,1,DT01239,17,5,2020,Panoz Motors,Dodge Motors,Mitsubishi
+BR8946,DLR0050,Mit-M277,19257888,3,DT01241,18,5,2020,Panther Motors,Donkervoort Motors,Mitsubishi
+BR9066,DLR0052,BMW-M2,27599916,3,DT01242,20,5,2020,Perodua Motors,e.GO Mobile Motors,BMW
+BR9126,DLR0053,BMW-M3,3120257,1,DT01243,21,5,2020,Peugeot Motors,Eicher Polaris Motors,BMW
+BR9186,DLR0054,BMW-M4,7038770,2,DT01243,22,5,2020,PGO Motors,Elva Motors,BMW
+BR9246,DLR0055,BMW-M5,310377,1,DT01244,23,5,2020,Piaggio Motors,Facel Vega Motors,BMW
+BR9306,DLR0056,Mer-M6,13147494,3,DT01244,24,5,2020,Plymouth Motors,Ferrari Motors,Mercedes-Benz
+BR9426,DLR0058,Mer-M8,6880572,3,DT01245,26,5,2020,"Pontiac, Asüna Motors",Fiat do Brasil Motors,Mercedes-Benz

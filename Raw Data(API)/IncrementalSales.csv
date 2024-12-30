@@ -1,0 +1,5 @@
+Branch_ID,Dealer_ID,Model_ID,Revenue,Units_Sold,Date_ID,Day,Month,Year,BranchName,DealerName,Product_Name
+BR9546,DLR0060,Jee-M10,7223451,1,DT01246,28,5,2020,Premier Motors,"Fisker, Karma Motors",Jeep
+BR9666,DLR0062,Jee-M12,22093020,3,DT01246,30,5,2020,Puma Motors,Ford Australia Motors,Jeep
+BR9726,DLR0063,Jee-M13,22372413,3,DT01247,31,5,2020,Power Ranger Motors,Ford do Brasil Motors,Jeep
+XYZ9726,XYZ0063,ZYXM13,22372413,3,DT01247,31,5,2020,DataFam Motors,Datafam Dealers,Surprise
