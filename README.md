@@ -1,4 +1,4 @@
-# CarSales Real-Time Data Project
+# CarSales Data Project
 
 ## Project Overview
 This project demonstrates the development of a scalable, real-time data pipeline leveraging Microsoft Azure's cloud capabilities. The pipeline is designed to efficiently handle **incremental data loads** within defined time windows, ensuring seamless data ingestion, transformation, and reporting for real-time analytics.
